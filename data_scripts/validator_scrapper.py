@@ -69,7 +69,7 @@ if response.status_code == 200:
         free_spaces.append(free_space)
 
         # Extract number of delegators
-        delegators_count = validator.find("td", class_="relative text-left font-light").get_text(strip=True)[:-139]
+        delegators_count = validator.find("td", class_="relative text-left font-light").get_text(strip=True).split("This validator will not earn rewards for itself or its delegators as it either does not run an FTSO data provider or it is underperforming.")[0]
         delegators_count = delegators_count.replace(',', '')
         delegators.append(delegators_count)
 
