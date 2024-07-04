@@ -1,0 +1,17 @@
+# Standard libraries
+pandas
+matplotlib
+numpy
+time
+datetime
+scipy
+# Data scrapping
+requests
+# Config files
+json
+# Paths in notebooks
+sys
+os
+# Crypto prices
+yfinance
+ccxt
