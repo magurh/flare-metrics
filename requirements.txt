@@ -7,6 +7,7 @@ datetime
 scipy
 # Data scrapping
 requests
+bs4
 # Config files
 json
 # Paths in notebooks
