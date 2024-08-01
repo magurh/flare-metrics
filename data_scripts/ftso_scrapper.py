@@ -5,14 +5,14 @@ from bs4 import BeautifulSoup
 
 # Define paths
 data_folder = os.path.join(os.path.dirname(__file__), '..', 'data')
-txt_file_path = os.path.join(data_folder, 'flare_validators.txt')
-csv_file_path = os.path.join(data_folder, 'flare_validators_df.csv')
+txt_file_path = os.path.join(data_folder, 'flare_ftso.txt')
+csv_file_path = os.path.join(data_folder, 'flare_ftso_df.csv')
 
 # Create data folder if it doesn't exist
 os.makedirs(data_folder, exist_ok=True)
 
 # URL of the validators page
-url = "https://flaremetrics.io/validators"
+url = "https://flaremetrics.io"
 
 # Send a GET request to the page
 response = requests.get(url)
@@ -31,7 +31,6 @@ if response.status_code == 200:
     
     # Initialize lists to store the data
     addresses = []
-    names = []
     uptimes = []
     fees = []
     delegators = []
@@ -44,14 +43,9 @@ if response.status_code == 200:
         # Extract validator address
         address = validator.find("div", class_="text-ellipsis overflow-hidden text-xs opacity-70").get_text(strip=True)
         addresses.append(address)
-
-        # Extract registered name
-        name = validator.find("div", class_="flex items-center gap-x-2 font-semibold").get_text(strip=True)
-        names.append(name)
         
         # Extract validator uptime
         uptime = validator.find("td", class_="text-left font-light pr-2").get_text(strip=True)
-        uptime = uptime.replace('%', '')
         uptimes.append(uptime)
         
         # Extract total stake
@@ -86,14 +80,13 @@ if response.status_code == 200:
     # Create a DataFrame
     data = {
         'Address': addresses,
-        'Name': names,
         'Total Stake': total_stakes,
         'Owner Stake': owner_stakes,
         'Delegators Stake': delegators_stakes,
         'Free Space': free_spaces,
         'Delegators': delegators,
-        'Uptime %': uptimes,
-        'Fee %': fees
+        'Uptime': uptimes,
+        'Fee': fees
     }
     
     flare_metrics_df = pd.DataFrame(data)

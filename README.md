@@ -1,5 +1,10 @@
 # Flare Metrics
 
+A set of tools for web-scrapping [flare-metrics.io](flare-metrics.io) and analysing Flare Network's data providers.
+
+- [x] Validator data
+- [ ] FTSO data
+
 
 ### Setup
 ----------------------------
