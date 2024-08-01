@@ -27,66 +27,70 @@ if response.status_code == 200:
         file.write(soup.prettify())
     
     # Find all validator entries
-    validators = soup.find_all("tr", class_="h-16 border-y border-gray-100 dark:border-gray-600 text-sm font-medium md:hover:bg-gray-50 md:dark:hover:bg-gray-700")  # Adjust the class name if necessary
-    
+    ftsos = soup.find_all("tr", class_="h-12 border-y border-gray-100 dark:border-gray-600 text-sm font-medium md:hover:bg-gray-50 md:dark:hover:bg-gray-700")  # Adjust the class name if necessary
+
     # Initialize lists to store the data
-    addresses = []
-    uptimes = []
+    names = []
+    active_vote_powers = []
+    locked_vote_powers = []
+    locked_vote_power_percentages = []
+    active_vote_power_percentages = []
+    reward_rates = []
+    IQR_rates_6h = []
+    elastic_rates_6h = []
+    availabilities = []
     fees = []
-    delegators = []
-    owner_stakes = []
-    delegators_stakes = []
-    free_spaces = []
-    total_stakes = []
-    
-    for validator in validators:
-        # Extract validator address
-        address = validator.find("div", class_="text-ellipsis overflow-hidden text-xs opacity-70").get_text(strip=True)
-        addresses.append(address)
-        
-        # Extract validator uptime
-        uptime = validator.find("td", class_="text-left font-light pr-2").get_text(strip=True)
-        uptimes.append(uptime)
-        
-        # Extract total stake
-        total_stake = validator.find("td", class_="text-left font-light").get_text(strip=True).split(":")[0][:-8]
-        total_stake = total_stake.replace(',', '')
-        total_stakes.append(total_stake)
-        
-        # Extract owner stake
-        owner_stake = validator.find("div", string="Owner:").find_next("div", class_="text-right").get_text(strip=True).split()[0][:-3]
-        owner_stake = owner_stake.replace(',', '')
-        owner_stakes.append(owner_stake)
-        
-        # Extract delegators stake
-        delegators_stake = validator.find("div", string="Delegators:").find_next("div", class_="text-right").get_text(strip=True).split()[0][:-3]
-        delegators_stake = delegators_stake.replace(',', '')
-        delegators_stakes.append(delegators_stake)
-        
-        # Extract free space
-        free_space = validator.find("div", string="Free Space:").find_next("div", class_="text-right").get_text(strip=True).split()[0][:-3]
-        free_space = free_space.replace(',', '')
-        free_spaces.append(free_space)
 
-        # Extract number of delegators
-        delegators_count = validator.find("td", class_="relative text-left font-light").get_text(strip=True).split("This validator will not earn rewards for itself or its delegators as it either does not run an FTSO data provider or it is underperforming.")[0]
-        delegators_count = delegators_count.replace(',', '')
-        delegators.append(delegators_count)
+    for ftso in ftsos:
+        # right text
+        right_texts = ftso.find_all("td", class_="text-right")
+        # Extract FTSO name
+        name = ftso.find("a", class_="hover:text-indigo-600 dark:hover:text-indigo-300").get_text(strip=True)
+        names.append(name)
+        
+        # Extract FTSO vote power 
+        active_vote_power = right_texts[0].find("div").get_text(strip=True).replace(",",'')
+        locked_vote_power = ftso.find("div", class_="text-gray-400 font-normal text-sub").find("span", class_="cursor-help z-0").get_text(strip=True).replace(",",'')
 
-        # Extract fee
-        fee = validator.find_all("td", class_="text-left font-light")[1].get_text(strip=True)[:-1]
+        active_vote_powers.append(active_vote_power)
+        locked_vote_powers.append(active_vote_power)
+
+        # Extract vp %
+        active_vote_power_percentage = ftso.find("div", class_="w-12").find("div").get_text(strip=True).replace("%",'')
+        locked_vote_power_percentage = ftso.find("div", class_="flex items-center justify-end gap-4").find("div", class_="text-gray-400 font-normal text-sub").find("span", class_="cursor-help z-0").get_text(strip=True).replace("%",'')
+
+        active_vote_power_percentages.append(active_vote_power_percentage)
+        locked_vote_power_percentages.append(locked_vote_power_percentage)
+
+        # Extract reward rates
+        reward_rate = right_texts[2].find("div").get_text(strip=True)
+        IQR_rate_6h = right_texts[3].get_text(strip=True).replace("%", '')
+        elastic_rate_6h = right_texts[4].get_text(strip=True).replace("%", '')
+
+        reward_rates.append(reward_rate)
+        IQR_rates_6h.append(IQR_rate_6h)
+        elastic_rates_6h.append(elastic_rate_6h)
+
+        # Extract availability
+        availability = ftso.find("div", class_="flex items-center justify-end font-normal").get_text(strip=True).replace("%", '')
+
+        availabilities.append(availability)
+
+        # Extract FTSO fee
+        fee = ftso.find("td", class_="pr-2 text-right").find("div", class_="flex justify-end gap-2").find("span").get_text(strip=True).replace("%", '')
         fees.append(fee)
-    
-    # Create a DataFrame
+        
     data = {
-        'Address': addresses,
-        'Total Stake': total_stakes,
-        'Owner Stake': owner_stakes,
-        'Delegators Stake': delegators_stakes,
-        'Free Space': free_spaces,
-        'Delegators': delegators,
-        'Uptime': uptimes,
-        'Fee': fees
+        "Name": names,
+        "Active vote power": active_vote_powers,
+        "Locked vote power": locked_vote_powers,
+        "Active vp %": active_vote_power_percentages,
+        "Locked vp %": locked_vote_power_percentages,
+        "Reward rate": reward_rates,
+        "IQR rate 6h %": IQR_rates_6h,
+        "Elastic rate 6h %": elastic_rates_6h,
+        "Availability": availabilities,
+        "Fee": fees
     }
     
     flare_metrics_df = pd.DataFrame(data)
