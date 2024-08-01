@@ -40,6 +40,10 @@ python data_scripts/validator_scrapper.py
 
 This will create a dataframe within the `data` sub-directory, with information about all current validators. 
 
+Similarly, for FTSO data, run:
+```
+python data_scripts/ftso_scrapper.py
+```
 
 
 
