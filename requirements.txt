@@ -2,9 +2,6 @@
 pandas
 matplotlib
 numpy
-time
-datetime
-scipy
 # Data scrapping
 requests
 bs4
@@ -13,6 +10,3 @@ json
 # Paths in notebooks
 sys
 os
-# Crypto prices
-yfinance
-ccxt
