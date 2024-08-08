@@ -1,15 +1,21 @@
+"""
+A script for web scrapping ftso data from flaremetrics.io.
+Before running, make sure to select the appropriate network (flare or songbird), by setting the network parameter below.
+"""
+
 import os
 import requests
 import pandas as pd
 from bs4 import BeautifulSoup
 
+from config import DATA_PATH
+
 # Define paths
-data_folder = os.path.join(os.path.dirname(__file__), '..', 'data')
-txt_file_path = os.path.join(data_folder, 'flare_validators.txt')
-csv_file_path = os.path.join(data_folder, 'flare_validators_df.csv')
+txt_file_path = os.path.join(DATA_PATH, 'flare-metrics_flr_validators.txt')
+csv_file_path = os.path.join(DATA_PATH, 'flare-metrics_flr_validators.csv')
 
 # Create data folder if it doesn't exist
-os.makedirs(data_folder, exist_ok=True)
+os.makedirs(DATA_PATH, exist_ok=True)
 
 # URL of the validators page
 url = "https://flaremetrics.io/validators"

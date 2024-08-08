@@ -1,0 +1,2407 @@
+{
+    "count": 96,
+    "next": null,
+    "previous": null,
+    "results": [
+        {
+            "id": 58,
+            "providersuccessrate": {
+                "id": 58,
+                "primary_bips": 1761,
+                "secondary_bips": 3300,
+                "availability_bips": 9995,
+                "active": true,
+                "registration_weight": 374625741874161791392637346,
+                "entity": 58
+            },
+            "rewards": {
+                "total_reward": 7484626881886318216136,
+                "current_earnings": 7484626881886318216136,
+                "reward_rate": 0.007991577775133705
+            },
+            "identity_address": {
+                "address": "0x0c660191434484428A563614E0aa9d2041772953",
+                "r": "772953",
+                "g": "9d2041",
+                "b": "14E0aa"
+            },
+            "display_name": "A-FTSO",
+            "logo_url": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0x2d7bf53ED6117aD1DCD6416d460481522a16aFdf.png"
+        },
+        {
+            "id": 46,
+            "providersuccessrate": {
+                "id": 46,
+                "primary_bips": 7451,
+                "secondary_bips": 4766,
+                "availability_bips": 10000,
+                "active": true,
+                "registration_weight": 305467526911179946412578898,
+                "entity": 46
+            },
+            "rewards": {
+                "total_reward": 28100350109667624637324,
+                "current_earnings": 28100350109667624637324,
+                "reward_rate": 0.03679651371628552
+            },
+            "identity_address": {
+                "address": "0x89f7498a8db97FF7d8ef323E480Cb18dB44a1309",
+                "r": "4a1309",
+                "g": "b18dB4",
+                "b": "3E480C"
+            },
+            "display_name": "EvolveFTSO",
+            "logo_url": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0x0f80AF5b905a9A34f69E74412c4A00B231D26dAa.png"
+        },
+        {
+            "id": 48,
+            "providersuccessrate": {
+                "id": 48,
+                "primary_bips": 5567,
+                "secondary_bips": 4270,
+                "availability_bips": 10000,
+                "active": true,
+                "registration_weight": 280722932753763331378215150,
+                "entity": 48
+            },
+            "rewards": {
+                "total_reward": 16993800637148308232647,
+                "current_earnings": 16993800637148308232647,
+                "reward_rate": 0.02421433898605562
+            },
+            "identity_address": {
+                "address": "0x6c2209754845dF0FC01D048c3F3C3537B5D35B9c",
+                "r": "D35B9c",
+                "g": "3537B5",
+                "b": "8c3F3C"
+            },
+            "display_name": "Flare Oracle",
+            "logo_url": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0x1B00870092a929D160492daf8E734b4bCA033266.png"
+        },
+        {
+            "id": 31,
+            "providersuccessrate": {
+                "id": 31,
+                "primary_bips": 6506,
+                "secondary_bips": 4688,
+                "availability_bips": 10000,
+                "active": true,
+                "registration_weight": 271649633818697632905375871,
+                "entity": 31
+            },
+            "rewards": {
+                "total_reward": 24868589334522516299494,
+                "current_earnings": 24868589334522516299494,
+                "reward_rate": 0.03661862375433221
+            },
+            "identity_address": {
+                "address": "0x3ED54c61EC0fF7C144d547C2d032392864e66cA2",
+                "r": "e66cA2",
+                "g": "392864",
+                "b": "C2d032"
+            },
+            "display_name": "NORTSO",
+            "logo_url": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0x04a8b3171fBbfe4554B55190B43E709c4b672030.png"
+        },
+        {
+            "id": 12,
+            "providersuccessrate": {
+                "id": 12,
+                "primary_bips": 7128,
+                "secondary_bips": 4812,
+                "availability_bips": 10000,
+                "active": true,
+                "registration_weight": 266399339724409752797390911,
+                "entity": 12
+            },
+            "rewards": {
+                "total_reward": 26623302303273350853370,
+                "current_earnings": 26623302303273350853370,
+                "reward_rate": 0.0399750274618776
+            },
+            "identity_address": {
+                "address": "0x19585c914AeA4d985E034399c581B35014ec94eF",
+                "r": "ec94eF",
+                "g": "B35014",
+                "b": "99c581"
+            },
+            "display_name": "Atlas TSO",
+            "logo_url": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0xB5ECB64526F777Eb6f02D4A83AbAB1FAD26b1C00.png"
+        },
+        {
+            "id": 56,
+            "providersuccessrate": {
+                "id": 56,
+                "primary_bips": 7480,
+                "secondary_bips": 4738,
+                "availability_bips": 9996,
+                "active": true,
+                "registration_weight": 244782200013152622168642326,
+                "entity": 56
+            },
+            "rewards": {
+                "total_reward": 27792567938864691642573,
+                "current_earnings": 27792567938864691642573,
+                "reward_rate": 0.045415995014950174
+            },
+            "identity_address": {
+                "address": "0x037c3e6a8f65ad2d810f26DB3439d96e48156858",
+                "r": "156858",
+                "g": "d96e48",
+                "b": "DB3439"
+            },
+            "display_name": "Lena Instruments",
+            "logo_url": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0xc9AC8F034d295962A6a975b717B691437605Bbb6.png"
+        },
+        {
+            "id": 13,
+            "providersuccessrate": {
+                "id": 13,
+                "primary_bips": 6309,
+                "secondary_bips": 4584,
+                "availability_bips": 10000,
+                "active": true,
+                "registration_weight": 243148636047516594120591132,
+                "entity": 13
+            },
+            "rewards": {
+                "total_reward": 24372823973139358413458,
+                "current_earnings": 24372823973139358413458,
+                "reward_rate": 0.04009534969116812
+            },
+            "identity_address": {
+                "address": "0x342C8c165Db96a60EfEdd2E3480ae5398A1fd322",
+                "r": "1fd322",
+                "g": "e5398A",
+                "b": "E3480a"
+            },
+            "display_name": "Flare Dienst",
+            "logo_url": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0xDe4051b333b3063fd28267Cd4412DD25233D0Ae1.png"
+        },
+        {
+            "id": 43,
+            "providersuccessrate": {
+                "id": 43,
+                "primary_bips": 5925,
+                "secondary_bips": 4332,
+                "availability_bips": 9996,
+                "active": true,
+                "registration_weight": 241397368037073832850361779,
+                "entity": 43
+            },
+            "rewards": {
+                "total_reward": 21539622592378230036383,
+                "current_earnings": 21539622592378230036383,
+                "reward_rate": 0.035691561623107965
+            },
+            "identity_address": {
+                "address": "0xEE6f6572cfeB3467CE5F3572Bea7c5FD6d2b1725",
+                "r": "2b1725",
+                "g": "c5FD6d",
+                "b": "72Bea7"
+            },
+            "display_name": "LightFTSO",
+            "logo_url": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0xfB9197720329a80191BA140844E96DCcAD149014.png"
+        },
+        {
+            "id": 14,
+            "providersuccessrate": {
+                "id": 14,
+                "primary_bips": 6756,
+                "secondary_bips": 4615,
+                "availability_bips": 9996,
+                "active": true,
+                "registration_weight": 239059278372588765200834063,
+                "entity": 14
+            },
+            "rewards": {
+                "total_reward": 25004603638418577390901,
+                "current_earnings": 25004603638418577390901,
+                "reward_rate": 0.04183833199638015
+            },
+            "identity_address": {
+                "address": "0xB4466BE43F01e8A615490098AAF18a1dc5c56568",
+                "r": "c56568",
+                "g": "8a1dc5",
+                "b": "98AAF1"
+            },
+            "display_name": "AlphaOracle",
+            "logo_url": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0xBF61Db1CDb43d196309824473fA82E5B17581159.png"
+        },
+        {
+            "id": 67,
+            "providersuccessrate": {
+                "id": 67,
+                "primary_bips": 5323,
+                "secondary_bips": 4222,
+                "availability_bips": 9515,
+                "active": true,
+                "registration_weight": 235119532050408730903446243,
+                "entity": 67
+            },
+            "rewards": {
+                "total_reward": 13524119680596599015792,
+                "current_earnings": 13524119680596599015792,
+                "reward_rate": 0.02300807519078777
+            },
+            "identity_address": {
+                "address": "0x98BBe5658da8B31FbD3F07157a2cff4D10c0f22e",
+                "r": "c0f22e",
+                "g": "ff4D10",
+                "b": "157a2c"
+            },
+            "display_name": "FlareFi",
+            "logo_url": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0x5f3C5991De3F0713715a733eE125785D516cEb16.png"
+        },
+        {
+            "id": 34,
+            "providersuccessrate": {
+                "id": 34,
+                "primary_bips": 5675,
+                "secondary_bips": 4230,
+                "availability_bips": 9532,
+                "active": true,
+                "registration_weight": 231359489957576214445216469,
+                "entity": 34
+            },
+            "rewards": {
+                "total_reward": 21365710115534030031813,
+                "current_earnings": 21365710115534030031813,
+                "reward_rate": 0.036939414275942266
+            },
+            "identity_address": {
+                "address": "0x4F84caAb4a53Aabbad2dfE1013d2bB53EDBF2f0a",
+                "r": "BF2f0a",
+                "g": "bB53ED",
+                "b": "1013d2"
+            },
+            "display_name": "PRICEKRAKEN",
+            "logo_url": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0xEF4ef2f3B8C69282846a98341095baa018247553.png"
+        },
+        {
+            "id": 32,
+            "providersuccessrate": {
+                "id": 32,
+                "primary_bips": 3357,
+                "secondary_bips": 3863,
+                "availability_bips": 10000,
+                "active": true,
+                "registration_weight": 227319539566919113697895803,
+                "entity": 32
+            },
+            "rewards": {
+                "total_reward": 13551084357022241556982,
+                "current_earnings": 13551084357022241556982,
+                "reward_rate": 0.02384499701669161
+            },
+            "identity_address": {
+                "address": "0x1CBf078705c907510fdB711Cf3c6e9B8E583f156",
+                "r": "83f156",
+                "g": "e9B8E5",
+                "b": "1Cf3c6"
+            },
+            "display_name": "Solarius",
+            "logo_url": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0x6c6b3560704Da8A2c33B1BB00E88bA343807E565.png"
+        },
+        {
+            "id": 16,
+            "providersuccessrate": {
+                "id": 16,
+                "primary_bips": 7725,
+                "secondary_bips": 4796,
+                "availability_bips": 9993,
+                "active": true,
+                "registration_weight": 227208593911482265768920056,
+                "entity": 16
+            },
+            "rewards": {
+                "total_reward": 28265216382890210255667,
+                "current_earnings": 28265216382890210255667,
+                "reward_rate": 0.049760822680680813
+            },
+            "identity_address": {
+                "address": "0x8ddd48b520Df91f05C5d8c19b2cEE59ABe65978a",
+                "r": "65978a",
+                "g": "E59ABe",
+                "b": "19b2cE"
+            },
+            "display_name": "EDPFTSO",
+            "logo_url": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0x1C602a30335187A97D8061Ffffd4522796DE82bF.png"
+        },
+        {
+            "id": 17,
+            "providersuccessrate": {
+                "id": 17,
+                "primary_bips": 6150,
+                "secondary_bips": 4610,
+                "availability_bips": 10000,
+                "active": true,
+                "registration_weight": 221606745687975182770835051,
+                "entity": 17
+            },
+            "rewards": {
+                "total_reward": 24103579762048279329078,
+                "current_earnings": 24103579762048279329078,
+                "reward_rate": 0.04350694233105412
+            },
+            "identity_address": {
+                "address": "0x18c8aF2EaC14282E207c67c405325E5A4a401A9F",
+                "r": "401A9F",
+                "g": "5E5A4a",
+                "b": "c40532"
+            },
+            "display_name": "Ivy Oracle",
+            "logo_url": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0xA174D46EF49D7d4a0328f9910222689E9eAb2f45.png"
+        },
+        {
+            "id": 29,
+            "providersuccessrate": {
+                "id": 29,
+                "primary_bips": 3774,
+                "secondary_bips": 3715,
+                "availability_bips": 9986,
+                "active": true,
+                "registration_weight": 221205859190420586558802135,
+                "entity": 29
+            },
+            "rewards": {
+                "total_reward": 14700071520657116383614,
+                "current_earnings": 14700071520657116383614,
+                "reward_rate": 0.026581703711569152
+            },
+            "identity_address": {
+                "address": "0xBe311F1640b700F76D17C009a505487C23b0312c",
+                "r": "b0312c",
+                "g": "487C23",
+                "b": "09a505"
+            },
+            "display_name": "Aureus Ox",
+            "logo_url": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0x6d323e71E141cE2d7b752313C8A654a9C9d1b377.png"
+        },
+        {
+            "id": 2,
+            "providersuccessrate": {
+                "id": 2,
+                "primary_bips": 4777,
+                "secondary_bips": 3894,
+                "availability_bips": 9967,
+                "active": true,
+                "registration_weight": 220092902740493092339486806,
+                "entity": 2
+            },
+            "rewards": {
+                "total_reward": 18359130332840617598981,
+                "current_earnings": 18359130332840617598981,
+                "reward_rate": 0.033366146939299506
+            },
+            "identity_address": {
+                "address": "0x4985138d5efaB799CaA5abb09Eb7DBC87Dd5141A",
+                "r": "d5141A",
+                "g": "DBC87D",
+                "b": "b09Eb7"
+            },
+            "display_name": "Flare.Space",
+            "logo_url": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0xCcd522393233052Dd0DfeAadc124a0a9bB87FD08.png"
+        },
+        {
+            "id": 59,
+            "providersuccessrate": {
+                "id": 59,
+                "primary_bips": 6381,
+                "secondary_bips": 4706,
+                "availability_bips": 9964,
+                "active": true,
+                "registration_weight": 202566209734464710156193166,
+                "entity": 59
+            },
+            "rewards": {
+                "total_reward": 23176090131039898178159,
+                "current_earnings": 23176090131039898178159,
+                "reward_rate": 0.04576496773360263
+            },
+            "identity_address": {
+                "address": "0x44Eb776cd95aE59b2edA2cE354557427361e75Da",
+                "r": "1e75Da",
+                "g": "742736",
+                "b": "E35455"
+            },
+            "display_name": "Flare Beacon",
+            "logo_url": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0x633CE03ea66d910c15869e1552fDccC2bf9aAD87.png"
+        },
+        {
+            "id": 80,
+            "providersuccessrate": {
+                "id": 80,
+                "primary_bips": 6883,
+                "secondary_bips": 4764,
+                "availability_bips": 10000,
+                "active": true,
+                "registration_weight": 170797273418222282393583196,
+                "entity": 80
+            },
+            "rewards": {
+                "total_reward": 20276983253395686600169,
+                "current_earnings": 20276983253395686600169,
+                "reward_rate": 0.04748783829527421
+            },
+            "identity_address": {
+                "address": "0x23075D2210F1aC5f8eaD459bE03Ea7337D10afA0",
+                "r": "10afA0",
+                "g": "a7337D",
+                "b": "9bE03E"
+            },
+            "display_name": null,
+            "logo_url": null
+        },
+        {
+            "id": 74,
+            "providersuccessrate": {
+                "id": 74,
+                "primary_bips": 526,
+                "secondary_bips": 911,
+                "availability_bips": 9834,
+                "active": true,
+                "registration_weight": 158520418846578557155471780,
+                "entity": 74
+            },
+            "rewards": {
+                "total_reward": 1654320661199903987254,
+                "current_earnings": 1654320661199903987254,
+                "reward_rate": 0.004174403961930007
+            },
+            "identity_address": {
+                "address": "0xB3C9AA09F22A06122d3608Ef075f14E001561470",
+                "r": "561470",
+                "g": "14E001",
+                "b": "Ef075f"
+            },
+            "display_name": "FTSO AU",
+            "logo_url": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0x499017ADB21D6f70480E4E6224cf4144071C1461.png"
+        },
+        {
+            "id": 25,
+            "providersuccessrate": {
+                "id": 25,
+                "primary_bips": 3231,
+                "secondary_bips": 3470,
+                "availability_bips": 9983,
+                "active": true,
+                "registration_weight": 148644822237232027014899056,
+                "entity": 25
+            },
+            "rewards": {
+                "total_reward": 9219581854527946171264,
+                "current_earnings": 9219581854527946171264,
+                "reward_rate": 0.024809695260865017
+            },
+            "identity_address": {
+                "address": "0x661a71e863c887E68aa8c9348e8AA60E48a868Ad",
+                "r": "a868Ad",
+                "g": "A60E48",
+                "b": "348e8A"
+            },
+            "display_name": "Use Your Spark",
+            "logo_url": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0x53CAEDDA4339eD74272ECfEF85b657dEf18fA2e4.png"
+        },
+        {
+            "id": 75,
+            "providersuccessrate": {
+                "id": 75,
+                "primary_bips": 1698,
+                "secondary_bips": 1618,
+                "availability_bips": 9691,
+                "active": true,
+                "registration_weight": 142130486666308001211766556,
+                "entity": 75
+            },
+            "rewards": {
+                "total_reward": 4658107124651979266368,
+                "current_earnings": 4582152263534251106907,
+                "reward_rate": 0.012895621118338009
+            },
+            "identity_address": {
+                "address": "0xDbB159Ee372D58d2653023bF1c5ab5678b842870",
+                "r": "842870",
+                "g": "b5678b",
+                "b": "bF1c5a"
+            },
+            "display_name": "FTSO Plus",
+            "logo_url": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0x0FA72D3912d1C530AB1f6a8A9fB61C672947E964.png"
+        },
+        {
+            "id": 37,
+            "providersuccessrate": {
+                "id": 37,
+                "primary_bips": 1010,
+                "secondary_bips": 1417,
+                "availability_bips": 9996,
+                "active": true,
+                "registration_weight": 122754687951532830033366446,
+                "entity": 37
+            },
+            "rewards": {
+                "total_reward": 2655646216869834081025,
+                "current_earnings": 2655646216869834081025,
+                "reward_rate": 0.008653506472741348
+            },
+            "identity_address": {
+                "address": "0x00620F4659Bc546284dAB2720373C606727f073A",
+                "r": "7f073A",
+                "g": "C60672",
+                "b": "720373"
+            },
+            "display_name": "Defi Oracles",
+            "logo_url": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0xCa60cd408A5E447897258cDB1F699478c71Cc55E.png"
+        },
+        {
+            "id": 71,
+            "providersuccessrate": {
+                "id": 71,
+                "primary_bips": 0,
+                "secondary_bips": 0,
+                "availability_bips": 0,
+                "active": true,
+                "registration_weight": 115904308409501256558234676,
+                "entity": 71
+            },
+            "rewards": {
+                "total_reward": 0,
+                "current_earnings": 0,
+                "reward_rate": 0.0
+            },
+            "identity_address": {
+                "address": "0xE6B81dB3e09ee36611555D053A1bF8cb99fC2f1B",
+                "r": "fC2f1B",
+                "g": "F8cb99",
+                "b": "053A1b"
+            },
+            "display_name": null,
+            "logo_url": null
+        },
+        {
+            "id": 30,
+            "providersuccessrate": {
+                "id": 30,
+                "primary_bips": 3158,
+                "secondary_bips": 3490,
+                "availability_bips": 9993,
+                "active": true,
+                "registration_weight": 99683775590382961318326322,
+                "entity": 30
+            },
+            "rewards": {
+                "total_reward": 6362118918292454942804,
+                "current_earnings": 6362118918292454942804,
+                "reward_rate": 0.02552920525175711
+            },
+            "identity_address": {
+                "address": "0xD288C3EF25eBf79e7C53EA37DcDfB0710f3Ed173",
+                "r": "3Ed173",
+                "g": "B0710f",
+                "b": "37DcDf"
+            },
+            "display_name": "FTSO London",
+            "logo_url": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0x0708a4C813594b7E0218CB4A5D8b75c76AbFc859.png"
+        },
+        {
+            "id": 21,
+            "providersuccessrate": {
+                "id": 21,
+                "primary_bips": 484,
+                "secondary_bips": 931,
+                "availability_bips": 10000,
+                "active": true,
+                "registration_weight": 96179782500713524246757475,
+                "entity": 21
+            },
+            "rewards": {
+                "total_reward": 1022774131530571315526,
+                "current_earnings": 1022774131530571315526,
+                "reward_rate": 0.004253593031458493
+            },
+            "identity_address": {
+                "address": "0xAb3DAe93cD52f6e2A0809Dc19567C79ac3b1e225",
+                "r": "b1e225",
+                "g": "C79ac3",
+                "b": "c19567"
+            },
+            "display_name": "Aternety",
+            "logo_url": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0x2De2C741658f0Ae7b2DdD8EAdD179911564af119.png"
+        },
+        {
+            "id": 45,
+            "providersuccessrate": {
+                "id": 45,
+                "primary_bips": 2748,
+                "secondary_bips": 2992,
+                "availability_bips": 9993,
+                "active": true,
+                "registration_weight": 80114093981672830894570525,
+                "entity": 45
+            },
+            "rewards": {
+                "total_reward": 4330977006268135576826,
+                "current_earnings": 4330977006268135576826,
+                "reward_rate": 0.02162404536339838
+            },
+            "identity_address": {
+                "address": "0xC1d269E9D2A39c6A285EaAF53Eb9fe9b7245C87E",
+                "r": "45C87E",
+                "g": "fe9b72",
+                "b": "F53Eb9"
+            },
+            "display_name": "Envision",
+            "logo_url": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0x58Cd43E9FcdBd4D0F507aB4f6029dB8032746da8.png"
+        },
+        {
+            "id": 23,
+            "providersuccessrate": {
+                "id": 23,
+                "primary_bips": 763,
+                "secondary_bips": 1377,
+                "availability_bips": 10000,
+                "active": true,
+                "registration_weight": 64518713636002135952817782,
+                "entity": 23
+            },
+            "rewards": {
+                "total_reward": 1145572904853842570178,
+                "current_earnings": 1145572904853842570178,
+                "reward_rate": 0.007102267483613317
+            },
+            "identity_address": {
+                "address": "0xa0E1FBA30e75e2d0D6C428cFF4B3b6A06233422b",
+                "r": "33422b",
+                "g": "b6A062",
+                "b": "cFF4B3"
+            },
+            "display_name": "sToadz FTSO",
+            "logo_url": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0x6Bf25C0256CBE8969424F6994e19Cf5e0A3C23Bb.png"
+        },
+        {
+            "id": 68,
+            "providersuccessrate": {
+                "id": 68,
+                "primary_bips": 4092,
+                "secondary_bips": 4174,
+                "availability_bips": 9987,
+                "active": true,
+                "registration_weight": 56876909040966058712428131,
+                "entity": 68
+            },
+            "rewards": {
+                "total_reward": 4313290880365554326580,
+                "current_earnings": 4313290880365554326580,
+                "reward_rate": 0.030334214380453566
+            },
+            "identity_address": {
+                "address": "0x90C0Edf240397D461eBe7DF9b41EE9b4415F3432",
+                "r": "5F3432",
+                "g": "E9b441",
+                "b": "F9b41E"
+            },
+            "display_name": null,
+            "logo_url": null
+        },
+        {
+            "id": 9,
+            "providersuccessrate": {
+                "id": 9,
+                "primary_bips": 4683,
+                "secondary_bips": 3881,
+                "availability_bips": 9645,
+                "active": true,
+                "registration_weight": 48348772553207495400416035,
+                "entity": 9
+            },
+            "rewards": {
+                "total_reward": 3901020790826728041354,
+                "current_earnings": 3901020790826728041354,
+                "reward_rate": 0.032274000640108755
+            },
+            "identity_address": {
+                "address": "0x527E5e829763885008E171493C0E8d4A1eC48239",
+                "r": "C48239",
+                "g": "8d4A1e",
+                "b": "493C0E"
+            },
+            "display_name": "ACDTftso",
+            "logo_url": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0x86eC5c8Ce7a4DD7762Cff205d64Bfc0C272feB6d.png"
+        },
+        {
+            "id": 35,
+            "providersuccessrate": {
+                "id": 35,
+                "primary_bips": 635,
+                "secondary_bips": 1142,
+                "availability_bips": 9736,
+                "active": true,
+                "registration_weight": 48326632431686732892332303,
+                "entity": 35
+            },
+            "rewards": {
+                "total_reward": 654935467986372886386,
+                "current_earnings": 654935467986372886386,
+                "reward_rate": 0.005420907148141743
+            },
+            "identity_address": {
+                "address": "0xbB99dda7b6dcE88908dCD684ab7bf1a90f084401",
+                "r": "084401",
+                "g": "f1a90f",
+                "b": "84ab7b"
+            },
+            "display_name": "FTSO EU",
+            "logo_url": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0x010a16c53F33E4d93892f00897965578b55a8CFC.png"
+        },
+        {
+            "id": 44,
+            "providersuccessrate": {
+                "id": 44,
+                "primary_bips": 705,
+                "secondary_bips": 1282,
+                "availability_bips": 9992,
+                "active": true,
+                "registration_weight": 41976066119184033138954519,
+                "entity": 44
+            },
+            "rewards": {
+                "total_reward": 691738943258405606494,
+                "current_earnings": 615784082140677447033,
+                "reward_rate": 0.005867954185056421
+            },
+            "identity_address": {
+                "address": "0x4ddd9f80F88F53c730CE7C6041f17583447DD968",
+                "r": "7DD968",
+                "g": "758344",
+                "b": "6041f1"
+            },
+            "display_name": "HEWG",
+            "logo_url": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0x819eaB111BD9A6E595187A914240529D2EFfF21f.png"
+        },
+        {
+            "id": 19,
+            "providersuccessrate": {
+                "id": 19,
+                "primary_bips": 6448,
+                "secondary_bips": 4598,
+                "availability_bips": 9922,
+                "active": true,
+                "registration_weight": 34796034747350905501096007,
+                "entity": 19
+            },
+            "rewards": {
+                "total_reward": 4003420292894194741323,
+                "current_earnings": 4003420292894194741323,
+                "reward_rate": 0.04602156908926508
+            },
+            "identity_address": {
+                "address": "0x28603D496801086f503d80B5D321EcAd13CA3AFC",
+                "r": "CA3AFC",
+                "g": "EcAd13",
+                "b": "B5D321"
+            },
+            "display_name": "TheGrungies",
+            "logo_url": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0x2C293599ca61bb53e8fF82c8a19c2A8B883ea23f.png"
+        },
+        {
+            "id": 22,
+            "providersuccessrate": {
+                "id": 22,
+                "primary_bips": 742,
+                "secondary_bips": 1383,
+                "availability_bips": 10000,
+                "active": true,
+                "registration_weight": 33197185823491612232995800,
+                "entity": 22
+            },
+            "rewards": {
+                "total_reward": 615121170194071606711,
+                "current_earnings": 615121170194071606711,
+                "reward_rate": 0.007411726686287825
+            },
+            "identity_address": {
+                "address": "0xd6122bb3d05454b4E4CC9883064A96607eB835BF",
+                "r": "B835BF",
+                "g": "96607e",
+                "b": "83064A"
+            },
+            "display_name": "WitterFTSO",
+            "logo_url": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0xD9200CC419BDe28B169AD8c904d2687a15A4Bf9F.png"
+        },
+        {
+            "id": 33,
+            "providersuccessrate": {
+                "id": 33,
+                "primary_bips": 838,
+                "secondary_bips": 1301,
+                "availability_bips": 8110,
+                "active": true,
+                "registration_weight": 30371165689304599612015510,
+                "entity": 33
+            },
+            "rewards": {
+                "total_reward": 549355080455267054053,
+                "current_earnings": 549355080455267054053,
+                "reward_rate": 0.0072352189056572955
+            },
+            "identity_address": {
+                "address": "0xC5d2411d9ff188ebeD494d93efB52e87Bb14b75d",
+                "r": "14b75d",
+                "g": "2e87Bb",
+                "b": "93efB5"
+            },
+            "display_name": "FlareFTSO",
+            "logo_url": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0x4F7f5F8eF4a3CC11f94e875393Ee909Eb5f824ea.png"
+        },
+        {
+            "id": 62,
+            "providersuccessrate": {
+                "id": 62,
+                "primary_bips": 854,
+                "secondary_bips": 1300,
+                "availability_bips": 8157,
+                "active": true,
+                "registration_weight": 27295275570282912156074589,
+                "entity": 62
+            },
+            "rewards": {
+                "total_reward": 483125712987719979844,
+                "current_earnings": 483125712987719979844,
+                "reward_rate": 0.007079990260493456
+            },
+            "identity_address": {
+                "address": "0xaDEDCd23941E479b4736B38e271Eb926596BBe3d",
+                "r": "6BBe3d",
+                "g": "b92659",
+                "b": "8e271E"
+            },
+            "display_name": "Oracle Daemon",
+            "logo_url": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0x92D6c2E99d5959F2e9c0a7aba5149D8A5ef22f23.png"
+        },
+        {
+            "id": 10,
+            "providersuccessrate": {
+                "id": 10,
+                "primary_bips": 760,
+                "secondary_bips": 1379,
+                "availability_bips": 9993,
+                "active": true,
+                "registration_weight": 25690945271438312091523149,
+                "entity": 10
+            },
+            "rewards": {
+                "total_reward": 434775231359265564873,
+                "current_earnings": 434775231359265564873,
+                "reward_rate": 0.006769314663444838
+            },
+            "identity_address": {
+                "address": "0xC2AE38bd4804f74Bba2828CdFC1fFa4be4D71304",
+                "r": "D71304",
+                "g": "Fa4be4",
+                "b": "CdFC1f"
+            },
+            "display_name": "Sun-Dara",
+            "logo_url": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0x7394923453FC2F606cfb4D0ea1A5438BB8260D08.png"
+        },
+        {
+            "id": 20,
+            "providersuccessrate": {
+                "id": 20,
+                "primary_bips": 744,
+                "secondary_bips": 1384,
+                "availability_bips": 10000,
+                "active": true,
+                "registration_weight": 23844916276599557027113026,
+                "entity": 20
+            },
+            "rewards": {
+                "total_reward": 407878272663627464463,
+                "current_earnings": 407878272663627464463,
+                "reward_rate": 0.006842184186050641
+            },
+            "identity_address": {
+                "address": "0xEc056b0EF36de1D63031fdBb9bceF5FEB36FB27f",
+                "r": "6FB27f",
+                "g": "F5FEB3",
+                "b": "Bb9bce"
+            },
+            "display_name": "FTSOCAN",
+            "logo_url": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0x7C255e428e95bEbc76e944D49D4F460C84b3A3c3.png"
+        },
+        {
+            "id": 92,
+            "providersuccessrate": {
+                "id": 92,
+                "primary_bips": 0,
+                "secondary_bips": 0,
+                "availability_bips": 0,
+                "active": true,
+                "registration_weight": 23677135726251340821143340,
+                "entity": 92
+            },
+            "rewards": {
+                "total_reward": 0,
+                "current_earnings": 0,
+                "reward_rate": 0.0
+            },
+            "identity_address": {
+                "address": "0x709c1ca45E66d0c4D6F1867E67bf37DD676B4B6B",
+                "r": "6B4B6B",
+                "g": "37DD67",
+                "b": "7E67bf"
+            },
+            "display_name": "Sparkles FTSO",
+            "logo_url": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0x3012c799565010C3b090D252839a3D24f3b766bE.png"
+        },
+        {
+            "id": 4,
+            "providersuccessrate": {
+                "id": 4,
+                "primary_bips": 744,
+                "secondary_bips": 2004,
+                "availability_bips": 3095,
+                "active": true,
+                "registration_weight": 23503240332532786822318605,
+                "entity": 4
+            },
+            "rewards": {
+                "total_reward": 406519418563317818151,
+                "current_earnings": 406519418563317818151,
+                "reward_rate": 0.006918525493705997
+            },
+            "identity_address": {
+                "address": "0xC5261026e08Ec6dc23162ef7Eb1248548715be76",
+                "r": "15be76",
+                "g": "485487",
+                "b": "f7Eb12"
+            },
+            "display_name": "AFOracle",
+            "logo_url": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0x9565d813a3a0CEa62B3bDB9A4e236dCb5910c4f0.png"
+        },
+        {
+            "id": 50,
+            "providersuccessrate": {
+                "id": 50,
+                "primary_bips": 0,
+                "secondary_bips": 0,
+                "availability_bips": 0,
+                "active": true,
+                "registration_weight": 23199818932229477534684402,
+                "entity": 50
+            },
+            "rewards": {
+                "total_reward": 0,
+                "current_earnings": 0,
+                "reward_rate": 0.0
+            },
+            "identity_address": {
+                "address": "0x65Ae92f3473D75815F2a86298b76A608F94E1575",
+                "r": "4E1575",
+                "g": "A608F9",
+                "b": "298b76"
+            },
+            "display_name": "Mickey B Fresh",
+            "logo_url": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0xE304AF184b9ca77E3576Aef834A4dc1A43EBfA70.png"
+        },
+        {
+            "id": 53,
+            "providersuccessrate": {
+                "id": 53,
+                "primary_bips": 744,
+                "secondary_bips": 1382,
+                "availability_bips": 10000,
+                "active": true,
+                "registration_weight": 22276097895774460535071242,
+                "entity": 53
+            },
+            "rewards": {
+                "total_reward": 405659808645993034130,
+                "current_earnings": 405659808645993034130,
+                "reward_rate": 0.00728421666207424
+            },
+            "identity_address": {
+                "address": "0xD249c7e0BDb6F407604260350eD56e7Dd5254e51",
+                "r": "254e51",
+                "g": "6e7Dd5",
+                "b": "350eD5"
+            },
+            "display_name": "uGaenn",
+            "logo_url": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0xb53D69B2519aC9F6D65cff8e7824Bf09F7064D61.png"
+        },
+        {
+            "id": 8,
+            "providersuccessrate": {
+                "id": 8,
+                "primary_bips": 689,
+                "secondary_bips": 1119,
+                "availability_bips": 9772,
+                "active": true,
+                "registration_weight": 21958688020162559784165242,
+                "entity": 8
+            },
+            "rewards": {
+                "total_reward": 298420294253579181546,
+                "current_earnings": 298420294253579181546,
+                "reward_rate": 0.005436031405511447
+            },
+            "identity_address": {
+                "address": "0x625598caF40C63EB62860260cfD343d5FA4D88D4",
+                "r": "4D88D4",
+                "g": "43d5FA",
+                "b": "60cfD3"
+            },
+            "display_name": "Xdrops Oracle",
+            "logo_url": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0x2d3bdE536ad297f2EA74965f02C9E42f4780fB6A.png"
+        },
+        {
+            "id": 26,
+            "providersuccessrate": {
+                "id": 26,
+                "primary_bips": 748,
+                "secondary_bips": 1387,
+                "availability_bips": 10000,
+                "active": true,
+                "registration_weight": 21813950776646332478877690,
+                "entity": 26
+            },
+            "rewards": {
+                "total_reward": 333208745942115246495,
+                "current_earnings": 333208745942115246495,
+                "reward_rate": 0.006110011879165753
+            },
+            "identity_address": {
+                "address": "0x75306a2aE227b444E2501908Ade7c4c2B1E22423",
+                "r": "E22423",
+                "g": "c4c2B1",
+                "b": "08Ade7"
+            },
+            "display_name": "Scintilla",
+            "logo_url": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0xE70d5351a842131c66AAeBC4bD604912BF3cBa72.png"
+        },
+        {
+            "id": 24,
+            "providersuccessrate": {
+                "id": 24,
+                "primary_bips": 608,
+                "secondary_bips": 790,
+                "availability_bips": 9685,
+                "active": true,
+                "registration_weight": 21081638259015184605415996,
+                "entity": 24
+            },
+            "rewards": {
+                "total_reward": 277673510465134622003,
+                "current_earnings": 277673510465134622003,
+                "reward_rate": 0.005268537616546808
+            },
+            "identity_address": {
+                "address": "0x08d094dC09a0bAf05eC7E2a881A02Da54C26442b",
+                "r": "26442b",
+                "g": "2Da54C",
+                "b": "a881A0"
+            },
+            "display_name": "Flare Portal",
+            "logo_url": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0x9225db8B30A59D8Dd15448E2E5918BD160262b5D.png"
+        },
+        {
+            "id": 6,
+            "providersuccessrate": {
+                "id": 6,
+                "primary_bips": 924,
+                "secondary_bips": 1250,
+                "availability_bips": 10000,
+                "active": true,
+                "registration_weight": 21047405229979155862366163,
+                "entity": 6
+            },
+            "rewards": {
+                "total_reward": 443381584600854341129,
+                "current_earnings": 443381584600854341129,
+                "reward_rate": 0.008426341960087656
+            },
+            "identity_address": {
+                "address": "0x01CaAAA7B40AA13aB2a04087d262B5558E695607",
+                "r": "695607",
+                "g": "B5558E",
+                "b": "87d262"
+            },
+            "display_name": "Ugly Kitty",
+            "logo_url": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0x35149714467F2FE71b46eEb4d11689ED8728Bd25.png"
+        },
+        {
+            "id": 38,
+            "providersuccessrate": {
+                "id": 38,
+                "primary_bips": 604,
+                "secondary_bips": 1221,
+                "availability_bips": 8914,
+                "active": true,
+                "registration_weight": 20950000042425015129587885,
+                "entity": 38
+            },
+            "rewards": {
+                "total_reward": 293783719577719518568,
+                "current_earnings": 293783719577719518568,
+                "reward_rate": 0.005609235684635603
+            },
+            "identity_address": {
+                "address": "0xd6C5f3e3a8A76EC73F2fAFaf06ef9dA57796DdF0",
+                "r": "96DdF0",
+                "g": "9dA577",
+                "b": "af06ef"
+            },
+            "display_name": null,
+            "logo_url": null
+        },
+        {
+            "id": 66,
+            "providersuccessrate": {
+                "id": 66,
+                "primary_bips": 293,
+                "secondary_bips": 291,
+                "availability_bips": 8157,
+                "active": true,
+                "registration_weight": 20569608069764812256243720,
+                "entity": 66
+            },
+            "rewards": {
+                "total_reward": 115175974966378174597,
+                "current_earnings": 115175974966378174597,
+                "reward_rate": 0.0022397310551711463
+            },
+            "identity_address": {
+                "address": "0x317edFB00ca5065590f6662eE33264b5c27B7c31",
+                "r": "7B7c31",
+                "g": "64b5c2",
+                "b": "2eE332"
+            },
+            "display_name": null,
+            "logo_url": null
+        },
+        {
+            "id": 69,
+            "providersuccessrate": {
+                "id": 69,
+                "primary_bips": 105,
+                "secondary_bips": 344,
+                "availability_bips": 4683,
+                "active": true,
+                "registration_weight": 20508085525574080727985636,
+                "entity": 69
+            },
+            "rewards": {
+                "total_reward": -36468305241240214456,
+                "current_earnings": -36468305241240214456,
+                "reward_rate": -0.0007112961411393249
+            },
+            "identity_address": {
+                "address": "0xfe193A0f95bBeeE5a5c8306bca5ceDfA65114460",
+                "r": "114460",
+                "g": "eDfA65",
+                "b": "6bca5c"
+            },
+            "display_name": "Wonderftso",
+            "logo_url": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0x78A99Aa32cDe18B33B150941fBF718715d15Af6a.png"
+        },
+        {
+            "id": 57,
+            "providersuccessrate": {
+                "id": 57,
+                "primary_bips": 2621,
+                "secondary_bips": 2960,
+                "availability_bips": 10000,
+                "active": true,
+                "registration_weight": 20415596257562455239014585,
+                "entity": 57
+            },
+            "rewards": {
+                "total_reward": 1130060593894751568819,
+                "current_earnings": 1130060593894751568819,
+                "reward_rate": 0.022141123475169597
+            },
+            "identity_address": {
+                "address": "0x7e74F48ee5575e028d6bEbd77e368761F1d74a2a",
+                "r": "d74a2a",
+                "g": "8761F1",
+                "b": "d77e36"
+            },
+            "display_name": "Knot Nodes",
+            "logo_url": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0x4619Ae2f09cF5e6da873C501a12D86AaCbD7962B.png"
+        },
+        {
+            "id": 51,
+            "providersuccessrate": {
+                "id": 51,
+                "primary_bips": 390,
+                "secondary_bips": 1109,
+                "availability_bips": 5000,
+                "active": true,
+                "registration_weight": 20372970774219142275262955,
+                "entity": 51
+            },
+            "rewards": {
+                "total_reward": 180332771236740633320,
+                "current_earnings": 180332771236740633320,
+                "reward_rate": 0.0035406278884951166
+            },
+            "identity_address": {
+                "address": "0xD9DdD06B3E603F451DD8A16574CA9D3dF564742b",
+                "r": "64742b",
+                "g": "9D3dF5",
+                "b": "6574CA"
+            },
+            "display_name": "TempestFTSO",
+            "logo_url": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0x4eb408FA585a5C66E523a4aE5f5706374Ec9E8c7.png"
+        },
+        {
+            "id": 54,
+            "providersuccessrate": {
+                "id": 54,
+                "primary_bips": 4442,
+                "secondary_bips": 4287,
+                "availability_bips": 10000,
+                "active": true,
+                "registration_weight": 20357985291759128829164252,
+                "entity": 54
+            },
+            "rewards": {
+                "total_reward": 1798028160060790113426,
+                "current_earnings": 1798028160060790113426,
+                "reward_rate": 0.035328214148747386
+            },
+            "identity_address": {
+                "address": "0x01F24Cb1DE93f218f6627D496e6318BEa65f2f34",
+                "r": "5f2f34",
+                "g": "18BEa6",
+                "b": "496e63"
+            },
+            "display_name": "Bushido FTSO",
+            "logo_url": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0x0d3852Ad415477fFC39ce9351bD4dEdbbd585833.png"
+        },
+        {
+            "id": 36,
+            "providersuccessrate": {
+                "id": 36,
+                "primary_bips": 505,
+                "secondary_bips": 1156,
+                "availability_bips": 9957,
+                "active": true,
+                "registration_weight": 20324026787416789776367547,
+                "entity": 36
+            },
+            "rewards": {
+                "total_reward": 89788333161979365755,
+                "current_earnings": 89788333161979365755,
+                "reward_rate": 0.0017671366821376169
+            },
+            "identity_address": {
+                "address": "0xAA14F00460Efa76418F9CE265fe6DbB259b59D3f",
+                "r": "b59D3f",
+                "g": "DbB259",
+                "b": "265fe6"
+            },
+            "display_name": "Tailwind FTSO",
+            "logo_url": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0x04Bd6870d801D68CD58163900B8EED6BDDdA29cB.png"
+        },
+        {
+            "id": 52,
+            "providersuccessrate": {
+                "id": 52,
+                "primary_bips": 0,
+                "secondary_bips": 0,
+                "availability_bips": 0,
+                "active": true,
+                "registration_weight": 20232404337152253778678812,
+                "entity": 52
+            },
+            "rewards": {
+                "total_reward": 0,
+                "current_earnings": 0,
+                "reward_rate": 0.0
+            },
+            "identity_address": {
+                "address": "0x928aeB29a4C82c7a1BBfF51d41777fAA4dD78A8E",
+                "r": "D78A8E",
+                "g": "7fAA4d",
+                "b": "1d4177"
+            },
+            "display_name": null,
+            "logo_url": null
+        },
+        {
+            "id": 64,
+            "providersuccessrate": {
+                "id": 64,
+                "primary_bips": 742,
+                "secondary_bips": 1379,
+                "availability_bips": 10000,
+                "active": true,
+                "registration_weight": 20153591567302137981279370,
+                "entity": 64
+            },
+            "rewards": {
+                "total_reward": 377739141239264853002,
+                "current_earnings": 377739141239264853002,
+                "reward_rate": 0.0074972074327857565
+            },
+            "identity_address": {
+                "address": "0xD03a130079430a5d8fd1caEA3535a80dDc6bFc0D",
+                "r": "6bFc0D",
+                "g": "a80dDc",
+                "b": "EA3535"
+            },
+            "display_name": "True FTSO",
+            "logo_url": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0xb6deD9D9CA19af10C67f9A8be8ca75e38E166faA.png"
+        },
+        {
+            "id": 49,
+            "providersuccessrate": {
+                "id": 49,
+                "primary_bips": 383,
+                "secondary_bips": 435,
+                "availability_bips": 8157,
+                "active": true,
+                "registration_weight": 20028109223609481518704997,
+                "entity": 49
+            },
+            "rewards": {
+                "total_reward": 133578514037942615706,
+                "current_earnings": 133578514037942615706,
+                "reward_rate": 0.0026678207622410598
+            },
+            "identity_address": {
+                "address": "0xcf3A3e5797A960C67e0E4B23D4594246ffB9d935",
+                "r": "B9d935",
+                "g": "4246ff",
+                "b": "23D459"
+            },
+            "display_name": "African Proofs",
+            "logo_url": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0xaF31CA175bbE0C6dD667c8403B65a33b28238afa.png"
+        },
+        {
+            "id": 27,
+            "providersuccessrate": {
+                "id": 27,
+                "primary_bips": 1261,
+                "secondary_bips": 1690,
+                "availability_bips": 9957,
+                "active": true,
+                "registration_weight": 20018929621097923765976228,
+                "entity": 27
+            },
+            "rewards": {
+                "total_reward": 557590256861198464431,
+                "current_earnings": 557590256861198464431,
+                "reward_rate": 0.011141260145568519
+            },
+            "identity_address": {
+                "address": "0xa6b95941845b229aD7b2cD4c3c6dE3aD9d0865Ff",
+                "r": "0865Ff",
+                "g": "E3aD9d",
+                "b": "4c3c6d"
+            },
+            "display_name": "InGen.FTSO",
+            "logo_url": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0x664e070592063bFE5072F0aC25C6C11e5ccF9928.png"
+        },
+        {
+            "id": 91,
+            "providersuccessrate": {
+                "id": 91,
+                "primary_bips": 0,
+                "secondary_bips": 0,
+                "availability_bips": 0,
+                "active": true,
+                "registration_weight": 20000005000000660752793631,
+                "entity": 91
+            },
+            "rewards": {
+                "total_reward": 0,
+                "current_earnings": 0,
+                "reward_rate": 0.0
+            },
+            "identity_address": {
+                "address": "0xA36Bc4D5e3deDBb03506F54c0F48af223026E919",
+                "r": "26E919",
+                "g": "af2230",
+                "b": "4c0F48"
+            },
+            "display_name": null,
+            "logo_url": null
+        },
+        {
+            "id": 94,
+            "providersuccessrate": {
+                "id": 94,
+                "primary_bips": 5262,
+                "secondary_bips": 4451,
+                "availability_bips": 10000,
+                "active": true,
+                "registration_weight": 797486391592425000000000,
+                "entity": 94
+            },
+            "rewards": {
+                "total_reward": 98930719213023681851,
+                "current_earnings": 98930719213023681851,
+                "reward_rate": 0.04962127015884412
+            },
+            "identity_address": {
+                "address": "0xeEddF5817a03a3a0e27e33672c4788A9e43fA438",
+                "r": "3fA438",
+                "g": "88A9e4",
+                "b": "672c47"
+            },
+            "display_name": null,
+            "logo_url": null
+        },
+        {
+            "id": 88,
+            "providersuccessrate": {
+                "id": 88,
+                "primary_bips": 756,
+                "secondary_bips": 1384,
+                "availability_bips": 10000,
+                "active": true,
+                "registration_weight": 715200000000000000000000,
+                "entity": 88
+            },
+            "rewards": {
+                "total_reward": 13726715802435095085,
+                "current_earnings": 13726715802435095085,
+                "reward_rate": 0.007677134117693007
+            },
+            "identity_address": {
+                "address": "0x736E7225CC876f30BA124C2bFb8C0ed133f6c7C9",
+                "r": "f6c7C9",
+                "g": "0ed133",
+                "b": "2bFb8C"
+            },
+            "display_name": null,
+            "logo_url": null
+        },
+        {
+            "id": 61,
+            "providersuccessrate": {
+                "id": 61,
+                "primary_bips": 2217,
+                "secondary_bips": 2828,
+                "availability_bips": 10000,
+                "active": true,
+                "registration_weight": 13505000000000000000000,
+                "entity": 61
+            },
+            "rewards": {
+                "total_reward": 813058915259542380,
+                "current_earnings": 813058915259542380,
+                "reward_rate": 0.02408171537236708
+            },
+            "identity_address": {
+                "address": "0xb6b43bE1178c356F9C2B8A8030451559fCC7AE8a",
+                "r": "C7AE8a",
+                "g": "1559fC",
+                "b": "803045"
+            },
+            "display_name": null,
+            "logo_url": null
+        },
+        {
+            "id": 89,
+            "providersuccessrate": {
+                "id": 89,
+                "primary_bips": 605,
+                "secondary_bips": 901,
+                "availability_bips": 9990,
+                "active": true,
+                "registration_weight": 10000000000000000000000,
+                "entity": 89
+            },
+            "rewards": {
+                "total_reward": 197253707542348815,
+                "current_earnings": 197253707542348815,
+                "reward_rate": 0.007890148301693966
+            },
+            "identity_address": {
+                "address": "0x7fBec5e3BE491C419A9e5822b40E0EDD00f18393",
+                "r": "f18393",
+                "g": "0EDD00",
+                "b": "22b40E"
+            },
+            "display_name": null,
+            "logo_url": null
+        },
+        {
+            "id": 1,
+            "providersuccessrate": {
+                "id": 1,
+                "primary_bips": 757,
+                "secondary_bips": 1382,
+                "availability_bips": 9974,
+                "active": true,
+                "registration_weight": 8005000000000000000000,
+                "entity": 1
+            },
+            "rewards": {
+                "total_reward": 244150733051119202,
+                "current_earnings": 244150733051119202,
+                "reward_rate": 0.012199911707738648
+            },
+            "identity_address": {
+                "address": "0xce1008d12BB6E5aA47905D1f3bd97042217fFeab",
+                "r": "7fFeab",
+                "g": "704221",
+                "b": "1f3bd9"
+            },
+            "display_name": "Flare Network Test 2",
+            "logo_url": ""
+        },
+        {
+            "id": 55,
+            "providersuccessrate": {
+                "id": 55,
+                "primary_bips": 0,
+                "secondary_bips": 0,
+                "availability_bips": 0,
+                "active": false,
+                "registration_weight": null,
+                "entity": 55
+            },
+            "rewards": {
+                "total_reward": null,
+                "current_earnings": null,
+                "reward_rate": null
+            },
+            "identity_address": {
+                "address": "0xF72Ea76C43577696040079AdAf7Ec946A6C646E1",
+                "r": "C646E1",
+                "g": "c946A6",
+                "b": "AdAf7E"
+            },
+            "display_name": null,
+            "logo_url": null
+        },
+        {
+            "id": 72,
+            "providersuccessrate": {
+                "id": 72,
+                "primary_bips": 0,
+                "secondary_bips": 0,
+                "availability_bips": 0,
+                "active": false,
+                "registration_weight": null,
+                "entity": 72
+            },
+            "rewards": {
+                "total_reward": null,
+                "current_earnings": null,
+                "reward_rate": null
+            },
+            "identity_address": {
+                "address": "0xa41d19F4258a388c639B7CcD938FCE3fb7D05e86",
+                "r": "D05e86",
+                "g": "CE3fb7",
+                "b": "cD938F"
+            },
+            "display_name": null,
+            "logo_url": null
+        },
+        {
+            "id": 73,
+            "providersuccessrate": {
+                "id": 73,
+                "primary_bips": 0,
+                "secondary_bips": 0,
+                "availability_bips": 0,
+                "active": false,
+                "registration_weight": null,
+                "entity": 73
+            },
+            "rewards": {
+                "total_reward": null,
+                "current_earnings": null,
+                "reward_rate": null
+            },
+            "identity_address": {
+                "address": "0xf4213E49488b9320769D35924AC52ea31a4C9fc1",
+                "r": "4C9fc1",
+                "g": "2ea31a",
+                "b": "924AC5"
+            },
+            "display_name": null,
+            "logo_url": null
+        },
+        {
+            "id": 76,
+            "providersuccessrate": {
+                "id": 76,
+                "primary_bips": 0,
+                "secondary_bips": 0,
+                "availability_bips": 0,
+                "active": false,
+                "registration_weight": null,
+                "entity": 76
+            },
+            "rewards": {
+                "total_reward": null,
+                "current_earnings": null,
+                "reward_rate": null
+            },
+            "identity_address": {
+                "address": "0x0FA72D3912d1C530AB1f6a8A9fB61C672947E964",
+                "r": "47E964",
+                "g": "1C6729",
+                "b": "8A9fB6"
+            },
+            "display_name": "FTSO Plus",
+            "logo_url": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0x0FA72D3912d1C530AB1f6a8A9fB61C672947E964.png"
+        },
+        {
+            "id": 78,
+            "providersuccessrate": {
+                "id": 78,
+                "primary_bips": 0,
+                "secondary_bips": 0,
+                "availability_bips": 0,
+                "active": false,
+                "registration_weight": null,
+                "entity": 78
+            },
+            "rewards": {
+                "total_reward": null,
+                "current_earnings": null,
+                "reward_rate": null
+            },
+            "identity_address": {
+                "address": "0x63eDAb9d9ca1C2CEc9c72EC86D65fa97e6AFbd01",
+                "r": "AFbd01",
+                "g": "fa97e6",
+                "b": "C86D65"
+            },
+            "display_name": null,
+            "logo_url": null
+        },
+        {
+            "id": 79,
+            "providersuccessrate": {
+                "id": 79,
+                "primary_bips": 0,
+                "secondary_bips": 0,
+                "availability_bips": 0,
+                "active": false,
+                "registration_weight": null,
+                "entity": 79
+            },
+            "rewards": {
+                "total_reward": null,
+                "current_earnings": null,
+                "reward_rate": null
+            },
+            "identity_address": {
+                "address": "0x1a696Acb220a4f76153c779f828d0Ba99028770a",
+                "r": "28770a",
+                "g": "0Ba990",
+                "b": "9f828d"
+            },
+            "display_name": null,
+            "logo_url": null
+        },
+        {
+            "id": 7,
+            "providersuccessrate": {
+                "id": 7,
+                "primary_bips": 0,
+                "secondary_bips": 0,
+                "availability_bips": 0,
+                "active": false,
+                "registration_weight": null,
+                "entity": 7
+            },
+            "rewards": {
+                "total_reward": null,
+                "current_earnings": null,
+                "reward_rate": null
+            },
+            "identity_address": {
+                "address": "0x2d3bdE536ad297f2EA74965f02C9E42f4780fB6A",
+                "r": "80fB6A",
+                "g": "E42f47",
+                "b": "5f02C9"
+            },
+            "display_name": null,
+            "logo_url": null
+        },
+        {
+            "id": 11,
+            "providersuccessrate": {
+                "id": 11,
+                "primary_bips": 0,
+                "secondary_bips": 0,
+                "availability_bips": 0,
+                "active": false,
+                "registration_weight": null,
+                "entity": 11
+            },
+            "rewards": {
+                "total_reward": null,
+                "current_earnings": null,
+                "reward_rate": null
+            },
+            "identity_address": {
+                "address": "0xB5ECB64526F777Eb6f02D4A83AbAB1FAD26b1C00",
+                "r": "6b1C00",
+                "g": "B1FAD2",
+                "b": "A83AbA"
+            },
+            "display_name": null,
+            "logo_url": null
+        },
+        {
+            "id": 15,
+            "providersuccessrate": {
+                "id": 15,
+                "primary_bips": 0,
+                "secondary_bips": 0,
+                "availability_bips": 0,
+                "active": false,
+                "registration_weight": null,
+                "entity": 15
+            },
+            "rewards": {
+                "total_reward": null,
+                "current_earnings": null,
+                "reward_rate": null
+            },
+            "identity_address": {
+                "address": "0x1C602a30335187A97D8061Ffffd4522796DE82bF",
+                "r": "DE82bF",
+                "g": "522796",
+                "b": "Ffffd4"
+            },
+            "display_name": null,
+            "logo_url": null
+        },
+        {
+            "id": 65,
+            "providersuccessrate": {
+                "id": 65,
+                "primary_bips": 0,
+                "secondary_bips": 0,
+                "availability_bips": 0,
+                "active": false,
+                "registration_weight": null,
+                "entity": 65
+            },
+            "rewards": {
+                "total_reward": null,
+                "current_earnings": null,
+                "reward_rate": null
+            },
+            "identity_address": {
+                "address": "0xbc1682730aE5BD0Aed7d210da330Ed581D9F2c4D",
+                "r": "9F2c4D",
+                "g": "Ed581D",
+                "b": "0da330"
+            },
+            "display_name": "Flaris",
+            "logo_url": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0x833DDe54A28a3070A086Cc8919BeAa7a0134DE46.png"
+        },
+        {
+            "id": 63,
+            "providersuccessrate": {
+                "id": 63,
+                "primary_bips": 0,
+                "secondary_bips": 0,
+                "availability_bips": 0,
+                "active": false,
+                "registration_weight": null,
+                "entity": 63
+            },
+            "rewards": {
+                "total_reward": null,
+                "current_earnings": null,
+                "reward_rate": null
+            },
+            "identity_address": {
+                "address": "0xc9AAE1C39de077aEB7D7BC5B018ACC4c71504A84",
+                "r": "504A84",
+                "g": "CC4c71",
+                "b": "5B018A"
+            },
+            "display_name": "Aimlezz",
+            "logo_url": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0x0501B6306b03A9EEDe8165d4B9abCB4915937b89.png"
+        },
+        {
+            "id": 41,
+            "providersuccessrate": {
+                "id": 41,
+                "primary_bips": 0,
+                "secondary_bips": 0,
+                "availability_bips": 0,
+                "active": false,
+                "registration_weight": null,
+                "entity": 41
+            },
+            "rewards": {
+                "total_reward": null,
+                "current_earnings": null,
+                "reward_rate": null
+            },
+            "identity_address": {
+                "address": "0x0A2128437f75Ea111887f033fD84794403562737",
+                "r": "562737",
+                "g": "794403",
+                "b": "33fD84"
+            },
+            "display_name": "4DadsFTSO",
+            "logo_url": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0x35D73107A089Ac2b3b14a6681D8c408Aab9568D3.png"
+        },
+        {
+            "id": 60,
+            "providersuccessrate": {
+                "id": 60,
+                "primary_bips": 0,
+                "secondary_bips": 0,
+                "availability_bips": 0,
+                "active": false,
+                "registration_weight": null,
+                "entity": 60
+            },
+            "rewards": {
+                "total_reward": null,
+                "current_earnings": null,
+                "reward_rate": null
+            },
+            "identity_address": {
+                "address": "0x3B1860969C6e00Aef35c48a1bbbe15a3017D558D",
+                "r": "7D558D",
+                "g": "15a301",
+                "b": "a1bbbe"
+            },
+            "display_name": null,
+            "logo_url": null
+        },
+        {
+            "id": 81,
+            "providersuccessrate": {
+                "id": 81,
+                "primary_bips": 0,
+                "secondary_bips": 0,
+                "availability_bips": 0,
+                "active": false,
+                "registration_weight": null,
+                "entity": 81
+            },
+            "rewards": {
+                "total_reward": null,
+                "current_earnings": null,
+                "reward_rate": null
+            },
+            "identity_address": {
+                "address": "0x56b9629d284143120a0dfbDD7c9B50B6eC40706c",
+                "r": "40706c",
+                "g": "50B6eC",
+                "b": "DD7c9B"
+            },
+            "display_name": null,
+            "logo_url": null
+        },
+        {
+            "id": 47,
+            "providersuccessrate": {
+                "id": 47,
+                "primary_bips": 0,
+                "secondary_bips": 0,
+                "availability_bips": 0,
+                "active": false,
+                "registration_weight": null,
+                "entity": 47
+            },
+            "rewards": {
+                "total_reward": null,
+                "current_earnings": null,
+                "reward_rate": null
+            },
+            "identity_address": {
+                "address": "0xDeb6752C4120E1ee876eF39A3034C146fAE189f8",
+                "r": "E189f8",
+                "g": "C146fA",
+                "b": "9A3034"
+            },
+            "display_name": null,
+            "logo_url": null
+        },
+        {
+            "id": 77,
+            "providersuccessrate": {
+                "id": 77,
+                "primary_bips": 0,
+                "secondary_bips": 0,
+                "availability_bips": 0,
+                "active": false,
+                "registration_weight": null,
+                "entity": 77
+            },
+            "rewards": {
+                "total_reward": null,
+                "current_earnings": null,
+                "reward_rate": null
+            },
+            "identity_address": {
+                "address": "0xE6caa2BCa8b0E9004724E0600b38db52C17BCaC3",
+                "r": "7BCaC3",
+                "g": "db52C1",
+                "b": "600b38"
+            },
+            "display_name": null,
+            "logo_url": null
+        },
+        {
+            "id": 84,
+            "providersuccessrate": {
+                "id": 84,
+                "primary_bips": 0,
+                "secondary_bips": 0,
+                "availability_bips": 0,
+                "active": false,
+                "registration_weight": null,
+                "entity": 84
+            },
+            "rewards": {
+                "total_reward": null,
+                "current_earnings": null,
+                "reward_rate": null
+            },
+            "identity_address": {
+                "address": "0x51e40f275feecA0A859CdA9D499afBcBe3804B71",
+                "r": "804B71",
+                "g": "fBcBe3",
+                "b": "9D499a"
+            },
+            "display_name": null,
+            "logo_url": null
+        },
+        {
+            "id": 85,
+            "providersuccessrate": {
+                "id": 85,
+                "primary_bips": 0,
+                "secondary_bips": 0,
+                "availability_bips": 0,
+                "active": false,
+                "registration_weight": null,
+                "entity": 85
+            },
+            "rewards": {
+                "total_reward": null,
+                "current_earnings": null,
+                "reward_rate": null
+            },
+            "identity_address": {
+                "address": "0x0013F4964DFB16F9C9Ebf1940eF22Af4573F6e1b",
+                "r": "3F6e1b",
+                "g": "2Af457",
+                "b": "940eF2"
+            },
+            "display_name": null,
+            "logo_url": null
+        },
+        {
+            "id": 86,
+            "providersuccessrate": {
+                "id": 86,
+                "primary_bips": 0,
+                "secondary_bips": 0,
+                "availability_bips": 0,
+                "active": false,
+                "registration_weight": null,
+                "entity": 86
+            },
+            "rewards": {
+                "total_reward": null,
+                "current_earnings": null,
+                "reward_rate": null
+            },
+            "identity_address": {
+                "address": "0x364197D52533c454e6C19086a895026048afedEB",
+                "r": "afedEB",
+                "g": "026048",
+                "b": "86a895"
+            },
+            "display_name": null,
+            "logo_url": null
+        },
+        {
+            "id": 93,
+            "providersuccessrate": {
+                "id": 93,
+                "primary_bips": 0,
+                "secondary_bips": 0,
+                "availability_bips": 0,
+                "active": false,
+                "registration_weight": null,
+                "entity": 93
+            },
+            "rewards": {
+                "total_reward": null,
+                "current_earnings": null,
+                "reward_rate": null
+            },
+            "identity_address": {
+                "address": "0x9b39520eF755Fb7AaE2468334dd6f8DD31609f1B",
+                "r": "609f1B",
+                "g": "f8DD31",
+                "b": "334dd6"
+            },
+            "display_name": null,
+            "logo_url": null
+        },
+        {
+            "id": 18,
+            "providersuccessrate": {
+                "id": 18,
+                "primary_bips": 0,
+                "secondary_bips": 0,
+                "availability_bips": 0,
+                "active": false,
+                "registration_weight": null,
+                "entity": 18
+            },
+            "rewards": {
+                "total_reward": null,
+                "current_earnings": null,
+                "reward_rate": null
+            },
+            "identity_address": {
+                "address": "0x121c651710217239592A169b9f7D1038Ad53446d",
+                "r": "53446d",
+                "g": "1038Ad",
+                "b": "9b9f7D"
+            },
+            "display_name": null,
+            "logo_url": null
+        },
+        {
+            "id": 82,
+            "providersuccessrate": {
+                "id": 82,
+                "primary_bips": 0,
+                "secondary_bips": 0,
+                "availability_bips": 0,
+                "active": false,
+                "registration_weight": null,
+                "entity": 82
+            },
+            "rewards": {
+                "total_reward": null,
+                "current_earnings": null,
+                "reward_rate": null
+            },
+            "identity_address": {
+                "address": "0xa9d0D7D854538C6902c004e5096d8bccB12FF3ec",
+                "r": "2FF3ec",
+                "g": "8bccB1",
+                "b": "e5096d"
+            },
+            "display_name": null,
+            "logo_url": null
+        },
+        {
+            "id": 83,
+            "providersuccessrate": {
+                "id": 83,
+                "primary_bips": 0,
+                "secondary_bips": 0,
+                "availability_bips": 0,
+                "active": false,
+                "registration_weight": null,
+                "entity": 83
+            },
+            "rewards": {
+                "total_reward": null,
+                "current_earnings": null,
+                "reward_rate": null
+            },
+            "identity_address": {
+                "address": "0xacdc39eCcCBA58f309E651B8b9A27C4624307AFc",
+                "r": "307AFc",
+                "g": "7C4624",
+                "b": "B8b9A2"
+            },
+            "display_name": null,
+            "logo_url": null
+        },
+        {
+            "id": 87,
+            "providersuccessrate": {
+                "id": 87,
+                "primary_bips": 0,
+                "secondary_bips": 0,
+                "availability_bips": 0,
+                "active": false,
+                "registration_weight": null,
+                "entity": 87
+            },
+            "rewards": {
+                "total_reward": null,
+                "current_earnings": null,
+                "reward_rate": null
+            },
+            "identity_address": {
+                "address": "0xb54547B790d0c05Be00fbd3d3436D3172854e3dC",
+                "r": "54e3dC",
+                "g": "D31728",
+                "b": "3d3436"
+            },
+            "display_name": "FTSOExpress",
+            "logo_url": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0x33DDAe234e403789954CD792e1feBdBE2466ADC2.png"
+        },
+        {
+            "id": 90,
+            "providersuccessrate": {
+                "id": 90,
+                "primary_bips": 0,
+                "secondary_bips": 0,
+                "availability_bips": 0,
+                "active": false,
+                "registration_weight": null,
+                "entity": 90
+            },
+            "rewards": {
+                "total_reward": null,
+                "current_earnings": null,
+                "reward_rate": null
+            },
+            "identity_address": {
+                "address": "0x74d9E42D010858A4b46418d9EfD7B494F08a876F",
+                "r": "8a876F",
+                "g": "B494F0",
+                "b": "d9EfD7"
+            },
+            "display_name": null,
+            "logo_url": null
+        },
+        {
+            "id": 28,
+            "providersuccessrate": {
+                "id": 28,
+                "primary_bips": 0,
+                "secondary_bips": 0,
+                "availability_bips": 0,
+                "active": false,
+                "registration_weight": null,
+                "entity": 28
+            },
+            "rewards": {
+                "total_reward": null,
+                "current_earnings": null,
+                "reward_rate": null
+            },
+            "identity_address": {
+                "address": "0xdd7B2Bac728f027f23aDD7128711ecB60f761aD5",
+                "r": "761aD5",
+                "g": "ecB60f",
+                "b": "128711"
+            },
+            "display_name": null,
+            "logo_url": null
+        },
+        {
+            "id": 39,
+            "providersuccessrate": {
+                "id": 39,
+                "primary_bips": 0,
+                "secondary_bips": 0,
+                "availability_bips": 0,
+                "active": false,
+                "registration_weight": null,
+                "entity": 39
+            },
+            "rewards": {
+                "total_reward": null,
+                "current_earnings": null,
+                "reward_rate": null
+            },
+            "identity_address": {
+                "address": "0x35D73107A089Ac2b3b14a6681D8c408Aab9568D3",
+                "r": "9568D3",
+                "g": "408Aab",
+                "b": "681D8c"
+            },
+            "display_name": null,
+            "logo_url": null
+        },
+        {
+            "id": 40,
+            "providersuccessrate": {
+                "id": 40,
+                "primary_bips": 0,
+                "secondary_bips": 0,
+                "availability_bips": 0,
+                "active": false,
+                "registration_weight": null,
+                "entity": 40
+            },
+            "rewards": {
+                "total_reward": null,
+                "current_earnings": null,
+                "reward_rate": null
+            },
+            "identity_address": {
+                "address": "0xD296098327d541E6057Cb2fFA309e19e9c7207eE",
+                "r": "7207eE",
+                "g": "e19e9c",
+                "b": "fFA309"
+            },
+            "display_name": null,
+            "logo_url": null
+        },
+        {
+            "id": 42,
+            "providersuccessrate": {
+                "id": 42,
+                "primary_bips": 0,
+                "secondary_bips": 0,
+                "availability_bips": 0,
+                "active": false,
+                "registration_weight": null,
+                "entity": 42
+            },
+            "rewards": {
+                "total_reward": null,
+                "current_earnings": null,
+                "reward_rate": null
+            },
+            "identity_address": {
+                "address": "0xfB9197720329a80191BA140844E96DCcAD149014",
+                "r": "149014",
+                "g": "6DCcAD",
+                "b": "0844E9"
+            },
+            "display_name": null,
+            "logo_url": null
+        },
+        {
+            "id": 96,
+            "providersuccessrate": {
+                "id": 96,
+                "primary_bips": 0,
+                "secondary_bips": 0,
+                "availability_bips": 0,
+                "active": false,
+                "registration_weight": null,
+                "entity": 96
+            },
+            "rewards": {
+                "total_reward": null,
+                "current_earnings": null,
+                "reward_rate": null
+            },
+            "identity_address": {
+                "address": "0xCDEAE85d8cEF99a6433F341c3DcE6096C3c5598c",
+                "r": "c5598c",
+                "g": "6096C3",
+                "b": "1c3DcE"
+            },
+            "display_name": null,
+            "logo_url": null
+        },
+        {
+            "id": 3,
+            "providersuccessrate": {
+                "id": 3,
+                "primary_bips": 0,
+                "secondary_bips": 0,
+                "availability_bips": 0,
+                "active": false,
+                "registration_weight": null,
+                "entity": 3
+            },
+            "rewards": {
+                "total_reward": null,
+                "current_earnings": null,
+                "reward_rate": null
+            },
+            "identity_address": {
+                "address": "0x526e10F59B79D4e434D367F30A5CF6aA49641642",
+                "r": "641642",
+                "g": "F6aA49",
+                "b": "F30A5C"
+            },
+            "display_name": "Flare Network Test 1",
+            "logo_url": ""
+        },
+        {
+            "id": 5,
+            "providersuccessrate": {
+                "id": 5,
+                "primary_bips": 0,
+                "secondary_bips": 0,
+                "availability_bips": 0,
+                "active": false,
+                "registration_weight": null,
+                "entity": 5
+            },
+            "rewards": {
+                "total_reward": null,
+                "current_earnings": null,
+                "reward_rate": null
+            },
+            "identity_address": {
+                "address": "0x7429E0C70306834E2B210cf3FEB306342f456ce7",
+                "r": "456ce7",
+                "g": "06342f",
+                "b": "f3FEB3"
+            },
+            "display_name": "Bifrost Wallet",
+            "logo_url": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0x69141E890F3a79cd2CFf552c0B71508bE23712dC.png"
+        },
+        {
+            "id": 95,
+            "providersuccessrate": {
+                "id": 95,
+                "primary_bips": 0,
+                "secondary_bips": 0,
+                "availability_bips": 0,
+                "active": false,
+                "registration_weight": null,
+                "entity": 95
+            },
+            "rewards": {
+                "total_reward": null,
+                "current_earnings": null,
+                "reward_rate": null
+            },
+            "identity_address": {
+                "address": "0xC280759EEFc65BF0AC29cCdAC2d8eCe0B2519F8B",
+                "r": "519F8B",
+                "g": "eCe0B2",
+                "b": "dAC2d8"
+            },
+            "display_name": null,
+            "logo_url": null
+        },
+        {
+            "id": 70,
+            "providersuccessrate": {
+                "id": 70,
+                "primary_bips": 0,
+                "secondary_bips": 0,
+                "availability_bips": 0,
+                "active": false,
+                "registration_weight": null,
+                "entity": 70
+            },
+            "rewards": {
+                "total_reward": null,
+                "current_earnings": null,
+                "reward_rate": null
+            },
+            "identity_address": {
+                "address": "0x5B28A13aB8f85Bf5C17254e6e72E2E1E7a5275aC",
+                "r": "5275aC",
+                "g": "2E1E7a",
+                "b": "e6e72E"
+            },
+            "display_name": null,
+            "logo_url": null
+        }
+    ]
+}

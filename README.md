@@ -2,13 +2,19 @@
 
 # Flare Metrics
 
-A set of tools for web-scrapping [flare-metrics.io](flare-metrics.io) and analysing Flare Network's data providers.
+A set of tools for web-scrapping  and analysing Flare Network's data providers.
 
-- [x] Validator data
-- [x] FTSO data
-- [x] Songbird compatibility for FTSO data 
+1. [flaremetrics.io](flaremetrics.io):
+    - [x] Validator data
+    - [x] FTSO data
+    - [x] Songbird compatibility for FTSO data
+2. [Flare systems explorer](https://songbird-systems-explorer.flare.rocks/entities/ftsoDataProvider)
+    - [x] Songbird FTSO data
+3. [FTSO monitor](https://flare-ftso-monitor.flare.network/data-providers)
+    - [ ] FTSO data
+    - [ ] Songbird compatibility
 
-Note: The FTSO data from [flare-metrics.io](flare-metrics.io) does not comme with unique addresses. As such, matching FTSOs with validator nodes can be done only based on the names. (The alternative is to use a different source for extracting FTSO data, such as the [FTSO monitor](https://flare-ftso-monitor.flare.network/data-providers).)
+Note: Staking is currently live only on Flare. The data of the FTSO providers from [flare-metrics.io](flaremetrics.io) does not include C-chain addresses. As such, matching FTSO addresses with validator nodes can be done only based on the names. An alternative is to use a different source for extracting FTSO data, such as the [FTSO monitor](https://flare-ftso-monitor.flare.network/data-providers), which only includes FTSO data.
 
 ### Setup
 ----------------------------
@@ -36,17 +42,18 @@ pip install -r requirements.txt
 ### Web scrapping
 ----------------------------
 
-To import data from the `validators` section of `flare-metrics.io`, navigate to the root directory and run:
+There are two types of data that one can import: validator data which refers to the validator nodes on the P-chains, and FTSO data for the data providers on the C-chains. To import validator data, navigate to the root directory and run:
 ```
-python data_scripts/validator_scrapper.py
+python data_scripts/flare_metrics_validator.py
 ```
 
-This will create a dataframe within the `data` sub-directory, with information about all current validators. 
+This will create a dataframe within the `data` sub-directory, with information about all current validators on Flare.
 
-Similarly, for FTSO data, run:
+For FTSO data, there are multiple available sources: [flaremetrics.io](flaremetrics.io), [Flare systems explorer](https://songbird-systems-explorer.flare.rocks/entities/ftsoDataProvider) (currently supporting only Songbird and testnets), and [FTSO monitor](https://flare-ftso-monitor.flare.network/data-providers). Run one of the following from the root directory:
 ```
-python data_scripts/ftso_scrapper.py
+python data_scripts/flare_metrics_ftso.py
+python data_scrupts/sys_explorer_ftso.py
 ```
-Note that if songbird data is needed instead, the `network` parameter within `ftso_scrapper.py` should be changed before running the script.
+Note that the `flare_metrics_ftso.py` script will import Flare network data by default. If songbird data is needed instead, the `network` parameter within `flare_metrics_ftso.py` should be changed before running the script.
 
 

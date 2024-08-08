@@ -1,36 +1,41 @@
+"""
+A script for web scrapping ftso data from flaremetrics.io.
+Before running, make sure to select the appropriate network (flare or songbird), by setting the network parameter below.
+"""
+
 import os
 import requests
 import pandas as pd
 from bs4 import BeautifulSoup
 
+from config import DATA_PATH
+
 ####################################################################
 ####################################################################
 ############# Choose network: CHANGE ACCORDINGLY ###################
 ####################################################################
-network = 'flare' # 'songbird' 
+network = 'flr' # 'sgb' 
 ####################################################################
 ####################################################################
 ####################################################################
 ####################################################################
-
-
-# Define paths
-data_folder = os.path.join(os.path.dirname(__file__), '..', 'data')
 
 
 # Data saving paths
-
-txt_file_path = os.path.join(data_folder, f'{network}_ftso.txt')
-csv_file_path = os.path.join(data_folder, f'{network}_ftso_df.csv')
+txt_file_path = os.path.join(DATA_PATH, f'flare-metrics_{network}_ftso.txt')
+csv_file_path = os.path.join(DATA_PATH, f'flare-metrics_{network}_ftso.csv')
 
 # Create data folder if it doesn't exist
-os.makedirs(data_folder, exist_ok=True)
+os.makedirs(DATA_PATH, exist_ok=True)
 
 # URL of the validators page
-if network == 'flare':
+if network == 'flr':
     url = "https://flaremetrics.io"
-else:
+elif network == 'sgb':
     url = "https://flaremetrics.io/songbird"
+else:
+    raise ValueError(f"Unsupported network: {network}. Please use 'flr' or 'sgb'.")
+    
 
 # Send a GET request to the page
 response = requests.get(url)
