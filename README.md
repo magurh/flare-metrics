@@ -7,6 +7,7 @@ A set of tools for web-scrapping [flare-metrics.io](flare-metrics.io) and analys
 
 - [x] Validator data
 - [x] FTSO data
+- [x] Songbird compatibility for FTSO data 
 
 Note: The FTSO data from [flare-metrics.io](flare-metrics.io) does not comme with unique addresses. As such, matching FTSOs with validator nodes can be done only based on the names. (The alternative is to use a different source for extracting FTSO data, such as the [FTSO monitor](https://flare-ftso-monitor.flare.network/data-providers).)
 
@@ -47,6 +48,6 @@ Similarly, for FTSO data, run:
 ```
 python data_scripts/ftso_scrapper.py
 ```
-
+Note that if songbird data is needed instead, the `network` parameter within `ftso_scrapper.py` should be changed before running the script.
 
 

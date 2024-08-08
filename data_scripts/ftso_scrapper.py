@@ -5,14 +5,23 @@ from bs4 import BeautifulSoup
 
 # Define paths
 data_folder = os.path.join(os.path.dirname(__file__), '..', 'data')
-txt_file_path = os.path.join(data_folder, 'flare_ftso.txt')
-csv_file_path = os.path.join(data_folder, 'flare_ftso_df.csv')
+
+# Choose network
+network = 'songbird' # 'flare'
+
+# Data saving paths
+
+txt_file_path = os.path.join(data_folder, f'{network}_ftso.txt')
+csv_file_path = os.path.join(data_folder, f'{network}_ftso_df.csv')
 
 # Create data folder if it doesn't exist
 os.makedirs(data_folder, exist_ok=True)
 
 # URL of the validators page
-url = "https://flaremetrics.io"
+if network == 'flare':
+    url = "https://flaremetrics.io"
+else:
+    url = "https://flaremetrics.io/songbird"
 
 # Send a GET request to the page
 response = requests.get(url)
