@@ -7,17 +7,17 @@
             "id": 58,
             "providersuccessrate": {
                 "id": 58,
-                "primary_bips": 1761,
-                "secondary_bips": 3300,
+                "primary_bips": 1760,
+                "secondary_bips": 3311,
                 "availability_bips": 9995,
                 "active": true,
                 "registration_weight": 374625741874161791392637346,
                 "entity": 58
             },
             "rewards": {
-                "total_reward": 7484626881886318216136,
-                "current_earnings": 7484626881886318216136,
-                "reward_rate": 0.007991577775133705
+                "total_reward": 7586319025063172995115,
+                "current_earnings": 7586319025063172995115,
+                "reward_rate": 0.008100157759699756
             },
             "identity_address": {
                 "address": "0x0c660191434484428A563614E0aa9d2041772953",
@@ -32,17 +32,17 @@
             "id": 46,
             "providersuccessrate": {
                 "id": 46,
-                "primary_bips": 7451,
-                "secondary_bips": 4766,
+                "primary_bips": 7448,
+                "secondary_bips": 4768,
                 "availability_bips": 10000,
                 "active": true,
                 "registration_weight": 305467526911179946412578898,
                 "entity": 46
             },
             "rewards": {
-                "total_reward": 28100350109667624637324,
-                "current_earnings": 28100350109667624637324,
-                "reward_rate": 0.03679651371628552
+                "total_reward": 28427057995380498906378,
+                "current_earnings": 28427057995380498906378,
+                "reward_rate": 0.037224327289815215
             },
             "identity_address": {
                 "address": "0x89f7498a8db97FF7d8ef323E480Cb18dB44a1309",
@@ -57,17 +57,17 @@
             "id": 48,
             "providersuccessrate": {
                 "id": 48,
-                "primary_bips": 5567,
-                "secondary_bips": 4270,
+                "primary_bips": 5565,
+                "secondary_bips": 4274,
                 "availability_bips": 10000,
                 "active": true,
                 "registration_weight": 280722932753763331378215150,
                 "entity": 48
             },
             "rewards": {
-                "total_reward": 16993800637148308232647,
-                "current_earnings": 16993800637148308232647,
-                "reward_rate": 0.02421433898605562
+                "total_reward": 17214537197593927913989,
+                "current_earnings": 17214537197593927913989,
+                "reward_rate": 0.02452886485436328
             },
             "identity_address": {
                 "address": "0x6c2209754845dF0FC01D048c3F3C3537B5D35B9c",
@@ -82,17 +82,17 @@
             "id": 31,
             "providersuccessrate": {
                 "id": 31,
-                "primary_bips": 6506,
-                "secondary_bips": 4688,
+                "primary_bips": 6521,
+                "secondary_bips": 4693,
                 "availability_bips": 10000,
                 "active": true,
                 "registration_weight": 271649633818697632905375871,
                 "entity": 31
             },
             "rewards": {
-                "total_reward": 24868589334522516299494,
-                "current_earnings": 24868589334522516299494,
-                "reward_rate": 0.03661862375433221
+                "total_reward": 25167739738014681642847,
+                "current_earnings": 25167739738014681642847,
+                "reward_rate": 0.037059118224045826
             },
             "identity_address": {
                 "address": "0x3ED54c61EC0fF7C144d547C2d032392864e66cA2",
@@ -107,17 +107,17 @@
             "id": 12,
             "providersuccessrate": {
                 "id": 12,
-                "primary_bips": 7128,
-                "secondary_bips": 4812,
+                "primary_bips": 7125,
+                "secondary_bips": 4815,
                 "availability_bips": 10000,
                 "active": true,
                 "registration_weight": 266399339724409752797390911,
                 "entity": 12
             },
             "rewards": {
-                "total_reward": 26623302303273350853370,
-                "current_earnings": 26623302303273350853370,
-                "reward_rate": 0.0399750274618776
+                "total_reward": 26928453583784087817065,
+                "current_earnings": 26928453583784087817065,
+                "reward_rate": 0.040433213703369664
             },
             "identity_address": {
                 "address": "0x19585c914AeA4d985E034399c581B35014ec94eF",
@@ -132,17 +132,17 @@
             "id": 56,
             "providersuccessrate": {
                 "id": 56,
-                "primary_bips": 7480,
-                "secondary_bips": 4738,
+                "primary_bips": 7476,
+                "secondary_bips": 4739,
                 "availability_bips": 9996,
                 "active": true,
                 "registration_weight": 244782200013152622168642326,
                 "entity": 56
             },
             "rewards": {
-                "total_reward": 27792567938864691642573,
-                "current_earnings": 27792567938864691642573,
-                "reward_rate": 0.045415995014950174
+                "total_reward": 28067471545763933220019,
+                "current_earnings": 28067471545763933220019,
+                "reward_rate": 0.04586521657907448
             },
             "identity_address": {
                 "address": "0x037c3e6a8f65ad2d810f26DB3439d96e48156858",
@@ -157,17 +157,17 @@
             "id": 13,
             "providersuccessrate": {
                 "id": 13,
-                "primary_bips": 6309,
-                "secondary_bips": 4584,
+                "primary_bips": 6303,
+                "secondary_bips": 4587,
                 "availability_bips": 10000,
                 "active": true,
                 "registration_weight": 243148636047516594120591132,
                 "entity": 13
             },
             "rewards": {
-                "total_reward": 24372823973139358413458,
-                "current_earnings": 24372823973139358413458,
-                "reward_rate": 0.04009534969116812
+                "total_reward": 24672904630740367171649,
+                "current_earnings": 24672904630740367171649,
+                "reward_rate": 0.040589007665120094
             },
             "identity_address": {
                 "address": "0x342C8c165Db96a60EfEdd2E3480ae5398A1fd322",
@@ -182,17 +182,17 @@
             "id": 43,
             "providersuccessrate": {
                 "id": 43,
-                "primary_bips": 5925,
-                "secondary_bips": 4332,
+                "primary_bips": 5924,
+                "secondary_bips": 4334,
                 "availability_bips": 9996,
                 "active": true,
                 "registration_weight": 241397368037073832850361779,
                 "entity": 43
             },
             "rewards": {
-                "total_reward": 21539622592378230036383,
-                "current_earnings": 21539622592378230036383,
-                "reward_rate": 0.035691561623107965
+                "total_reward": 21722834556317440570320,
+                "current_earnings": 21722834556317440570320,
+                "reward_rate": 0.0359951473091144
             },
             "identity_address": {
                 "address": "0xEE6f6572cfeB3467CE5F3572Bea7c5FD6d2b1725",
@@ -207,17 +207,17 @@
             "id": 14,
             "providersuccessrate": {
                 "id": 14,
-                "primary_bips": 6756,
-                "secondary_bips": 4615,
+                "primary_bips": 6752,
+                "secondary_bips": 4619,
                 "availability_bips": 9996,
                 "active": true,
                 "registration_weight": 239059278372588765200834063,
                 "entity": 14
             },
             "rewards": {
-                "total_reward": 25004603638418577390901,
-                "current_earnings": 25004603638418577390901,
-                "reward_rate": 0.04183833199638015
+                "total_reward": 25330700588853360284362,
+                "current_earnings": 25330700588853360284362,
+                "reward_rate": 0.042383965619395676
             },
             "identity_address": {
                 "address": "0xB4466BE43F01e8A615490098AAF18a1dc5c56568",
@@ -232,17 +232,17 @@
             "id": 67,
             "providersuccessrate": {
                 "id": 67,
-                "primary_bips": 5323,
-                "secondary_bips": 4222,
-                "availability_bips": 9515,
+                "primary_bips": 5325,
+                "secondary_bips": 4228,
+                "availability_bips": 9527,
                 "active": true,
                 "registration_weight": 235119532050408730903446243,
                 "entity": 67
             },
             "rewards": {
-                "total_reward": 13524119680596599015792,
-                "current_earnings": 13524119680596599015792,
-                "reward_rate": 0.02300807519078777
+                "total_reward": 13834668060769805538536,
+                "current_earnings": 13834668060769805538536,
+                "reward_rate": 0.02353639944775614
             },
             "identity_address": {
                 "address": "0x98BBe5658da8B31FbD3F07157a2cff4D10c0f22e",
@@ -257,17 +257,17 @@
             "id": 34,
             "providersuccessrate": {
                 "id": 34,
-                "primary_bips": 5675,
-                "secondary_bips": 4230,
-                "availability_bips": 9532,
+                "primary_bips": 5679,
+                "secondary_bips": 4239,
+                "availability_bips": 9543,
                 "active": true,
                 "registration_weight": 231359489957576214445216469,
                 "entity": 34
             },
             "rewards": {
-                "total_reward": 21365710115534030031813,
-                "current_earnings": 21365710115534030031813,
-                "reward_rate": 0.036939414275942266
+                "total_reward": 21458995155480267006616,
+                "current_earnings": 21458995155480267006616,
+                "reward_rate": 0.037100695820889214
             },
             "identity_address": {
                 "address": "0x4F84caAb4a53Aabbad2dfE1013d2bB53EDBF2f0a",
@@ -282,7 +282,7 @@
             "id": 32,
             "providersuccessrate": {
                 "id": 32,
-                "primary_bips": 3357,
+                "primary_bips": 3345,
                 "secondary_bips": 3863,
                 "availability_bips": 10000,
                 "active": true,
@@ -290,9 +290,9 @@
                 "entity": 32
             },
             "rewards": {
-                "total_reward": 13551084357022241556982,
-                "current_earnings": 13551084357022241556982,
-                "reward_rate": 0.02384499701669161
+                "total_reward": 13687671399375595844751,
+                "current_earnings": 13687671399375595844751,
+                "reward_rate": 0.024085340706659616
             },
             "identity_address": {
                 "address": "0x1CBf078705c907510fdB711Cf3c6e9B8E583f156",
@@ -307,17 +307,17 @@
             "id": 16,
             "providersuccessrate": {
                 "id": 16,
-                "primary_bips": 7725,
-                "secondary_bips": 4796,
+                "primary_bips": 7724,
+                "secondary_bips": 4798,
                 "availability_bips": 9993,
                 "active": true,
                 "registration_weight": 227208593911482265768920056,
                 "entity": 16
             },
             "rewards": {
-                "total_reward": 28265216382890210255667,
-                "current_earnings": 28265216382890210255667,
-                "reward_rate": 0.049760822680680813
+                "total_reward": 28565763695784205717248,
+                "current_earnings": 28565763695784205717248,
+                "reward_rate": 0.05028993525995427
             },
             "identity_address": {
                 "address": "0x8ddd48b520Df91f05C5d8c19b2cEE59ABe65978a",
@@ -332,17 +332,17 @@
             "id": 17,
             "providersuccessrate": {
                 "id": 17,
-                "primary_bips": 6150,
-                "secondary_bips": 4610,
+                "primary_bips": 6143,
+                "secondary_bips": 4612,
                 "availability_bips": 10000,
                 "active": true,
                 "registration_weight": 221606745687975182770835051,
                 "entity": 17
             },
             "rewards": {
-                "total_reward": 24103579762048279329078,
-                "current_earnings": 24103579762048279329078,
-                "reward_rate": 0.04350694233105412
+                "total_reward": 24375517313826637018068,
+                "current_earnings": 24375517313826637018068,
+                "reward_rate": 0.043997789396082086
             },
             "identity_address": {
                 "address": "0x18c8aF2EaC14282E207c67c405325E5A4a401A9F",
@@ -357,17 +357,17 @@
             "id": 29,
             "providersuccessrate": {
                 "id": 29,
-                "primary_bips": 3774,
-                "secondary_bips": 3715,
+                "primary_bips": 3769,
+                "secondary_bips": 3722,
                 "availability_bips": 9986,
                 "active": true,
                 "registration_weight": 221205859190420586558802135,
                 "entity": 29
             },
             "rewards": {
-                "total_reward": 14700071520657116383614,
-                "current_earnings": 14700071520657116383614,
-                "reward_rate": 0.026581703711569152
+                "total_reward": 14868366248640258641383,
+                "current_earnings": 14868366248640258641383,
+                "reward_rate": 0.02688602608096583
             },
             "identity_address": {
                 "address": "0xBe311F1640b700F76D17C009a505487C23b0312c",
@@ -382,17 +382,17 @@
             "id": 2,
             "providersuccessrate": {
                 "id": 2,
-                "primary_bips": 4777,
-                "secondary_bips": 3894,
-                "availability_bips": 9967,
+                "primary_bips": 4768,
+                "secondary_bips": 3900,
+                "availability_bips": 9968,
                 "active": true,
                 "registration_weight": 220092902740493092339486806,
                 "entity": 2
             },
             "rewards": {
-                "total_reward": 18359130332840617598981,
-                "current_earnings": 18359130332840617598981,
-                "reward_rate": 0.033366146939299506
+                "total_reward": 18479499052739850886442,
+                "current_earnings": 18479499052739850886442,
+                "reward_rate": 0.033584906778259246
             },
             "identity_address": {
                 "address": "0x4985138d5efaB799CaA5abb09Eb7DBC87Dd5141A",
@@ -407,17 +407,17 @@
             "id": 59,
             "providersuccessrate": {
                 "id": 59,
-                "primary_bips": 6381,
-                "secondary_bips": 4706,
-                "availability_bips": 9964,
+                "primary_bips": 6368,
+                "secondary_bips": 4703,
+                "availability_bips": 9965,
                 "active": true,
                 "registration_weight": 202566209734464710156193166,
                 "entity": 59
             },
             "rewards": {
-                "total_reward": 23176090131039898178159,
-                "current_earnings": 23176090131039898178159,
-                "reward_rate": 0.04576496773360263
+                "total_reward": 23401384189404051994075,
+                "current_earnings": 23401384189404051994075,
+                "reward_rate": 0.04620984757542715
             },
             "identity_address": {
                 "address": "0x44Eb776cd95aE59b2edA2cE354557427361e75Da",
@@ -432,17 +432,17 @@
             "id": 80,
             "providersuccessrate": {
                 "id": 80,
-                "primary_bips": 6883,
-                "secondary_bips": 4764,
+                "primary_bips": 6886,
+                "secondary_bips": 4765,
                 "availability_bips": 10000,
                 "active": true,
                 "registration_weight": 170797273418222282393583196,
                 "entity": 80
             },
             "rewards": {
-                "total_reward": 20276983253395686600169,
-                "current_earnings": 20276983253395686600169,
-                "reward_rate": 0.04748783829527421
+                "total_reward": 20561773972548029320257,
+                "current_earnings": 20561773972548029320257,
+                "reward_rate": 0.048154806130188035
             },
             "identity_address": {
                 "address": "0x23075D2210F1aC5f8eaD459bE03Ea7337D10afA0",
@@ -457,17 +457,17 @@
             "id": 74,
             "providersuccessrate": {
                 "id": 74,
-                "primary_bips": 526,
-                "secondary_bips": 911,
+                "primary_bips": 529,
+                "secondary_bips": 924,
                 "availability_bips": 9834,
                 "active": true,
                 "registration_weight": 158520418846578557155471780,
                 "entity": 74
             },
             "rewards": {
-                "total_reward": 1654320661199903987254,
-                "current_earnings": 1654320661199903987254,
-                "reward_rate": 0.004174403961930007
+                "total_reward": 1675418647725263469781,
+                "current_earnings": 1675418647725263469781,
+                "reward_rate": 0.004227641233642691
             },
             "identity_address": {
                 "address": "0xB3C9AA09F22A06122d3608Ef075f14E001561470",
@@ -482,17 +482,17 @@
             "id": 25,
             "providersuccessrate": {
                 "id": 25,
-                "primary_bips": 3231,
-                "secondary_bips": 3470,
-                "availability_bips": 9983,
+                "primary_bips": 3227,
+                "secondary_bips": 3476,
+                "availability_bips": 9984,
                 "active": true,
                 "registration_weight": 148644822237232027014899056,
                 "entity": 25
             },
             "rewards": {
-                "total_reward": 9219581854527946171264,
-                "current_earnings": 9219581854527946171264,
-                "reward_rate": 0.024809695260865017
+                "total_reward": 9291105479511738558910,
+                "current_earnings": 9291105479511738558910,
+                "reward_rate": 0.025002163787941307
             },
             "identity_address": {
                 "address": "0x661a71e863c887E68aa8c9348e8AA60E48a868Ad",
@@ -507,17 +507,17 @@
             "id": 75,
             "providersuccessrate": {
                 "id": 75,
-                "primary_bips": 1698,
-                "secondary_bips": 1618,
-                "availability_bips": 9691,
+                "primary_bips": 1764,
+                "secondary_bips": 1672,
+                "availability_bips": 9698,
                 "active": true,
                 "registration_weight": 142130486666308001211766556,
                 "entity": 75
             },
             "rewards": {
-                "total_reward": 4658107124651979266368,
-                "current_earnings": 4582152263534251106907,
-                "reward_rate": 0.012895621118338009
+                "total_reward": 4783816760796585352371,
+                "current_earnings": 4707861899678857192910,
+                "reward_rate": 0.013249407667847955
             },
             "identity_address": {
                 "address": "0xDbB159Ee372D58d2653023bF1c5ab5678b842870",
@@ -532,17 +532,17 @@
             "id": 37,
             "providersuccessrate": {
                 "id": 37,
-                "primary_bips": 1010,
-                "secondary_bips": 1417,
+                "primary_bips": 1007,
+                "secondary_bips": 1418,
                 "availability_bips": 9996,
                 "active": true,
                 "registration_weight": 122754687951532830033366446,
                 "entity": 37
             },
             "rewards": {
-                "total_reward": 2655646216869834081025,
-                "current_earnings": 2655646216869834081025,
-                "reward_rate": 0.008653506472741348
+                "total_reward": 2684813666459302175325,
+                "current_earnings": 2684813666459302175325,
+                "reward_rate": 0.008748549521854011
             },
             "identity_address": {
                 "address": "0x00620F4659Bc546284dAB2720373C606727f073A",
@@ -582,17 +582,17 @@
             "id": 30,
             "providersuccessrate": {
                 "id": 30,
-                "primary_bips": 3158,
-                "secondary_bips": 3490,
+                "primary_bips": 3161,
+                "secondary_bips": 3496,
                 "availability_bips": 9993,
                 "active": true,
                 "registration_weight": 99683775590382961318326322,
                 "entity": 30
             },
             "rewards": {
-                "total_reward": 6362118918292454942804,
-                "current_earnings": 6362118918292454942804,
-                "reward_rate": 0.02552920525175711
+                "total_reward": 6418852018937598613534,
+                "current_earnings": 6418852018937598613534,
+                "reward_rate": 0.025756857546462595
             },
             "identity_address": {
                 "address": "0xD288C3EF25eBf79e7C53EA37DcDfB0710f3Ed173",
@@ -607,17 +607,17 @@
             "id": 21,
             "providersuccessrate": {
                 "id": 21,
-                "primary_bips": 484,
-                "secondary_bips": 931,
+                "primary_bips": 486,
+                "secondary_bips": 935,
                 "availability_bips": 10000,
                 "active": true,
                 "registration_weight": 96179782500713524246757475,
                 "entity": 21
             },
             "rewards": {
-                "total_reward": 1022774131530571315526,
-                "current_earnings": 1022774131530571315526,
-                "reward_rate": 0.004253593031458493
+                "total_reward": 1029006784112524730506,
+                "current_earnings": 1029006784112524730506,
+                "reward_rate": 0.004279513874362904
             },
             "identity_address": {
                 "address": "0xAb3DAe93cD52f6e2A0809Dc19567C79ac3b1e225",
@@ -632,17 +632,17 @@
             "id": 45,
             "providersuccessrate": {
                 "id": 45,
-                "primary_bips": 2748,
-                "secondary_bips": 2992,
+                "primary_bips": 2745,
+                "secondary_bips": 3002,
                 "availability_bips": 9993,
                 "active": true,
                 "registration_weight": 80114093981672830894570525,
                 "entity": 45
             },
             "rewards": {
-                "total_reward": 4330977006268135576826,
-                "current_earnings": 4330977006268135576826,
-                "reward_rate": 0.02162404536339838
+                "total_reward": 4360302238960587896656,
+                "current_earnings": 4360302238960587896656,
+                "reward_rate": 0.0217704627101347
             },
             "identity_address": {
                 "address": "0xC1d269E9D2A39c6A285EaAF53Eb9fe9b7245C87E",
@@ -657,17 +657,17 @@
             "id": 23,
             "providersuccessrate": {
                 "id": 23,
-                "primary_bips": 763,
-                "secondary_bips": 1377,
+                "primary_bips": 766,
+                "secondary_bips": 1390,
                 "availability_bips": 10000,
                 "active": true,
                 "registration_weight": 64518713636002135952817782,
                 "entity": 23
             },
             "rewards": {
-                "total_reward": 1145572904853842570178,
-                "current_earnings": 1145572904853842570178,
-                "reward_rate": 0.007102267483613317
+                "total_reward": 1156189406829820035150,
+                "current_earnings": 1156189406829820035150,
+                "reward_rate": 0.0071680871590387935
             },
             "identity_address": {
                 "address": "0xa0E1FBA30e75e2d0D6C428cFF4B3b6A06233422b",
@@ -682,17 +682,17 @@
             "id": 68,
             "providersuccessrate": {
                 "id": 68,
-                "primary_bips": 4092,
-                "secondary_bips": 4174,
+                "primary_bips": 4086,
+                "secondary_bips": 4178,
                 "availability_bips": 9987,
                 "active": true,
                 "registration_weight": 56876909040966058712428131,
                 "entity": 68
             },
             "rewards": {
-                "total_reward": 4313290880365554326580,
-                "current_earnings": 4313290880365554326580,
-                "reward_rate": 0.030334214380453566
+                "total_reward": 4335152709676028443463,
+                "current_earnings": 4335152709676028443463,
+                "reward_rate": 0.030487962744625233
             },
             "identity_address": {
                 "address": "0x90C0Edf240397D461eBe7DF9b41EE9b4415F3432",
@@ -707,17 +707,17 @@
             "id": 9,
             "providersuccessrate": {
                 "id": 9,
-                "primary_bips": 4683,
-                "secondary_bips": 3881,
-                "availability_bips": 9645,
+                "primary_bips": 4722,
+                "secondary_bips": 3893,
+                "availability_bips": 9654,
                 "active": true,
                 "registration_weight": 48348772553207495400416035,
                 "entity": 9
             },
             "rewards": {
-                "total_reward": 3901020790826728041354,
-                "current_earnings": 3901020790826728041354,
-                "reward_rate": 0.032274000640108755
+                "total_reward": 3963013124726583798723,
+                "current_earnings": 3963013124726583798723,
+                "reward_rate": 0.0327868768156653
             },
             "identity_address": {
                 "address": "0x527E5e829763885008E171493C0E8d4A1eC48239",
@@ -733,16 +733,16 @@
             "providersuccessrate": {
                 "id": 35,
                 "primary_bips": 635,
-                "secondary_bips": 1142,
+                "secondary_bips": 1143,
                 "availability_bips": 9736,
                 "active": true,
                 "registration_weight": 48326632431686732892332303,
                 "entity": 35
             },
             "rewards": {
-                "total_reward": 654935467986372886386,
-                "current_earnings": 654935467986372886386,
-                "reward_rate": 0.005420907148141743
+                "total_reward": 657439477967186784292,
+                "current_earnings": 657439477967186784292,
+                "reward_rate": 0.005441632862761759
             },
             "identity_address": {
                 "address": "0xbB99dda7b6dcE88908dCD684ab7bf1a90f084401",
@@ -757,17 +757,17 @@
             "id": 44,
             "providersuccessrate": {
                 "id": 44,
-                "primary_bips": 705,
-                "secondary_bips": 1282,
-                "availability_bips": 9992,
+                "primary_bips": 708,
+                "secondary_bips": 1294,
+                "availability_bips": 9993,
                 "active": true,
                 "registration_weight": 41976066119184033138954519,
                 "entity": 44
             },
             "rewards": {
-                "total_reward": 691738943258405606494,
-                "current_earnings": 615784082140677447033,
-                "reward_rate": 0.005867954185056421
+                "total_reward": 694358574157718215769,
+                "current_earnings": 618403713039990056308,
+                "reward_rate": 0.0058929172760890545
             },
             "identity_address": {
                 "address": "0x4ddd9f80F88F53c730CE7C6041f17583447DD968",
@@ -782,17 +782,17 @@
             "id": 19,
             "providersuccessrate": {
                 "id": 19,
-                "primary_bips": 6448,
-                "secondary_bips": 4598,
-                "availability_bips": 9922,
+                "primary_bips": 6430,
+                "secondary_bips": 4595,
+                "availability_bips": 9923,
                 "active": true,
                 "registration_weight": 34796034747350905501096007,
                 "entity": 19
             },
             "rewards": {
-                "total_reward": 4003420292894194741323,
-                "current_earnings": 4003420292894194741323,
-                "reward_rate": 0.04602156908926508
+                "total_reward": 4048553819677610573082,
+                "current_earnings": 4048553819677610573082,
+                "reward_rate": 0.046540404377379066
             },
             "identity_address": {
                 "address": "0x28603D496801086f503d80B5D321EcAd13CA3AFC",
@@ -807,17 +807,17 @@
             "id": 22,
             "providersuccessrate": {
                 "id": 22,
-                "primary_bips": 742,
-                "secondary_bips": 1383,
+                "primary_bips": 745,
+                "secondary_bips": 1395,
                 "availability_bips": 10000,
                 "active": true,
                 "registration_weight": 33197185823491612232995800,
                 "entity": 22
             },
             "rewards": {
-                "total_reward": 615121170194071606711,
-                "current_earnings": 615121170194071606711,
-                "reward_rate": 0.007411726686287825
+                "total_reward": 621176623439944607425,
+                "current_earnings": 621176623439944607425,
+                "reward_rate": 0.007484690139010229
             },
             "identity_address": {
                 "address": "0xd6122bb3d05454b4E4CC9883064A96607eB835BF",
@@ -833,16 +833,16 @@
             "providersuccessrate": {
                 "id": 33,
                 "primary_bips": 838,
-                "secondary_bips": 1301,
-                "availability_bips": 8110,
+                "secondary_bips": 1305,
+                "availability_bips": 8111,
                 "active": true,
                 "registration_weight": 30371165689304599612015510,
                 "entity": 33
             },
             "rewards": {
-                "total_reward": 549355080455267054053,
-                "current_earnings": 549355080455267054053,
-                "reward_rate": 0.0072352189056572955
+                "total_reward": 554842135994676865981,
+                "current_earnings": 554842135994676865981,
+                "reward_rate": 0.007307485549559503
             },
             "identity_address": {
                 "address": "0xC5d2411d9ff188ebeD494d93efB52e87Bb14b75d",
@@ -857,17 +857,17 @@
             "id": 62,
             "providersuccessrate": {
                 "id": 62,
-                "primary_bips": 854,
-                "secondary_bips": 1300,
+                "primary_bips": 853,
+                "secondary_bips": 1305,
                 "availability_bips": 8157,
                 "active": true,
                 "registration_weight": 27295275570282912156074589,
                 "entity": 62
             },
             "rewards": {
-                "total_reward": 483125712987719979844,
-                "current_earnings": 483125712987719979844,
-                "reward_rate": 0.007079990260493456
+                "total_reward": 486295900323480976590,
+                "current_earnings": 486295900323480976590,
+                "reward_rate": 0.0071264479315669435
             },
             "identity_address": {
                 "address": "0xaDEDCd23941E479b4736B38e271Eb926596BBe3d",
@@ -882,17 +882,17 @@
             "id": 10,
             "providersuccessrate": {
                 "id": 10,
-                "primary_bips": 760,
-                "secondary_bips": 1379,
+                "primary_bips": 763,
+                "secondary_bips": 1391,
                 "availability_bips": 9993,
                 "active": true,
                 "registration_weight": 25690945271438312091523149,
                 "entity": 10
             },
             "rewards": {
-                "total_reward": 434775231359265564873,
-                "current_earnings": 434775231359265564873,
-                "reward_rate": 0.006769314663444838
+                "total_reward": 437839405547544028186,
+                "current_earnings": 437839405547544028186,
+                "reward_rate": 0.006817022899259503
             },
             "identity_address": {
                 "address": "0xC2AE38bd4804f74Bba2828CdFC1fFa4be4D71304",
@@ -907,17 +907,17 @@
             "id": 20,
             "providersuccessrate": {
                 "id": 20,
-                "primary_bips": 744,
-                "secondary_bips": 1384,
+                "primary_bips": 747,
+                "secondary_bips": 1395,
                 "availability_bips": 10000,
                 "active": true,
                 "registration_weight": 23844916276599557027113026,
                 "entity": 20
             },
             "rewards": {
-                "total_reward": 407878272663627464463,
-                "current_earnings": 407878272663627464463,
-                "reward_rate": 0.006842184186050641
+                "total_reward": 410097042567881270560,
+                "current_earnings": 410097042567881270560,
+                "reward_rate": 0.0068794041935107825
             },
             "identity_address": {
                 "address": "0xEc056b0EF36de1D63031fdBb9bceF5FEB36FB27f",
@@ -957,17 +957,17 @@
             "id": 4,
             "providersuccessrate": {
                 "id": 4,
-                "primary_bips": 744,
-                "secondary_bips": 2004,
-                "availability_bips": 3095,
+                "primary_bips": 748,
+                "secondary_bips": 2020,
+                "availability_bips": 3116,
                 "active": true,
                 "registration_weight": 23503240332532786822318605,
                 "entity": 4
             },
             "rewards": {
-                "total_reward": 406519418563317818151,
-                "current_earnings": 406519418563317818151,
-                "reward_rate": 0.006918525493705997
+                "total_reward": 415841203753176391205,
+                "current_earnings": 415841203753176391205,
+                "reward_rate": 0.007077172302536958
             },
             "identity_address": {
                 "address": "0xC5261026e08Ec6dc23162ef7Eb1248548715be76",
@@ -1007,17 +1007,17 @@
             "id": 53,
             "providersuccessrate": {
                 "id": 53,
-                "primary_bips": 744,
-                "secondary_bips": 1382,
+                "primary_bips": 747,
+                "secondary_bips": 1394,
                 "availability_bips": 10000,
                 "active": true,
                 "registration_weight": 22276097895774460535071242,
                 "entity": 53
             },
             "rewards": {
-                "total_reward": 405659808645993034130,
-                "current_earnings": 405659808645993034130,
-                "reward_rate": 0.00728421666207424
+                "total_reward": 411631462044153159962,
+                "current_earnings": 411631462044153159962,
+                "reward_rate": 0.007391446454762355
             },
             "identity_address": {
                 "address": "0xD249c7e0BDb6F407604260350eD56e7Dd5254e51",
@@ -1032,17 +1032,17 @@
             "id": 8,
             "providersuccessrate": {
                 "id": 8,
-                "primary_bips": 689,
-                "secondary_bips": 1119,
-                "availability_bips": 9772,
+                "primary_bips": 687,
+                "secondary_bips": 1123,
+                "availability_bips": 9777,
                 "active": true,
                 "registration_weight": 21958688020162559784165242,
                 "entity": 8
             },
             "rewards": {
-                "total_reward": 298420294253579181546,
-                "current_earnings": 298420294253579181546,
-                "reward_rate": 0.005436031405511447
+                "total_reward": 302682795066621809076,
+                "current_earnings": 302682795066621809076,
+                "reward_rate": 0.005513677224954373
             },
             "identity_address": {
                 "address": "0x625598caF40C63EB62860260cfD343d5FA4D88D4",
@@ -1057,17 +1057,17 @@
             "id": 26,
             "providersuccessrate": {
                 "id": 26,
-                "primary_bips": 748,
-                "secondary_bips": 1387,
+                "primary_bips": 751,
+                "secondary_bips": 1398,
                 "availability_bips": 10000,
                 "active": true,
                 "registration_weight": 21813950776646332478877690,
                 "entity": 26
             },
             "rewards": {
-                "total_reward": 333208745942115246495,
-                "current_earnings": 333208745942115246495,
-                "reward_rate": 0.006110011879165753
+                "total_reward": 336253410713769967143,
+                "current_earnings": 336253410713769967143,
+                "reward_rate": 0.006165841559957263
             },
             "identity_address": {
                 "address": "0x75306a2aE227b444E2501908Ade7c4c2B1E22423",
@@ -1083,16 +1083,16 @@
             "providersuccessrate": {
                 "id": 24,
                 "primary_bips": 608,
-                "secondary_bips": 790,
-                "availability_bips": 9685,
+                "secondary_bips": 797,
+                "availability_bips": 9684,
                 "active": true,
                 "registration_weight": 21081638259015184605415996,
                 "entity": 24
             },
             "rewards": {
-                "total_reward": 277673510465134622003,
-                "current_earnings": 277673510465134622003,
-                "reward_rate": 0.005268537616546808
+                "total_reward": 279854491083539820186,
+                "current_earnings": 279854491083539820186,
+                "reward_rate": 0.005309919231990712
             },
             "identity_address": {
                 "address": "0x08d094dC09a0bAf05eC7E2a881A02Da54C26442b",
@@ -1107,17 +1107,17 @@
             "id": 6,
             "providersuccessrate": {
                 "id": 6,
-                "primary_bips": 924,
-                "secondary_bips": 1250,
+                "primary_bips": 923,
+                "secondary_bips": 1256,
                 "availability_bips": 10000,
                 "active": true,
                 "registration_weight": 21047405229979155862366163,
                 "entity": 6
             },
             "rewards": {
-                "total_reward": 443381584600854341129,
-                "current_earnings": 443381584600854341129,
-                "reward_rate": 0.008426341960087656
+                "total_reward": 445133130167563417739,
+                "current_earnings": 445133130167563417739,
+                "reward_rate": 0.008459629589561604
             },
             "identity_address": {
                 "address": "0x01CaAAA7B40AA13aB2a04087d262B5558E695607",
@@ -1132,17 +1132,17 @@
             "id": 38,
             "providersuccessrate": {
                 "id": 38,
-                "primary_bips": 604,
-                "secondary_bips": 1221,
-                "availability_bips": 8914,
+                "primary_bips": 610,
+                "secondary_bips": 1235,
+                "availability_bips": 8939,
                 "active": true,
                 "registration_weight": 20950000042425015129587885,
                 "entity": 38
             },
             "rewards": {
-                "total_reward": 293783719577719518568,
-                "current_earnings": 293783719577719518568,
-                "reward_rate": 0.005609235684635603
+                "total_reward": 295936633209509659705,
+                "current_earnings": 295936633209509659705,
+                "reward_rate": 0.005650341434085348
             },
             "identity_address": {
                 "address": "0xd6C5f3e3a8A76EC73F2fAFaf06ef9dA57796DdF0",
@@ -1157,17 +1157,17 @@
             "id": 66,
             "providersuccessrate": {
                 "id": 66,
-                "primary_bips": 293,
-                "secondary_bips": 291,
+                "primary_bips": 291,
+                "secondary_bips": 290,
                 "availability_bips": 8157,
                 "active": true,
                 "registration_weight": 20569608069764812256243720,
                 "entity": 66
             },
             "rewards": {
-                "total_reward": 115175974966378174597,
-                "current_earnings": 115175974966378174597,
-                "reward_rate": 0.0022397310551711463
+                "total_reward": 116117807549543433575,
+                "current_earnings": 116117807549543433575,
+                "reward_rate": 0.002258046087328704
             },
             "identity_address": {
                 "address": "0x317edFB00ca5065590f6662eE33264b5c27B7c31",
@@ -1182,9 +1182,9 @@
             "id": 69,
             "providersuccessrate": {
                 "id": 69,
-                "primary_bips": 105,
-                "secondary_bips": 344,
-                "availability_bips": 4683,
+                "primary_bips": 102,
+                "secondary_bips": 336,
+                "availability_bips": 4574,
                 "active": true,
                 "registration_weight": 20508085525574080727985636,
                 "entity": 69
@@ -1207,17 +1207,17 @@
             "id": 57,
             "providersuccessrate": {
                 "id": 57,
-                "primary_bips": 2621,
-                "secondary_bips": 2960,
+                "primary_bips": 2618,
+                "secondary_bips": 2965,
                 "availability_bips": 10000,
                 "active": true,
                 "registration_weight": 20415596257562455239014585,
                 "entity": 57
             },
             "rewards": {
-                "total_reward": 1130060593894751568819,
-                "current_earnings": 1130060593894751568819,
-                "reward_rate": 0.022141123475169597
+                "total_reward": 1142962823740798723224,
+                "current_earnings": 1142962823740798723224,
+                "reward_rate": 0.022393915109237456
             },
             "identity_address": {
                 "address": "0x7e74F48ee5575e028d6bEbd77e368761F1d74a2a",
@@ -1233,16 +1233,16 @@
             "providersuccessrate": {
                 "id": 51,
                 "primary_bips": 390,
-                "secondary_bips": 1109,
+                "secondary_bips": 1111,
                 "availability_bips": 5000,
                 "active": true,
                 "registration_weight": 20372970774219142275262955,
                 "entity": 51
             },
             "rewards": {
-                "total_reward": 180332771236740633320,
-                "current_earnings": 180332771236740633320,
-                "reward_rate": 0.0035406278884951166
+                "total_reward": 183104131241554953442,
+                "current_earnings": 183104131241554953442,
+                "reward_rate": 0.003595040375226239
             },
             "identity_address": {
                 "address": "0xD9DdD06B3E603F451DD8A16574CA9D3dF564742b",
@@ -1257,17 +1257,17 @@
             "id": 54,
             "providersuccessrate": {
                 "id": 54,
-                "primary_bips": 4442,
-                "secondary_bips": 4287,
+                "primary_bips": 4439,
+                "secondary_bips": 4290,
                 "availability_bips": 10000,
                 "active": true,
                 "registration_weight": 20357985291759128829164252,
                 "entity": 54
             },
             "rewards": {
-                "total_reward": 1798028160060790113426,
-                "current_earnings": 1798028160060790113426,
-                "reward_rate": 0.035328214148747386
+                "total_reward": 1828015044088030211613,
+                "current_earnings": 1828015044088030211613,
+                "reward_rate": 0.03591740573322856
             },
             "identity_address": {
                 "address": "0x01F24Cb1DE93f218f6627D496e6318BEa65f2f34",
@@ -1283,16 +1283,16 @@
             "providersuccessrate": {
                 "id": 36,
                 "primary_bips": 505,
-                "secondary_bips": 1156,
-                "availability_bips": 9957,
+                "secondary_bips": 1161,
+                "availability_bips": 9939,
                 "active": true,
                 "registration_weight": 20324026787416789776367547,
                 "entity": 36
             },
             "rewards": {
-                "total_reward": 89788333161979365755,
-                "current_earnings": 89788333161979365755,
-                "reward_rate": 0.0017671366821376169
+                "total_reward": 91886548131273447856,
+                "current_earnings": 91886548131273447856,
+                "reward_rate": 0.001808431942988053
             },
             "identity_address": {
                 "address": "0xAA14F00460Efa76418F9CE265fe6DbB259b59D3f",
@@ -1332,17 +1332,17 @@
             "id": 64,
             "providersuccessrate": {
                 "id": 64,
-                "primary_bips": 742,
-                "secondary_bips": 1379,
+                "primary_bips": 746,
+                "secondary_bips": 1390,
                 "availability_bips": 10000,
                 "active": true,
                 "registration_weight": 20153591567302137981279370,
                 "entity": 64
             },
             "rewards": {
-                "total_reward": 377739141239264853002,
-                "current_earnings": 377739141239264853002,
-                "reward_rate": 0.0074972074327857565
+                "total_reward": 383574877308427670903,
+                "current_earnings": 383574877308427670903,
+                "reward_rate": 0.00761303266521988
             },
             "identity_address": {
                 "address": "0xD03a130079430a5d8fd1caEA3535a80dDc6bFc0D",
@@ -1357,8 +1357,8 @@
             "id": 49,
             "providersuccessrate": {
                 "id": 49,
-                "primary_bips": 383,
-                "secondary_bips": 435,
+                "primary_bips": 380,
+                "secondary_bips": 436,
                 "availability_bips": 8157,
                 "active": true,
                 "registration_weight": 20028109223609481518704997,
@@ -1382,17 +1382,17 @@
             "id": 27,
             "providersuccessrate": {
                 "id": 27,
-                "primary_bips": 1261,
-                "secondary_bips": 1690,
-                "availability_bips": 9957,
+                "primary_bips": 1257,
+                "secondary_bips": 1686,
+                "availability_bips": 9958,
                 "active": true,
                 "registration_weight": 20018929621097923765976228,
                 "entity": 27
             },
             "rewards": {
-                "total_reward": 557590256861198464431,
-                "current_earnings": 557590256861198464431,
-                "reward_rate": 0.011141260145568519
+                "total_reward": 564080962150153264817,
+                "current_earnings": 564080962150153264817,
+                "reward_rate": 0.011270951500936774
             },
             "identity_address": {
                 "address": "0xa6b95941845b229aD7b2cD4c3c6dE3aD9d0865Ff",
@@ -1432,17 +1432,17 @@
             "id": 94,
             "providersuccessrate": {
                 "id": 94,
-                "primary_bips": 5262,
-                "secondary_bips": 4451,
+                "primary_bips": 5255,
+                "secondary_bips": 4456,
                 "availability_bips": 10000,
                 "active": true,
                 "registration_weight": 797486391592425000000000,
                 "entity": 94
             },
             "rewards": {
-                "total_reward": 98930719213023681851,
-                "current_earnings": 98930719213023681851,
-                "reward_rate": 0.04962127015884412
+                "total_reward": 99800209861255699927,
+                "current_earnings": 99800209861255699927,
+                "reward_rate": 0.050057385762771
             },
             "identity_address": {
                 "address": "0xeEddF5817a03a3a0e27e33672c4788A9e43fA438",
@@ -1457,17 +1457,17 @@
             "id": 88,
             "providersuccessrate": {
                 "id": 88,
-                "primary_bips": 756,
-                "secondary_bips": 1384,
+                "primary_bips": 759,
+                "secondary_bips": 1396,
                 "availability_bips": 10000,
                 "active": true,
                 "registration_weight": 715200000000000000000000,
                 "entity": 88
             },
             "rewards": {
-                "total_reward": 13726715802435095085,
-                "current_earnings": 13726715802435095085,
-                "reward_rate": 0.007677134117693007
+                "total_reward": 13868595313966713296,
+                "current_earnings": 13868595313966713296,
+                "reward_rate": 0.007756485074925456
             },
             "identity_address": {
                 "address": "0x736E7225CC876f30BA124C2bFb8C0ed133f6c7C9",
@@ -1482,17 +1482,17 @@
             "id": 61,
             "providersuccessrate": {
                 "id": 61,
-                "primary_bips": 2217,
-                "secondary_bips": 2828,
+                "primary_bips": 2216,
+                "secondary_bips": 2831,
                 "availability_bips": 10000,
                 "active": true,
                 "registration_weight": 13505000000000000000000,
                 "entity": 61
             },
             "rewards": {
-                "total_reward": 813058915259542380,
-                "current_earnings": 813058915259542380,
-                "reward_rate": 0.02408171537236708
+                "total_reward": 823605141083985487,
+                "current_earnings": 823605141083985487,
+                "reward_rate": 0.02439408044676747
             },
             "identity_address": {
                 "address": "0xb6b43bE1178c356F9C2B8A8030451559fCC7AE8a",
@@ -1507,17 +1507,17 @@
             "id": 89,
             "providersuccessrate": {
                 "id": 89,
-                "primary_bips": 605,
-                "secondary_bips": 901,
+                "primary_bips": 603,
+                "secondary_bips": 902,
                 "availability_bips": 9990,
                 "active": true,
                 "registration_weight": 10000000000000000000000,
                 "entity": 89
             },
             "rewards": {
-                "total_reward": 197253707542348815,
-                "current_earnings": 197253707542348815,
-                "reward_rate": 0.007890148301693966
+                "total_reward": 198583644684177733,
+                "current_earnings": 198583644684177733,
+                "reward_rate": 0.007943345787367122
             },
             "identity_address": {
                 "address": "0x7fBec5e3BE491C419A9e5822b40E0EDD00f18393",
@@ -1532,17 +1532,17 @@
             "id": 1,
             "providersuccessrate": {
                 "id": 1,
-                "primary_bips": 757,
-                "secondary_bips": 1382,
+                "primary_bips": 761,
+                "secondary_bips": 1393,
                 "availability_bips": 9974,
                 "active": true,
                 "registration_weight": 8005000000000000000000,
                 "entity": 1
             },
             "rewards": {
-                "total_reward": 244150733051119202,
-                "current_earnings": 244150733051119202,
-                "reward_rate": 0.012199911707738648
+                "total_reward": 246569163539977179,
+                "current_earnings": 246569163539977179,
+                "reward_rate": 0.01232075770343424
             },
             "identity_address": {
                 "address": "0xce1008d12BB6E5aA47905D1f3bd97042217fFeab",

@@ -8,7 +8,7 @@ A set of tools for web-scrapping  and analysing Flare Network's data providers.
     - [x] Validator data
     - [x] FTSO data
     - [x] Songbird compatibility for FTSO data
-2. [Flare systems explorer](https://songbird-systems-explorer.flare.rocks/entities/ftsoDataProvider)
+2. [Flare Systems Explorer](https://songbird-systems-explorer.flare.rocks/entities/ftsoDataProvider)
     - [x] Songbird FTSO data
 3. [FTSO monitor](https://flare-ftso-monitor.flare.network/data-providers)
     - [ ] FTSO data
@@ -49,7 +49,7 @@ python data_scripts/flare_metrics_validator.py
 
 This will create a dataframe within the `data` sub-directory, with information about all current validators on Flare.
 
-For FTSO data, there are multiple available sources: [flaremetrics.io](flaremetrics.io), [Flare systems explorer](https://songbird-systems-explorer.flare.rocks/entities/ftsoDataProvider) (currently supporting only Songbird and testnets), and [FTSO monitor](https://flare-ftso-monitor.flare.network/data-providers). Run one of the following from the root directory:
+For FTSO data, there are multiple available sources: [flaremetrics.io](flaremetrics.io), [Flare Systems Explorer](https://songbird-systems-explorer.flare.rocks/entities/ftsoDataProvider) (currently supporting only Songbird and testnets), and [FTSO monitor](https://flare-ftso-monitor.flare.network/data-providers). Run one of the following from the root directory:
 ```
 python data_scripts/flare_metrics_ftso.py
 python data_scripts/sys_explorer_ftso.py

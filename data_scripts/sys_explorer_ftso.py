@@ -51,6 +51,11 @@ if response.status_code == 200:
     
     # Convert the list of dictionaries into a DataFrame
     ftso_df = pd.DataFrame(records)
+
+    ftso_df['Registration_weight'] = ftso_df['Registration_weight'].fillna(0).astype(float)/10**18
+    ftso_df['Total reward'] = ftso_df['Total reward'].fillna(0).astype(float)/10**18
+    ftso_df['Current earnings'] = ftso_df['Current earnings'].fillna(0).astype(float)/10**18
+    ftso_df['Reward rate'] = ftso_df['Reward rate'].fillna(0).astype(float)
     
     
     # Optionally, save to a CSV file
