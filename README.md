@@ -52,7 +52,7 @@ This will create a dataframe within the `data` sub-directory, with information a
 For FTSO data, there are multiple available sources: [flaremetrics.io](flaremetrics.io), [Flare systems explorer](https://songbird-systems-explorer.flare.rocks/entities/ftsoDataProvider) (currently supporting only Songbird and testnets), and [FTSO monitor](https://flare-ftso-monitor.flare.network/data-providers). Run one of the following from the root directory:
 ```
 python data_scripts/flare_metrics_ftso.py
-python data_scrupts/sys_explorer_ftso.py
+python data_scripts/sys_explorer_ftso.py
 ```
 Note that the `flare_metrics_ftso.py` script will import Flare network data by default. If songbird data is needed instead, the `network` parameter within `flare_metrics_ftso.py` should be changed before running the script.
 
