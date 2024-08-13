@@ -1,0 +1,3650 @@
+{
+    "count": 63,
+    "next": null,
+    "previous": null,
+    "results": [
+        {
+            "id": 37,
+            "normalised_weight": 1499,
+            "public_key": {
+                "public_key": "0x21024f152b5f6805aa3f9c6e083d845ab8737093cb694cb46f7db4868d0882971458b2fb6835496a95116829a5ff309611871ab6d5ee9acc0cdc0425483a9962"
+            },
+            "signing_policy": {
+                "signing_policy_address": {
+                    "address": "0xF9B5da7af59bF8C8B68Ef1743a4dcdCa213b583e",
+                    "r": "3b583e",
+                    "g": "cdCa21",
+                    "b": "743a4d"
+                }
+            },
+            "voter_registered": {
+                "id": 1268,
+                "emitter_address": "31B9EC65C731c7D973a33Ef3FC83B653f540dC8D",
+                "identity_address": "00620F4659Bc546284dAB2720373C606727f073A",
+                "submit_address": "57857265f6015f2193Fc4E924055172b54826fB1",
+                "submit_signatures_address": "A5277c53DAaBC9cbc885Ffbc4a4A4cCf46655620",
+                "signing_policy_address": "F9B5da7af59bF8C8B68Ef1743a4dcdCa213b583e",
+                "transaction_hash": "0xc459f5ef2d1b626593cb06537ed2a30087413c75aa158f071ff9e2f3f228487f",
+                "reward_epoch_id": 210,
+                "public_key": "0x21024f152b5f6805aa3f9c6e083d845ab8737093cb694cb46f7db4868d0882971458b2fb6835496a95116829a5ff309611871ab6d5ee9acc0cdc0425483a9962",
+                "registration_weight": 39170849895268877232,
+                "block": 66408034,
+                "voter": 37
+            },
+            "voter_registration_info": {
+                "id": 1268,
+                "identity_address": "00620F4659Bc546284dAB2720373C606727f073A",
+                "emitter_address": "126FAeEc75601dA3354c0b5Cc0b60C85fCbC3A5e",
+                "delegation_address": "Ca60cd408A5E447897258cDB1F699478c71Cc55E",
+                "transaction_hash": "0xc459f5ef2d1b626593cb06537ed2a30087413c75aa158f071ff9e2f3f228487f",
+                "reward_epoch_id": 210,
+                "delegation_fee_bips": 2000,
+                "w_nat_weight": 133030347983461847738995031,
+                "w_nat_capped_weight": 133030347983461847738995031,
+                "node_ids": [],
+                "node_weights": [],
+                "block": 66408034,
+                "voter": 37
+            },
+            "uptimevotesignedevent_set": [
+                {
+                    "uptime_vote_hash": "290decd9548b62a8d60345a988386fc84ba6bc95484008f6362f93160ef3e563"
+                }
+            ],
+            "rewardssignedevent_set": [],
+            "identity_address": {
+                "address": "0x00620F4659Bc546284dAB2720373C606727f073A",
+                "r": "7f073A",
+                "g": "C60672",
+                "b": "720373"
+            },
+            "display_name": "Defi Oracles",
+            "logo_url": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0xCa60cd408A5E447897258cDB1F699478c71Cc55E.png"
+        },
+        {
+            "id": 6,
+            "normalised_weight": 375,
+            "public_key": {
+                "public_key": "0x1ec9ba90b04ed361a44ef0b46cc173f423c6a95f9d86688553d16780eae163de182db0c31609bbdd2fb5c9b29dbaca96c0ee2c9cd6885d71b3c20a7d7bd279ee"
+            },
+            "signing_policy": {
+                "signing_policy_address": {
+                    "address": "0x338119F38fc07f29aA96449251353d9e4684DA6D",
+                    "r": "84DA6D",
+                    "g": "3d9e46",
+                    "b": "925135"
+                }
+            },
+            "voter_registered": {
+                "id": 1223,
+                "emitter_address": "31B9EC65C731c7D973a33Ef3FC83B653f540dC8D",
+                "identity_address": "01CaAAA7B40AA13aB2a04087d262B5558E695607",
+                "submit_address": "BE9f00D70c357c663b63cf5972D4c59c851a7618",
+                "submit_signatures_address": "7E5A5371517f855e10d27394483dBAB123dA5d9D",
+                "signing_policy_address": "338119F38fc07f29aA96449251353d9e4684DA6D",
+                "transaction_hash": "0x88e7fb3d11fba5315725ac48b62dd76e8fe4227364a47e044d7850392dafed79",
+                "reward_epoch_id": 210,
+                "public_key": "0x1ec9ba90b04ed361a44ef0b46cc173f423c6a95f9d86688553d16780eae163de182db0c31609bbdd2fb5c9b29dbaca96c0ee2c9cd6885d71b3c20a7d7bd279ee",
+                "registration_weight": 9816005031882890841,
+                "block": 66408032,
+                "voter": 6
+            },
+            "voter_registration_info": {
+                "id": 1223,
+                "identity_address": "01CaAAA7B40AA13aB2a04087d262B5558E695607",
+                "emitter_address": "126FAeEc75601dA3354c0b5Cc0b60C85fCbC3A5e",
+                "delegation_address": "35149714467F2FE71b46eEb4d11689ED8728Bd25",
+                "transaction_hash": "0x88e7fb3d11fba5315725ac48b62dd76e8fe4227364a47e044d7850392dafed79",
+                "reward_epoch_id": 210,
+                "delegation_fee_bips": 2000,
+                "w_nat_weight": 21017440208748960657279076,
+                "w_nat_capped_weight": 21017440208748960657279076,
+                "node_ids": [],
+                "node_weights": [],
+                "block": 66408032,
+                "voter": 6
+            },
+            "uptimevotesignedevent_set": [
+                {
+                    "uptime_vote_hash": "290decd9548b62a8d60345a988386fc84ba6bc95484008f6362f93160ef3e563"
+                }
+            ],
+            "rewardssignedevent_set": [
+                {
+                    "rewards_hash": "412dae6b1ce870ed1c5a43890f44bd10be54fcc852d50fadce810db8b228a493"
+                }
+            ],
+            "identity_address": {
+                "address": "0x01CaAAA7B40AA13aB2a04087d262B5558E695607",
+                "r": "695607",
+                "g": "B5558E",
+                "b": "87d262"
+            },
+            "display_name": "Ugly Kitty",
+            "logo_url": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0x35149714467F2FE71b46eEb4d11689ED8728Bd25.png"
+        },
+        {
+            "id": 54,
+            "normalised_weight": 366,
+            "public_key": {
+                "public_key": "0x1529a7aa863f5f9bb74c3d4acf15ec970443bc44fd530a12a18a6f2bb3af75b709de5e46ae24922f2e96e7564601c1e9f8c6df448e3e9f6c9dcc19e3246fe64a"
+            },
+            "signing_policy": {
+                "signing_policy_address": {
+                    "address": "0x9E475034972D8ACC3Fe28E9A950d73A7631254E4",
+                    "r": "1254E4",
+                    "g": "73A763",
+                    "b": "9A950d"
+                }
+            },
+            "voter_registered": {
+                "id": 1246,
+                "emitter_address": "31B9EC65C731c7D973a33Ef3FC83B653f540dC8D",
+                "identity_address": "01F24Cb1DE93f218f6627D496e6318BEa65f2f34",
+                "submit_address": "854D6971733c84a8a62Bab6F62A588a9e1e33F92",
+                "submit_signatures_address": "2E98485ba7F43d418E7380592E50A155EC8840A4",
+                "signing_policy_address": "9E475034972D8ACC3Fe28E9A950d73A7631254E4",
+                "transaction_hash": "0x8cc79db89717b3f1df70de8c890c4a20d7562e3a9ec3ac088015d778ab2f7c87",
+                "reward_epoch_id": 210,
+                "public_key": "0x1529a7aa863f5f9bb74c3d4acf15ec970443bc44fd530a12a18a6f2bb3af75b709de5e46ae24922f2e96e7564601c1e9f8c6df448e3e9f6c9dcc19e3246fe64a",
+                "registration_weight": 9584089162094074976,
+                "block": 66408033,
+                "voter": 54
+            },
+            "voter_registration_info": {
+                "id": 1246,
+                "identity_address": "01F24Cb1DE93f218f6627D496e6318BEa65f2f34",
+                "emitter_address": "126FAeEc75601dA3354c0b5Cc0b60C85fCbC3A5e",
+                "delegation_address": "0d3852Ad415477fFC39ce9351bD4dEdbbd585833",
+                "transaction_hash": "0x8cc79db89717b3f1df70de8c890c4a20d7562e3a9ec3ac088015d778ab2f7c87",
+                "reward_epoch_id": 210,
+                "delegation_fee_bips": 2000,
+                "w_nat_weight": 20357976014327359379224573,
+                "w_nat_capped_weight": 20357976014327359379224573,
+                "node_ids": [],
+                "node_weights": [],
+                "block": 66408033,
+                "voter": 54
+            },
+            "uptimevotesignedevent_set": [],
+            "rewardssignedevent_set": [],
+            "identity_address": {
+                "address": "0x01F24Cb1DE93f218f6627D496e6318BEa65f2f34",
+                "r": "5f2f34",
+                "g": "18BEa6",
+                "b": "496e63"
+            },
+            "display_name": "Bushido FTSO",
+            "logo_url": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0x0d3852Ad415477fFC39ce9351bD4dEdbbd585833.png"
+        },
+        {
+            "id": 56,
+            "normalised_weight": 2135,
+            "public_key": {
+                "public_key": "0x0ab253f29e82de985b7ffbe3608f7468d711719d86f03a6a587346c69f56345a0436d57e1ecb3b3172ca6bfea3b6846b0cc46cd1d8bbbd1fddf3738541c3dd51"
+            },
+            "signing_policy": {
+                "signing_policy_address": {
+                    "address": "0x4d02AbB622560B15A98A1c572fb3063852D8A7dE",
+                    "r": "D8A7dE",
+                    "g": "063852",
+                    "b": "572fb3"
+                }
+            },
+            "voter_registered": {
+                "id": 1243,
+                "emitter_address": "31B9EC65C731c7D973a33Ef3FC83B653f540dC8D",
+                "identity_address": "037c3e6a8f65ad2d810f26DB3439d96e48156858",
+                "submit_address": "D8Da39f97C10b1787e3Af6ADB95B36785AC25E8A",
+                "submit_signatures_address": "14F52DE797635262e985BbBaD661280223f536Ee",
+                "signing_policy_address": "4d02AbB622560B15A98A1c572fb3063852D8A7dE",
+                "transaction_hash": "0x47068fb8fa7fc7ace504becdd6285ae225279e159d63a05a75812d34cfcdedc0",
+                "reward_epoch_id": 210,
+                "public_key": "0x0ab253f29e82de985b7ffbe3608f7468d711719d86f03a6a587346c69f56345a0436d57e1ecb3b3172ca6bfea3b6846b0cc46cd1d8bbbd1fddf3738541c3dd51",
+                "registration_weight": 55759442575088809648,
+                "block": 66408033,
+                "voter": 56
+            },
+            "voter_registration_info": {
+                "id": 1243,
+                "identity_address": "037c3e6a8f65ad2d810f26DB3439d96e48156858",
+                "emitter_address": "126FAeEc75601dA3354c0b5Cc0b60C85fCbC3A5e",
+                "delegation_address": "c9AC8F034d295962A6a975b717B691437605Bbb6",
+                "transaction_hash": "0x47068fb8fa7fc7ace504becdd6285ae225279e159d63a05a75812d34cfcdedc0",
+                "reward_epoch_id": 210,
+                "delegation_fee_bips": 2000,
+                "w_nat_weight": 225669776942486503448225181,
+                "w_nat_capped_weight": 213022084811741169742506155,
+                "node_ids": [],
+                "node_weights": [],
+                "block": 66408033,
+                "voter": 56
+            },
+            "uptimevotesignedevent_set": [],
+            "rewardssignedevent_set": [],
+            "identity_address": {
+                "address": "0x037c3e6a8f65ad2d810f26DB3439d96e48156858",
+                "r": "156858",
+                "g": "d96e48",
+                "b": "DB3439"
+            },
+            "display_name": "Lena Instruments",
+            "logo_url": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0xc9AC8F034d295962A6a975b717B691437605Bbb6.png"
+        },
+        {
+            "id": 24,
+            "normalised_weight": 376,
+            "public_key": {
+                "public_key": null
+            },
+            "signing_policy": {
+                "signing_policy_address": {
+                    "address": "0x07E54122FB187dAA7e10B39D9e670C5F894e4190",
+                    "r": "4e4190",
+                    "g": "0C5F89",
+                    "b": "9D9e67"
+                }
+            },
+            "voter_registered": {
+                "id": 1233,
+                "emitter_address": "31B9EC65C731c7D973a33Ef3FC83B653f540dC8D",
+                "identity_address": "08d094dC09a0bAf05eC7E2a881A02Da54C26442b",
+                "submit_address": "5d71ee71f5CE23C647162F31bEaFa6Ee5B8A1E0b",
+                "submit_signatures_address": "05A9886f643224b79a3572694005C5Fc1E319d74",
+                "signing_policy_address": "07E54122FB187dAA7e10B39D9e670C5F894e4190",
+                "transaction_hash": "0x7f5149da418421f73c881834d8341e6f1a849337fae52da9f51092ed7971d27b",
+                "reward_epoch_id": 210,
+                "public_key": "0x00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000",
+                "registration_weight": 9839350585141413930,
+                "block": 66408032,
+                "voter": 24
+            },
+            "voter_registration_info": {
+                "id": 1233,
+                "identity_address": "08d094dC09a0bAf05eC7E2a881A02Da54C26442b",
+                "emitter_address": "126FAeEc75601dA3354c0b5Cc0b60C85fCbC3A5e",
+                "delegation_address": "9225db8B30A59D8Dd15448E2E5918BD160262b5D",
+                "transaction_hash": "0x7f5149da418421f73c881834d8341e6f1a849337fae52da9f51092ed7971d27b",
+                "reward_epoch_id": 210,
+                "delegation_fee_bips": 2000,
+                "w_nat_weight": 21084116522515044803957680,
+                "w_nat_capped_weight": 21084116522515044803957680,
+                "node_ids": [],
+                "node_weights": [],
+                "block": 66408032,
+                "voter": 24
+            },
+            "uptimevotesignedevent_set": [],
+            "rewardssignedevent_set": [],
+            "identity_address": {
+                "address": "0x08d094dC09a0bAf05eC7E2a881A02Da54C26442b",
+                "r": "26442b",
+                "g": "2Da54C",
+                "b": "a881A0"
+            },
+            "display_name": "Flare Portal",
+            "logo_url": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0x9225db8B30A59D8Dd15448E2E5918BD160262b5D.png"
+        },
+        {
+            "id": 41,
+            "normalised_weight": 434,
+            "public_key": {
+                "public_key": "0x0585a32440188feb88e991e09bb5a0d637ddc75b9ee3182afc0e488ab0e11f4f3049435a85f4b92ee5e2ba99f00c5b7dc288fd09edaa822e179b4bc80ee7e365"
+            },
+            "signing_policy": {
+                "signing_policy_address": {
+                    "address": "0x276D718dD0B4E9271e3bFA776c112753a06Bc53F",
+                    "r": "6Bc53F",
+                    "g": "2753a0",
+                    "b": "776c11"
+                }
+            },
+            "voter_registered": {
+                "id": 1228,
+                "emitter_address": "31B9EC65C731c7D973a33Ef3FC83B653f540dC8D",
+                "identity_address": "0A2128437f75Ea111887f033fD84794403562737",
+                "submit_address": "D296098327d541E6057Cb2fFA309e19e9c7207eE",
+                "submit_signatures_address": "CD07DD0B6efe464c92fF700f4c691228f943b803",
+                "signing_policy_address": "276D718dD0B4E9271e3bFA776c112753a06Bc53F",
+                "transaction_hash": "0x4918a7495a921bdb63c0a1fd41c288d960aa571503239c99585024d05fee6d21",
+                "reward_epoch_id": 210,
+                "public_key": "0x0585a32440188feb88e991e09bb5a0d637ddc75b9ee3182afc0e488ab0e11f4f3049435a85f4b92ee5e2ba99f00c5b7dc288fd09edaa822e179b4bc80ee7e365",
+                "registration_weight": 11349586011372595266,
+                "block": 66408032,
+                "voter": 41
+            },
+            "voter_registration_info": {
+                "id": 1228,
+                "identity_address": "0A2128437f75Ea111887f033fD84794403562737",
+                "emitter_address": "126FAeEc75601dA3354c0b5Cc0b60C85fCbC3A5e",
+                "delegation_address": "35D73107A089Ac2b3b14a6681D8c408Aab9568D3",
+                "transaction_hash": "0x4918a7495a921bdb63c0a1fd41c288d960aa571503239c99585024d05fee6d21",
+                "reward_epoch_id": 210,
+                "delegation_fee_bips": 2000,
+                "w_nat_weight": 25505876725984445362919275,
+                "w_nat_capped_weight": 25505876725984445362919275,
+                "node_ids": [],
+                "node_weights": [],
+                "block": 66408032,
+                "voter": 41
+            },
+            "uptimevotesignedevent_set": [],
+            "rewardssignedevent_set": [
+                {
+                    "rewards_hash": "412dae6b1ce870ed1c5a43890f44bd10be54fcc852d50fadce810db8b228a493"
+                }
+            ],
+            "identity_address": {
+                "address": "0x0A2128437f75Ea111887f033fD84794403562737",
+                "r": "562737",
+                "g": "794403",
+                "b": "33fD84"
+            },
+            "display_name": "4DadsFTSO",
+            "logo_url": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0x35D73107A089Ac2b3b14a6681D8c408Aab9568D3.png"
+        },
+        {
+            "id": 58,
+            "normalised_weight": 2135,
+            "public_key": {
+                "public_key": "0x1520f9b758bd6d8e5c9b1fb3dc5f2300f4b493022e552e5beea4d74df85f80762d011bf5ed09ad60d4f5d6454cf1415f7291cc5ef2555a33207142ce39c3ba21"
+            },
+            "signing_policy": {
+                "signing_policy_address": {
+                    "address": "0x680cB53763D589B2835ff522cBEEA507Dba9F74C",
+                    "r": "a9F74C",
+                    "g": "A507Db",
+                    "b": "22cBEE"
+                }
+            },
+            "voter_registered": {
+                "id": 1227,
+                "emitter_address": "31B9EC65C731c7D973a33Ef3FC83B653f540dC8D",
+                "identity_address": "0c660191434484428A563614E0aa9d2041772953",
+                "submit_address": "85Be5ECDa6b130Ed06De1F79d5f1D3ba88A4577F",
+                "submit_signatures_address": "732d031EDdeA4b28b3860962cb30d451Eb562502",
+                "signing_policy_address": "680cB53763D589B2835ff522cBEEA507Dba9F74C",
+                "transaction_hash": "0x172e37537c1ee5bd13109fbcf0b71d57558798ce006655ab0f7869783cb036c1",
+                "reward_epoch_id": 210,
+                "public_key": "0x1520f9b758bd6d8e5c9b1fb3dc5f2300f4b493022e552e5beea4d74df85f80762d011bf5ed09ad60d4f5d6454cf1415f7291cc5ef2555a33207142ce39c3ba21",
+                "registration_weight": 55759442575088809648,
+                "block": 66408032,
+                "voter": 58
+            },
+            "voter_registration_info": {
+                "id": 1227,
+                "identity_address": "0c660191434484428A563614E0aa9d2041772953",
+                "emitter_address": "126FAeEc75601dA3354c0b5Cc0b60C85fCbC3A5e",
+                "delegation_address": "2d7bf53ED6117aD1DCD6416d460481522a16aFdf",
+                "transaction_hash": "0x172e37537c1ee5bd13109fbcf0b71d57558798ce006655ab0f7869783cb036c1",
+                "reward_epoch_id": 210,
+                "delegation_fee_bips": 2000,
+                "w_nat_weight": 373998232418668122618296064,
+                "w_nat_capped_weight": 213022084811741169742506155,
+                "node_ids": [],
+                "node_weights": [],
+                "block": 66408032,
+                "voter": 58
+            },
+            "uptimevotesignedevent_set": [
+                {
+                    "uptime_vote_hash": "290decd9548b62a8d60345a988386fc84ba6bc95484008f6362f93160ef3e563"
+                }
+            ],
+            "rewardssignedevent_set": [
+                {
+                    "rewards_hash": "412dae6b1ce870ed1c5a43890f44bd10be54fcc852d50fadce810db8b228a493"
+                }
+            ],
+            "identity_address": {
+                "address": "0x0c660191434484428A563614E0aa9d2041772953",
+                "r": "772953",
+                "g": "9d2041",
+                "b": "14E0aa"
+            },
+            "display_name": "A-FTSO",
+            "logo_url": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0x2d7bf53ED6117aD1DCD6416d460481522a16aFdf.png"
+        },
+        {
+            "id": 17,
+            "normalised_weight": 2135,
+            "public_key": {
+                "public_key": "0x1ba957530ad233ea61260ce1b41d308b5be16dfa425c2ec1baad13254eb484f91cc87e44959627cb86fa24e14bdbaf33950206fbfd996d0e87c9aecf8f4a9fd9"
+            },
+            "signing_policy": {
+                "signing_policy_address": {
+                    "address": "0xcD67D20a68801832A26Bc7877639A1f03dd480b7",
+                    "r": "d480b7",
+                    "g": "A1f03d",
+                    "b": "877639"
+                }
+            },
+            "voter_registered": {
+                "id": 1247,
+                "emitter_address": "31B9EC65C731c7D973a33Ef3FC83B653f540dC8D",
+                "identity_address": "18c8aF2EaC14282E207c67c405325E5A4a401A9F",
+                "submit_address": "C19b486b078Cbbbc569F8eb3DF3E691990F3ef8E",
+                "submit_signatures_address": "bDCBB346B27866abA638B89FCf00a6E9c970eBe8",
+                "signing_policy_address": "cD67D20a68801832A26Bc7877639A1f03dd480b7",
+                "transaction_hash": "0x098e3d57ab94b6275ab72f8973d1061a80beef7430896592e7d6d36bf93baca0",
+                "reward_epoch_id": 210,
+                "public_key": "0x1ba957530ad233ea61260ce1b41d308b5be16dfa425c2ec1baad13254eb484f91cc87e44959627cb86fa24e14bdbaf33950206fbfd996d0e87c9aecf8f4a9fd9",
+                "registration_weight": 55759442575088809648,
+                "block": 66408033,
+                "voter": 17
+            },
+            "voter_registration_info": {
+                "id": 1247,
+                "identity_address": "18c8aF2EaC14282E207c67c405325E5A4a401A9F",
+                "emitter_address": "126FAeEc75601dA3354c0b5Cc0b60C85fCbC3A5e",
+                "delegation_address": "A174D46EF49D7d4a0328f9910222689E9eAb2f45",
+                "transaction_hash": "0x098e3d57ab94b6275ab72f8973d1061a80beef7430896592e7d6d36bf93baca0",
+                "reward_epoch_id": 210,
+                "delegation_fee_bips": 2000,
+                "w_nat_weight": 224586437846543532255512510,
+                "w_nat_capped_weight": 213022084811741169742506155,
+                "node_ids": [],
+                "node_weights": [],
+                "block": 66408033,
+                "voter": 17
+            },
+            "uptimevotesignedevent_set": [
+                {
+                    "uptime_vote_hash": "290decd9548b62a8d60345a988386fc84ba6bc95484008f6362f93160ef3e563"
+                }
+            ],
+            "rewardssignedevent_set": [
+                {
+                    "rewards_hash": "412dae6b1ce870ed1c5a43890f44bd10be54fcc852d50fadce810db8b228a493"
+                }
+            ],
+            "identity_address": {
+                "address": "0x18c8aF2EaC14282E207c67c405325E5A4a401A9F",
+                "r": "401A9F",
+                "g": "5E5A4a",
+                "b": "c40532"
+            },
+            "display_name": "Ivy Oracle",
+            "logo_url": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0xA174D46EF49D7d4a0328f9910222689E9eAb2f45.png"
+        },
+        {
+            "id": 12,
+            "normalised_weight": 2135,
+            "public_key": {
+                "public_key": "0x0bea4ddaa37c9f34160604d5ca90f1ce2b353caa1df54d580447bac6fa2696860ed29f25b00c1ebb59d916e4ec7e932f9838d9ef7c459160dbbd41e79901568c"
+            },
+            "signing_policy": {
+                "signing_policy_address": {
+                    "address": "0x4f29816fDDfEceF74b05639718eB719F719DEF4e",
+                    "r": "9DEF4e",
+                    "g": "719F71",
+                    "b": "9718eB"
+                }
+            },
+            "voter_registered": {
+                "id": 1260,
+                "emitter_address": "31B9EC65C731c7D973a33Ef3FC83B653f540dC8D",
+                "identity_address": "19585c914AeA4d985E034399c581B35014ec94eF",
+                "submit_address": "991B71d7380E89354ea71007Eb744316829B62ae",
+                "submit_signatures_address": "8b31c922bfc7f969585fdA3e86faa873b72E88e4",
+                "signing_policy_address": "4f29816fDDfEceF74b05639718eB719F719DEF4e",
+                "transaction_hash": "0x74f25be5f9bfe85ec9c67caa309e360c130b3e5947b71cdb433c5f00179e1346",
+                "reward_epoch_id": 210,
+                "public_key": "0x0bea4ddaa37c9f34160604d5ca90f1ce2b353caa1df54d580447bac6fa2696860ed29f25b00c1ebb59d916e4ec7e932f9838d9ef7c459160dbbd41e79901568c",
+                "registration_weight": 55759442575088809648,
+                "block": 66408034,
+                "voter": 12
+            },
+            "voter_registration_info": {
+                "id": 1260,
+                "identity_address": "19585c914AeA4d985E034399c581B35014ec94eF",
+                "emitter_address": "126FAeEc75601dA3354c0b5Cc0b60C85fCbC3A5e",
+                "delegation_address": "B5ECB64526F777Eb6f02D4A83AbAB1FAD26b1C00",
+                "transaction_hash": "0x74f25be5f9bfe85ec9c67caa309e360c130b3e5947b71cdb433c5f00179e1346",
+                "reward_epoch_id": 210,
+                "delegation_fee_bips": 2000,
+                "w_nat_weight": 268590131581561914944303638,
+                "w_nat_capped_weight": 213022084811741169742506155,
+                "node_ids": [],
+                "node_weights": [],
+                "block": 66408034,
+                "voter": 12
+            },
+            "uptimevotesignedevent_set": [
+                {
+                    "uptime_vote_hash": "290decd9548b62a8d60345a988386fc84ba6bc95484008f6362f93160ef3e563"
+                }
+            ],
+            "rewardssignedevent_set": [
+                {
+                    "rewards_hash": "412dae6b1ce870ed1c5a43890f44bd10be54fcc852d50fadce810db8b228a493"
+                }
+            ],
+            "identity_address": {
+                "address": "0x19585c914AeA4d985E034399c581B35014ec94eF",
+                "r": "ec94eF",
+                "g": "B35014",
+                "b": "99c581"
+            },
+            "display_name": "Atlas TSO",
+            "logo_url": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0xB5ECB64526F777Eb6f02D4A83AbAB1FAD26b1C00.png"
+        },
+        {
+            "id": 32,
+            "normalised_weight": 2135,
+            "public_key": {
+                "public_key": "0x17373b729a384e6074f85eaabd9042d72bf056835ad1a2f02a20c980e392fc990d43b5b3ddb44a62e10a5898098f3adcfdb6a667f07c4ea3e6dada94877500d9"
+            },
+            "signing_policy": {
+                "signing_policy_address": {
+                    "address": "0x53Bce8B63C3357717d87a816E3414e2103a85d27",
+                    "r": "a85d27",
+                    "g": "4e2103",
+                    "b": "16E341"
+                }
+            },
+            "voter_registered": {
+                "id": 1277,
+                "emitter_address": "31B9EC65C731c7D973a33Ef3FC83B653f540dC8D",
+                "identity_address": "1CBf078705c907510fdB711Cf3c6e9B8E583f156",
+                "submit_address": "959fE25A0f1b4E1BeA43C57C611AFB62442124b0",
+                "submit_signatures_address": "E8d23036eEA8c64A05eb5cBE919C4fdfaECdA5fB",
+                "signing_policy_address": "53Bce8B63C3357717d87a816E3414e2103a85d27",
+                "transaction_hash": "0x1bec3a26c30e38bc8c64e49e7f82eff5f27a2a3eeaf47d88379cf2f787ace876",
+                "reward_epoch_id": 210,
+                "public_key": "0x17373b729a384e6074f85eaabd9042d72bf056835ad1a2f02a20c980e392fc990d43b5b3ddb44a62e10a5898098f3adcfdb6a667f07c4ea3e6dada94877500d9",
+                "registration_weight": 55759442575088809648,
+                "block": 66408037,
+                "voter": 32
+            },
+            "voter_registration_info": {
+                "id": 1277,
+                "identity_address": "1CBf078705c907510fdB711Cf3c6e9B8E583f156",
+                "emitter_address": "126FAeEc75601dA3354c0b5Cc0b60C85fCbC3A5e",
+                "delegation_address": "6c6b3560704Da8A2c33B1BB00E88bA343807E565",
+                "transaction_hash": "0x1bec3a26c30e38bc8c64e49e7f82eff5f27a2a3eeaf47d88379cf2f787ace876",
+                "reward_epoch_id": 210,
+                "delegation_fee_bips": 2000,
+                "w_nat_weight": 229244392908876533959542527,
+                "w_nat_capped_weight": 213022084811741169742506155,
+                "node_ids": [],
+                "node_weights": [],
+                "block": 66408037,
+                "voter": 32
+            },
+            "uptimevotesignedevent_set": [
+                {
+                    "uptime_vote_hash": "bc36789e7a1e281436464229828f817d6612f7b477d66591ff96a9e064bcc98a"
+                },
+                {
+                    "uptime_vote_hash": "290decd9548b62a8d60345a988386fc84ba6bc95484008f6362f93160ef3e563"
+                }
+            ],
+            "rewardssignedevent_set": [
+                {
+                    "rewards_hash": "412dae6b1ce870ed1c5a43890f44bd10be54fcc852d50fadce810db8b228a493"
+                }
+            ],
+            "identity_address": {
+                "address": "0x1CBf078705c907510fdB711Cf3c6e9B8E583f156",
+                "r": "83f156",
+                "g": "e9B8E5",
+                "b": "1Cf3c6"
+            },
+            "display_name": "Solarius",
+            "logo_url": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0x6c6b3560704Da8A2c33B1BB00E88bA343807E565.png"
+        },
+        {
+            "id": 80,
+            "normalised_weight": 1869,
+            "public_key": {
+                "public_key": null
+            },
+            "signing_policy": {
+                "signing_policy_address": {
+                    "address": "0x458Bd1C5fAeb843C8be9C512F7eB3A14EC5fB6f5",
+                    "r": "5fB6f5",
+                    "g": "3A14EC",
+                    "b": "12F7eB"
+                }
+            },
+            "voter_registered": {
+                "id": 1254,
+                "emitter_address": "31B9EC65C731c7D973a33Ef3FC83B653f540dC8D",
+                "identity_address": "23075D2210F1aC5f8eaD459bE03Ea7337D10afA0",
+                "submit_address": "9C9E9f692CbD46ddE072314972a9a512a58cdCeB",
+                "submit_signatures_address": "a2F7D4e93BE921Be2f4a504d78002E451F47eA7B",
+                "signing_policy_address": "458Bd1C5fAeb843C8be9C512F7eB3A14EC5fB6f5",
+                "transaction_hash": "0x7a04ec15f1d710573ff54ddef6b20388551113d5825ca5fbc7d1f52415edacf3",
+                "reward_epoch_id": 210,
+                "public_key": "0x00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000",
+                "registration_weight": 48824712804398863475,
+                "block": 66408033,
+                "voter": 80
+            },
+            "voter_registration_info": {
+                "id": 1254,
+                "identity_address": "23075D2210F1aC5f8eaD459bE03Ea7337D10afA0",
+                "emitter_address": "126FAeEc75601dA3354c0b5Cc0b60C85fCbC3A5e",
+                "delegation_address": "229458A754CD1aeBa8A0c87f59E22777D593B85a",
+                "transaction_hash": "0x7a04ec15f1d710573ff54ddef6b20388551113d5825ca5fbc7d1f52415edacf3",
+                "reward_epoch_id": 210,
+                "delegation_fee_bips": 2000,
+                "w_nat_weight": 178451253881169355778535502,
+                "w_nat_capped_weight": 178451253881169355778535502,
+                "node_ids": [],
+                "node_weights": [],
+                "block": 66408033,
+                "voter": 80
+            },
+            "uptimevotesignedevent_set": [],
+            "rewardssignedevent_set": [],
+            "identity_address": {
+                "address": "0x23075D2210F1aC5f8eaD459bE03Ea7337D10afA0",
+                "r": "10afA0",
+                "g": "a7337D",
+                "b": "9bE03E"
+            },
+            "display_name": null,
+            "logo_url": null
+        },
+        {
+            "id": 19,
+            "normalised_weight": 546,
+            "public_key": {
+                "public_key": null
+            },
+            "signing_policy": {
+                "signing_policy_address": {
+                    "address": "0x2A4baC7f442a4Cd30fAF3A1AEEE74940C456dDf1",
+                    "r": "56dDf1",
+                    "g": "4940C4",
+                    "b": "1AEEE7"
+                }
+            },
+            "voter_registered": {
+                "id": 1279,
+                "emitter_address": "31B9EC65C731c7D973a33Ef3FC83B653f540dC8D",
+                "identity_address": "28603D496801086f503d80B5D321EcAd13CA3AFC",
+                "submit_address": "8051e1447d2DBC375C218605F623898EdFFE0a28",
+                "submit_signatures_address": "399B78562110e9Be3ac52a3e2628f6fc413147EB",
+                "signing_policy_address": "2A4baC7f442a4Cd30fAF3A1AEEE74940C456dDf1",
+                "transaction_hash": "0xa582d8f1ee3684b52fab0c508e3c63ec9ca5947d0790a27714cb97828acd94aa",
+                "reward_epoch_id": 210,
+                "public_key": "0x181e06575c697a3596e4d1126773729e45778f639493e78b08c3dc62352d3a11243b25fd67ef0ea51d30a210954b0e47997b7c319d84185536194e5e710e53dd",
+                "registration_weight": 14274514015948928869,
+                "block": 66408039,
+                "voter": 19
+            },
+            "voter_registration_info": {
+                "id": 1279,
+                "identity_address": "28603D496801086f503d80B5D321EcAd13CA3AFC",
+                "emitter_address": "126FAeEc75601dA3354c0b5Cc0b60C85fCbC3A5e",
+                "delegation_address": "2C293599ca61bb53e8fF82c8a19c2A8B883ea23f",
+                "transaction_hash": "0xa582d8f1ee3684b52fab0c508e3c63ec9ca5947d0790a27714cb97828acd94aa",
+                "reward_epoch_id": 210,
+                "delegation_fee_bips": 2000,
+                "w_nat_weight": 34627025417417006079548218,
+                "w_nat_capped_weight": 34627025417417006079548218,
+                "node_ids": [],
+                "node_weights": [],
+                "block": 66408039,
+                "voter": 19
+            },
+            "uptimevotesignedevent_set": [
+                {
+                    "uptime_vote_hash": "290decd9548b62a8d60345a988386fc84ba6bc95484008f6362f93160ef3e563"
+                }
+            ],
+            "rewardssignedevent_set": [
+                {
+                    "rewards_hash": "412dae6b1ce870ed1c5a43890f44bd10be54fcc852d50fadce810db8b228a493"
+                }
+            ],
+            "identity_address": {
+                "address": "0x28603D496801086f503d80B5D321EcAd13CA3AFC",
+                "r": "CA3AFC",
+                "g": "EcAd13",
+                "b": "B5D321"
+            },
+            "display_name": "TheGrungies",
+            "logo_url": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0x2C293599ca61bb53e8fF82c8a19c2A8B883ea23f.png"
+        },
+        {
+            "id": 66,
+            "normalised_weight": 369,
+            "public_key": {
+                "public_key": "0x21cb0a4e2e1291bd91e79914219eb83c7ebd8af894aca30b8a64c0485f1d276e29af737364be864ec9828c7a459e51b96526324a8f8004c61edd97c1f161b290"
+            },
+            "signing_policy": {
+                "signing_policy_address": {
+                    "address": "0x295d1DCeafda82DcA22F6323B9b7889a2920c789",
+                    "r": "20c789",
+                    "g": "889a29",
+                    "b": "23B9b7"
+                }
+            },
+            "voter_registered": {
+                "id": 1257,
+                "emitter_address": "31B9EC65C731c7D973a33Ef3FC83B653f540dC8D",
+                "identity_address": "317edFB00ca5065590f6662eE33264b5c27B7c31",
+                "submit_address": "0280799e02545DC838F816D2c9ce74E0a415C44B",
+                "submit_signatures_address": "e699d488AF51096060B465EF9a08d41E7f3B642b",
+                "signing_policy_address": "295d1DCeafda82DcA22F6323B9b7889a2920c789",
+                "transaction_hash": "0x12a9e53f1fe701943ddc0757de2f411d4e53173720fbc86442f1e2051a94f97a",
+                "reward_epoch_id": 210,
+                "public_key": "0x21cb0a4e2e1291bd91e79914219eb83c7ebd8af894aca30b8a64c0485f1d276e29af737364be864ec9828c7a459e51b96526324a8f8004c61edd97c1f161b290",
+                "registration_weight": 9654148019772271925,
+                "block": 66408033,
+                "voter": 66
+            },
+            "voter_registration_info": {
+                "id": 1257,
+                "identity_address": "317edFB00ca5065590f6662eE33264b5c27B7c31",
+                "emitter_address": "126FAeEc75601dA3354c0b5Cc0b60C85fCbC3A5e",
+                "delegation_address": "821BDE578955B35F9F2C9022268E5BC748994f71",
+                "transaction_hash": "0x12a9e53f1fe701943ddc0757de2f411d4e53173720fbc86442f1e2051a94f97a",
+                "reward_epoch_id": 210,
+                "delegation_fee_bips": 2000,
+                "w_nat_weight": 20556641342398469024810857,
+                "w_nat_capped_weight": 20556641342398469024810857,
+                "node_ids": [],
+                "node_weights": [],
+                "block": 66408033,
+                "voter": 66
+            },
+            "uptimevotesignedevent_set": [],
+            "rewardssignedevent_set": [],
+            "identity_address": {
+                "address": "0x317edFB00ca5065590f6662eE33264b5c27B7c31",
+                "r": "7B7c31",
+                "g": "64b5c2",
+                "b": "2eE332"
+            },
+            "display_name": null,
+            "logo_url": null
+        },
+        {
+            "id": 13,
+            "normalised_weight": 2135,
+            "public_key": {
+                "public_key": "0x038d51351495bc3cc20fd1316e58ce28a327e5fe712a70606af238d6110d381e20383e5731dc31c42712205966c438969f7694f79900efffb34c606d12c24440"
+            },
+            "signing_policy": {
+                "signing_policy_address": {
+                    "address": "0x5bb7e630a3C14d4f4d889B1C7488F7AfFC8dA0E1",
+                    "r": "8dA0E1",
+                    "g": "F7AfFC",
+                    "b": "1C7488"
+                }
+            },
+            "voter_registered": {
+                "id": 1269,
+                "emitter_address": "31B9EC65C731c7D973a33Ef3FC83B653f540dC8D",
+                "identity_address": "342C8c165Db96a60EfEdd2E3480ae5398A1fd322",
+                "submit_address": "c7Aeb460f425667D4fb16e0C0c42325b031030a0",
+                "submit_signatures_address": "0beb25d66cDD056Ac4Ff46C2c85937A27f644f86",
+                "signing_policy_address": "5bb7e630a3C14d4f4d889B1C7488F7AfFC8dA0E1",
+                "transaction_hash": "0x98946c450e49000c36af19a3bbc255fd8da8b6878698dd0a228f324abe2b2e00",
+                "reward_epoch_id": 210,
+                "public_key": "0x038d51351495bc3cc20fd1316e58ce28a327e5fe712a70606af238d6110d381e20383e5731dc31c42712205966c438969f7694f79900efffb34c606d12c24440",
+                "registration_weight": 55759442575088809648,
+                "block": 66408035,
+                "voter": 13
+            },
+            "voter_registration_info": {
+                "id": 1269,
+                "identity_address": "342C8c165Db96a60EfEdd2E3480ae5398A1fd322",
+                "emitter_address": "126FAeEc75601dA3354c0b5Cc0b60C85fCbC3A5e",
+                "delegation_address": "De4051b333b3063fd28267Cd4412DD25233D0Ae1",
+                "transaction_hash": "0x98946c450e49000c36af19a3bbc255fd8da8b6878698dd0a228f324abe2b2e00",
+                "reward_epoch_id": 210,
+                "delegation_fee_bips": 2000,
+                "w_nat_weight": 219302412928439765131954456,
+                "w_nat_capped_weight": 213022084811741169742506155,
+                "node_ids": [],
+                "node_weights": [],
+                "block": 66408035,
+                "voter": 13
+            },
+            "uptimevotesignedevent_set": [],
+            "rewardssignedevent_set": [],
+            "identity_address": {
+                "address": "0x342C8c165Db96a60EfEdd2E3480ae5398A1fd322",
+                "r": "1fd322",
+                "g": "e5398A",
+                "b": "E3480a"
+            },
+            "display_name": "Flare Dienst",
+            "logo_url": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0xDe4051b333b3063fd28267Cd4412DD25233D0Ae1.png"
+        },
+        {
+            "id": 31,
+            "normalised_weight": 2135,
+            "public_key": {
+                "public_key": "0x017d5ddba0bccf8b1f245efa0bbc6d44eae746ee72028fc9175ba0c054c4d0d605fdb63cbcfe808e40c5697942b7d12418711054a60e80fc39e5d1948d9f11ba"
+            },
+            "signing_policy": {
+                "signing_policy_address": {
+                    "address": "0xF0C331BdCF75295a726834194178c951d2281799",
+                    "r": "281799",
+                    "g": "c951d2",
+                    "b": "194178"
+                }
+            },
+            "voter_registered": {
+                "id": 1274,
+                "emitter_address": "31B9EC65C731c7D973a33Ef3FC83B653f540dC8D",
+                "identity_address": "3ED54c61EC0fF7C144d547C2d032392864e66cA2",
+                "submit_address": "0bf38D9067A250C0f470ddbd123c4210270Ea710",
+                "submit_signatures_address": "Ac9CbD0F0b6ccc7eF984981f4C4D8a6a858fc79F",
+                "signing_policy_address": "F0C331BdCF75295a726834194178c951d2281799",
+                "transaction_hash": "0x344b9cd58a1f3be5acef8f20f86cf3157aad60aeb427ff5d8b42d0f691f5e53c",
+                "reward_epoch_id": 210,
+                "public_key": "0x017d5ddba0bccf8b1f245efa0bbc6d44eae746ee72028fc9175ba0c054c4d0d605fdb63cbcfe808e40c5697942b7d12418711054a60e80fc39e5d1948d9f11ba",
+                "registration_weight": 55759442575088809648,
+                "block": 66408036,
+                "voter": 31
+            },
+            "voter_registration_info": {
+                "id": 1274,
+                "identity_address": "3ED54c61EC0fF7C144d547C2d032392864e66cA2",
+                "emitter_address": "126FAeEc75601dA3354c0b5Cc0b60C85fCbC3A5e",
+                "delegation_address": "04a8b3171fBbfe4554B55190B43E709c4b672030",
+                "transaction_hash": "0x344b9cd58a1f3be5acef8f20f86cf3157aad60aeb427ff5d8b42d0f691f5e53c",
+                "reward_epoch_id": 210,
+                "delegation_fee_bips": 2000,
+                "w_nat_weight": 278783349476745894088199219,
+                "w_nat_capped_weight": 213022084811741169742506155,
+                "node_ids": [],
+                "node_weights": [],
+                "block": 66408036,
+                "voter": 31
+            },
+            "uptimevotesignedevent_set": [
+                {
+                    "uptime_vote_hash": "290decd9548b62a8d60345a988386fc84ba6bc95484008f6362f93160ef3e563"
+                }
+            ],
+            "rewardssignedevent_set": [
+                {
+                    "rewards_hash": "412dae6b1ce870ed1c5a43890f44bd10be54fcc852d50fadce810db8b228a493"
+                }
+            ],
+            "identity_address": {
+                "address": "0x3ED54c61EC0fF7C144d547C2d032392864e66cA2",
+                "r": "e66cA2",
+                "g": "392864",
+                "b": "C2d032"
+            },
+            "display_name": "NORTSO",
+            "logo_url": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0x04a8b3171fBbfe4554B55190B43E709c4b672030.png"
+        },
+        {
+            "id": 59,
+            "normalised_weight": 2135,
+            "public_key": {
+                "public_key": "0x022d6391aceb4cc55efcb5a17e96f49931c32ee271832aa6b024ef0223cccc6b12cbf13b2eb7431ef6c24548977d6e8a25f135aae18f311343d2749bb73cdf46"
+            },
+            "signing_policy": {
+                "signing_policy_address": {
+                    "address": "0x91aBE8C9B87c7D48f4FD70AF31E418CE6D336896",
+                    "r": "336896",
+                    "g": "18CE6D",
+                    "b": "AF31E4"
+                }
+            },
+            "voter_registered": {
+                "id": 1225,
+                "emitter_address": "31B9EC65C731c7D973a33Ef3FC83B653f540dC8D",
+                "identity_address": "44Eb776cd95aE59b2edA2cE354557427361e75Da",
+                "submit_address": "B9f0F796BebCA28c9813452C9B1B5719D89604e3",
+                "submit_signatures_address": "D8659e7eF5d329509BCefcAd0b6D6B3622BC49C7",
+                "signing_policy_address": "91aBE8C9B87c7D48f4FD70AF31E418CE6D336896",
+                "transaction_hash": "0x7ca77c6dd6ef91918d2f9acf5c3aa458e812644d4df65cc81b7c37e635b3ff61",
+                "reward_epoch_id": 210,
+                "public_key": "0x022d6391aceb4cc55efcb5a17e96f49931c32ee271832aa6b024ef0223cccc6b12cbf13b2eb7431ef6c24548977d6e8a25f135aae18f311343d2749bb73cdf46",
+                "registration_weight": 55759442575088809648,
+                "block": 66408032,
+                "voter": 59
+            },
+            "voter_registration_info": {
+                "id": 1225,
+                "identity_address": "44Eb776cd95aE59b2edA2cE354557427361e75Da",
+                "emitter_address": "126FAeEc75601dA3354c0b5Cc0b60C85fCbC3A5e",
+                "delegation_address": "633CE03ea66d910c15869e1552fDccC2bf9aAD87",
+                "transaction_hash": "0x7ca77c6dd6ef91918d2f9acf5c3aa458e812644d4df65cc81b7c37e635b3ff61",
+                "reward_epoch_id": 210,
+                "delegation_fee_bips": 2000,
+                "w_nat_weight": 213046710450972994155891011,
+                "w_nat_capped_weight": 213022084811741169742506155,
+                "node_ids": [],
+                "node_weights": [],
+                "block": 66408032,
+                "voter": 59
+            },
+            "uptimevotesignedevent_set": [],
+            "rewardssignedevent_set": [
+                {
+                    "rewards_hash": "412dae6b1ce870ed1c5a43890f44bd10be54fcc852d50fadce810db8b228a493"
+                }
+            ],
+            "identity_address": {
+                "address": "0x44Eb776cd95aE59b2edA2cE354557427361e75Da",
+                "r": "1e75Da",
+                "g": "742736",
+                "b": "E35455"
+            },
+            "display_name": "Flare Beacon",
+            "logo_url": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0x633CE03ea66d910c15869e1552fDccC2bf9aAD87.png"
+        },
+        {
+            "id": 2,
+            "normalised_weight": 2135,
+            "public_key": {
+                "public_key": "0x068d5e485eac0bc51a908beea82bd4b9bfb112fe4475f5393dddc58aaa519bf82b1b4e961c53f93698efea97e2296fbf0db1d6f381b918e94432a071f9b4987c"
+            },
+            "signing_policy": {
+                "signing_policy_address": {
+                    "address": "0xc139F933a6B44aA698e649cc8F142cE02Fd19213",
+                    "r": "d19213",
+                    "g": "2cE02F",
+                    "b": "cc8F14"
+                }
+            },
+            "voter_registered": {
+                "id": 1275,
+                "emitter_address": "31B9EC65C731c7D973a33Ef3FC83B653f540dC8D",
+                "identity_address": "4985138d5efaB799CaA5abb09Eb7DBC87Dd5141A",
+                "submit_address": "e50C2243dD448DFCBd037463Dc8D9F0787bfb17a",
+                "submit_signatures_address": "822526F4768EfF2d4bA0b037bEF08D7410C18c52",
+                "signing_policy_address": "c139F933a6B44aA698e649cc8F142cE02Fd19213",
+                "transaction_hash": "0xe9fe61ebc26b8f280944c24d03d5ee7c10b5058001959e587a1f88ccc22bf0cb",
+                "reward_epoch_id": 210,
+                "public_key": "0x068d5e485eac0bc51a908beea82bd4b9bfb112fe4475f5393dddc58aaa519bf82b1b4e961c53f93698efea97e2296fbf0db1d6f381b918e94432a071f9b4987c",
+                "registration_weight": 55759442575088809648,
+                "block": 66408036,
+                "voter": 2
+            },
+            "voter_registration_info": {
+                "id": 1275,
+                "identity_address": "4985138d5efaB799CaA5abb09Eb7DBC87Dd5141A",
+                "emitter_address": "126FAeEc75601dA3354c0b5Cc0b60C85fCbC3A5e",
+                "delegation_address": "Ccd522393233052Dd0DfeAadc124a0a9bB87FD08",
+                "transaction_hash": "0xe9fe61ebc26b8f280944c24d03d5ee7c10b5058001959e587a1f88ccc22bf0cb",
+                "reward_epoch_id": 210,
+                "delegation_fee_bips": 2000,
+                "w_nat_weight": 235648362779208592163687622,
+                "w_nat_capped_weight": 213022084811741169742506155,
+                "node_ids": [],
+                "node_weights": [],
+                "block": 66408036,
+                "voter": 2
+            },
+            "uptimevotesignedevent_set": [],
+            "rewardssignedevent_set": [],
+            "identity_address": {
+                "address": "0x4985138d5efaB799CaA5abb09Eb7DBC87Dd5141A",
+                "r": "d5141A",
+                "g": "DBC87D",
+                "b": "b09Eb7"
+            },
+            "display_name": "Flare.Space",
+            "logo_url": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0xCcd522393233052Dd0DfeAadc124a0a9bB87FD08.png"
+        },
+        {
+            "id": 44,
+            "normalised_weight": 631,
+            "public_key": {
+                "public_key": "0x097b88396d0d61f660834184551f26f88aa9aab5b5c14fe4834e0c6a98dfee041bb72537f20333ac48bac2fc86d360de9a3f6c46af0899f7c835969ec5670661"
+            },
+            "signing_policy": {
+                "signing_policy_address": {
+                    "address": "0x1c884cF954eC8f15D7BF16b9d50402cc5c94b5FD",
+                    "r": "94b5FD",
+                    "g": "02cc5c",
+                    "b": "b9d504"
+                }
+            },
+            "voter_registered": {
+                "id": 1241,
+                "emitter_address": "31B9EC65C731c7D973a33Ef3FC83B653f540dC8D",
+                "identity_address": "4ddd9f80F88F53c730CE7C6041f17583447DD968",
+                "submit_address": "C58b13d32dcf08Eb23d2105159982377982b2777",
+                "submit_signatures_address": "099aE1A237a4a7696672986c2155FE8B80abE906",
+                "signing_policy_address": "1c884cF954eC8f15D7BF16b9d50402cc5c94b5FD",
+                "transaction_hash": "0x976b78fbc56158e788ea8286aa3df1d672463eb6ce039f25ef0ee3e1706cb26b",
+                "reward_epoch_id": 210,
+                "public_key": "0x097b88396d0d61f660834184551f26f88aa9aab5b5c14fe4834e0c6a98dfee041bb72537f20333ac48bac2fc86d360de9a3f6c46af0899f7c835969ec5670661",
+                "registration_weight": 16487312874867217108,
+                "block": 66408033,
+                "voter": 44
+            },
+            "voter_registration_info": {
+                "id": 1241,
+                "identity_address": "4ddd9f80F88F53c730CE7C6041f17583447DD968",
+                "emitter_address": "126FAeEc75601dA3354c0b5Cc0b60C85fCbC3A5e",
+                "delegation_address": "819eaB111BD9A6E595187A914240529D2EFfF21f",
+                "transaction_hash": "0x976b78fbc56158e788ea8286aa3df1d672463eb6ce039f25ef0ee3e1706cb26b",
+                "reward_epoch_id": 210,
+                "delegation_fee_bips": 2000,
+                "w_nat_weight": 41962998080868627064306586,
+                "w_nat_capped_weight": 41962998080868627064306586,
+                "node_ids": [],
+                "node_weights": [],
+                "block": 66408033,
+                "voter": 44
+            },
+            "uptimevotesignedevent_set": [
+                {
+                    "uptime_vote_hash": "290decd9548b62a8d60345a988386fc84ba6bc95484008f6362f93160ef3e563"
+                }
+            ],
+            "rewardssignedevent_set": [
+                {
+                    "rewards_hash": "412dae6b1ce870ed1c5a43890f44bd10be54fcc852d50fadce810db8b228a493"
+                }
+            ],
+            "identity_address": {
+                "address": "0x4ddd9f80F88F53c730CE7C6041f17583447DD968",
+                "r": "7DD968",
+                "g": "758344",
+                "b": "6041f1"
+            },
+            "display_name": "HEWG",
+            "logo_url": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0x819eaB111BD9A6E595187A914240529D2EFfF21f.png"
+        },
+        {
+            "id": 34,
+            "normalised_weight": 2135,
+            "public_key": {
+                "public_key": "0x29fa1941fded80680943e0f6ff83f73c447f1f06048c7b5a51c601dfaee6c8ee1bd09a839857613e4d118ffc74a0ef4fb2605e58d50e11dc9b5e0443a2e8d80e"
+            },
+            "signing_policy": {
+                "signing_policy_address": {
+                    "address": "0x4DFCbC3a1529FB3c07245095FBA7830063d71c34",
+                    "r": "d71c34",
+                    "g": "830063",
+                    "b": "95FBA7"
+                }
+            },
+            "voter_registered": {
+                "id": 1251,
+                "emitter_address": "31B9EC65C731c7D973a33Ef3FC83B653f540dC8D",
+                "identity_address": "4F84caAb4a53Aabbad2dfE1013d2bB53EDBF2f0a",
+                "submit_address": "e0bFd268E193103Cb3e8331725414D7644f05e35",
+                "submit_signatures_address": "80CfaEfb05C359dd29f5B2DBB740efE3faB6eC0A",
+                "signing_policy_address": "4DFCbC3a1529FB3c07245095FBA7830063d71c34",
+                "transaction_hash": "0x0bd342b443b6bcbdc5dd2c830200cc0c9827d013ed63f314029735fea3bcb9ce",
+                "reward_epoch_id": 210,
+                "public_key": "0x29fa1941fded80680943e0f6ff83f73c447f1f06048c7b5a51c601dfaee6c8ee1bd09a839857613e4d118ffc74a0ef4fb2605e58d50e11dc9b5e0443a2e8d80e",
+                "registration_weight": 55759442575088809648,
+                "block": 66408033,
+                "voter": 34
+            },
+            "voter_registration_info": {
+                "id": 1251,
+                "identity_address": "4F84caAb4a53Aabbad2dfE1013d2bB53EDBF2f0a",
+                "emitter_address": "126FAeEc75601dA3354c0b5Cc0b60C85fCbC3A5e",
+                "delegation_address": "EF4ef2f3B8C69282846a98341095baa018247553",
+                "transaction_hash": "0x0bd342b443b6bcbdc5dd2c830200cc0c9827d013ed63f314029735fea3bcb9ce",
+                "reward_epoch_id": 210,
+                "delegation_fee_bips": 2000,
+                "w_nat_weight": 216439494881621595516421021,
+                "w_nat_capped_weight": 213022084811741169742506155,
+                "node_ids": [],
+                "node_weights": [],
+                "block": 66408033,
+                "voter": 34
+            },
+            "uptimevotesignedevent_set": [
+                {
+                    "uptime_vote_hash": "290decd9548b62a8d60345a988386fc84ba6bc95484008f6362f93160ef3e563"
+                }
+            ],
+            "rewardssignedevent_set": [],
+            "identity_address": {
+                "address": "0x4F84caAb4a53Aabbad2dfE1013d2bB53EDBF2f0a",
+                "r": "BF2f0a",
+                "g": "bB53ED",
+                "b": "1013d2"
+            },
+            "display_name": "PRICEKRAKEN",
+            "logo_url": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0xEF4ef2f3B8C69282846a98341095baa018247553.png"
+        },
+        {
+            "id": 9,
+            "normalised_weight": 438,
+            "public_key": {
+                "public_key": "0x0867be798fbfa4ce51090ae40166f9e0626c3d856bb0e0367494a41ba99c19da0287972a591d8d54526e3117329a6a4674d0fb1002a3aa0f527237837985b4f7"
+            },
+            "signing_policy": {
+                "signing_policy_address": {
+                    "address": "0x526a35584129879950C1B044F5627812217B833a",
+                    "r": "7B833a",
+                    "g": "781221",
+                    "b": "44F562"
+                }
+            },
+            "voter_registered": {
+                "id": 1221,
+                "emitter_address": "31B9EC65C731c7D973a33Ef3FC83B653f540dC8D",
+                "identity_address": "527E5e829763885008E171493C0E8d4A1eC48239",
+                "submit_address": "E6c5024a337451e32f18f4B043bdb2d755897F7E",
+                "submit_signatures_address": "fB341c48679a52973F778dF1DD5c50A8e03010B0",
+                "signing_policy_address": "526a35584129879950C1B044F5627812217B833a",
+                "transaction_hash": "0xeeeb09f2f733a37f0ed018712c35318cb2ee8481fcb2431ebe954732092c7819",
+                "reward_epoch_id": 210,
+                "public_key": "0x0867be798fbfa4ce51090ae40166f9e0626c3d856bb0e0367494a41ba99c19da0287972a591d8d54526e3117329a6a4674d0fb1002a3aa0f527237837985b4f7",
+                "registration_weight": 11446640828791820254,
+                "block": 66408030,
+                "voter": 9
+            },
+            "voter_registration_info": {
+                "id": 1221,
+                "identity_address": "527E5e829763885008E171493C0E8d4A1eC48239",
+                "emitter_address": "126FAeEc75601dA3354c0b5Cc0b60C85fCbC3A5e",
+                "delegation_address": "86eC5c8Ce7a4DD7762Cff205d64Bfc0C272feB6d",
+                "transaction_hash": "0xeeeb09f2f733a37f0ed018712c35318cb2ee8481fcb2431ebe954732092c7819",
+                "reward_epoch_id": 210,
+                "delegation_fee_bips": 2000,
+                "w_nat_weight": 25797097170557125246134926,
+                "w_nat_capped_weight": 25797097170557125246134926,
+                "node_ids": [],
+                "node_weights": [],
+                "block": 66408030,
+                "voter": 9
+            },
+            "uptimevotesignedevent_set": [
+                {
+                    "uptime_vote_hash": "290decd9548b62a8d60345a988386fc84ba6bc95484008f6362f93160ef3e563"
+                }
+            ],
+            "rewardssignedevent_set": [
+                {
+                    "rewards_hash": "412dae6b1ce870ed1c5a43890f44bd10be54fcc852d50fadce810db8b228a493"
+                }
+            ],
+            "identity_address": {
+                "address": "0x527E5e829763885008E171493C0E8d4A1eC48239",
+                "r": "C48239",
+                "g": "8d4A1e",
+                "b": "493C0E"
+            },
+            "display_name": "ACDTftso",
+            "logo_url": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0x86eC5c8Ce7a4DD7762Cff205d64Bfc0C272feB6d.png"
+        },
+        {
+            "id": 8,
+            "normalised_weight": 388,
+            "public_key": {
+                "public_key": "0x2ed3380b8ee9e4a749af5613593c6945cb1b44ded98e1c486cf442cc8a21575f1f963f15b0b0c5748b917d7347110f6ec4cf676e0902bf362ff731e4d42e942a"
+            },
+            "signing_policy": {
+                "signing_policy_address": {
+                    "address": "0xB4d13CA9e17C52D61Ffc06c2bC75e3a751517B4B",
+                    "r": "517B4B",
+                    "g": "e3a751",
+                    "b": "c2bC75"
+                }
+            },
+            "voter_registered": {
+                "id": 1237,
+                "emitter_address": "31B9EC65C731c7D973a33Ef3FC83B653f540dC8D",
+                "identity_address": "625598caF40C63EB62860260cfD343d5FA4D88D4",
+                "submit_address": "9eE69d3B7C8099aB0E604BBAc544e77E2066d38c",
+                "submit_signatures_address": "898C46bF51bd9a241b6B7D8a99089C954Ccece60",
+                "signing_policy_address": "B4d13CA9e17C52D61Ffc06c2bC75e3a751517B4B",
+                "transaction_hash": "0x8b56eac1ed7ce1628a4abe6e411c09be8835bd6f2bc8c297b97d23bbb1c12486",
+                "reward_epoch_id": 210,
+                "public_key": "0x2ed3380b8ee9e4a749af5613593c6945cb1b44ded98e1c486cf442cc8a21575f1f963f15b0b0c5748b917d7347110f6ec4cf676e0902bf362ff731e4d42e942a",
+                "registration_weight": 10142406038191272318,
+                "block": 66408032,
+                "voter": 8
+            },
+            "voter_registration_info": {
+                "id": 1237,
+                "identity_address": "625598caF40C63EB62860260cfD343d5FA4D88D4",
+                "emitter_address": "126FAeEc75601dA3354c0b5Cc0b60C85fCbC3A5e",
+                "delegation_address": "2d3bdE536ad297f2EA74965f02C9E42f4780fB6A",
+                "transaction_hash": "0x8b56eac1ed7ce1628a4abe6e411c09be8835bd6f2bc8c297b97d23bbb1c12486",
+                "reward_epoch_id": 210,
+                "delegation_fee_bips": 2000,
+                "w_nat_weight": 21954394370588660603574282,
+                "w_nat_capped_weight": 21954394370588660603574282,
+                "node_ids": [],
+                "node_weights": [],
+                "block": 66408032,
+                "voter": 8
+            },
+            "uptimevotesignedevent_set": [],
+            "rewardssignedevent_set": [
+                {
+                    "rewards_hash": "412dae6b1ce870ed1c5a43890f44bd10be54fcc852d50fadce810db8b228a493"
+                }
+            ],
+            "identity_address": {
+                "address": "0x625598caF40C63EB62860260cfD343d5FA4D88D4",
+                "r": "4D88D4",
+                "g": "43d5FA",
+                "b": "60cfD3"
+            },
+            "display_name": "Xdrops Oracle",
+            "logo_url": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0x2d3bdE536ad297f2EA74965f02C9E42f4780fB6A.png"
+        },
+        {
+            "id": 50,
+            "normalised_weight": 407,
+            "public_key": {
+                "public_key": null
+            },
+            "signing_policy": {
+                "signing_policy_address": {
+                    "address": "0xfd9AbD602150d39D819Eb71eE8d6809c157d9a82",
+                    "r": "7d9a82",
+                    "g": "809c15",
+                    "b": "1eE8d6"
+                }
+            },
+            "voter_registered": {
+                "id": 1263,
+                "emitter_address": "31B9EC65C731c7D973a33Ef3FC83B653f540dC8D",
+                "identity_address": "65Ae92f3473D75815F2a86298b76A608F94E1575",
+                "submit_address": "8982e007397Edc5E6EfE3978fa5ee2e19ec62070",
+                "submit_signatures_address": "094D9cF2c4474a3680363e7c1d1B1c4BFfBd0b2A",
+                "signing_policy_address": "fd9AbD602150d39D819Eb71eE8d6809c157d9a82",
+                "transaction_hash": "0xe592836d35f8a9e7a6a22bb3e1a362a5505ff56baaff2fabe0918ab9bef877ac",
+                "reward_epoch_id": 210,
+                "public_key": "0x00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000",
+                "registration_weight": 10640547369692320110,
+                "block": 66408034,
+                "voter": 50
+            },
+            "voter_registration_info": {
+                "id": 1263,
+                "identity_address": "65Ae92f3473D75815F2a86298b76A608F94E1575",
+                "emitter_address": "126FAeEc75601dA3354c0b5Cc0b60C85fCbC3A5e",
+                "delegation_address": "E304AF184b9ca77E3576Aef834A4dc1A43EBfA70",
+                "transaction_hash": "0xe592836d35f8a9e7a6a22bb3e1a362a5505ff56baaff2fabe0918ab9bef877ac",
+                "reward_epoch_id": 210,
+                "delegation_fee_bips": 2000,
+                "w_nat_weight": 23403754560910526096647188,
+                "w_nat_capped_weight": 23403754560910526096647188,
+                "node_ids": [],
+                "node_weights": [],
+                "block": 66408034,
+                "voter": 50
+            },
+            "uptimevotesignedevent_set": [],
+            "rewardssignedevent_set": [],
+            "identity_address": {
+                "address": "0x65Ae92f3473D75815F2a86298b76A608F94E1575",
+                "r": "4E1575",
+                "g": "A608F9",
+                "b": "298b76"
+            },
+            "display_name": "Mickey B Fresh",
+            "logo_url": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0xE304AF184b9ca77E3576Aef834A4dc1A43EBfA70.png"
+        },
+        {
+            "id": 25,
+            "normalised_weight": 1650,
+            "public_key": {
+                "public_key": "0x0cfa9f1092d8f1fc832c09290f7487a64ba5e6af06ffda2995332629b6cc4cd214a7f03ec75504640b019bd34a18f647edd49a14adda989cebc2f7d742f67a9a"
+            },
+            "signing_policy": {
+                "signing_policy_address": {
+                    "address": "0x0c88A5cD336a2B2a81f16E09A23582300489F4DE",
+                    "r": "89F4DE",
+                    "g": "823004",
+                    "b": "09A235"
+                }
+            },
+            "voter_registered": {
+                "id": 1234,
+                "emitter_address": "31B9EC65C731c7D973a33Ef3FC83B653f540dC8D",
+                "identity_address": "661a71e863c887E68aa8c9348e8AA60E48a868Ad",
+                "submit_address": "6eE543bd1CF7AFa237233C29e7562665c82B89ED",
+                "submit_signatures_address": "c9852851B353900647246EdCB8162227dadF8373",
+                "signing_policy_address": "0c88A5cD336a2B2a81f16E09A23582300489F4DE",
+                "transaction_hash": "0x00fcee7b1a7317a46569fdb03256d5b33c3dd506dfdf350719036f7afec4a7d0",
+                "reward_epoch_id": 210,
+                "public_key": "0x0cfa9f1092d8f1fc832c09290f7487a64ba5e6af06ffda2995332629b6cc4cd214a7f03ec75504640b019bd34a18f647edd49a14adda989cebc2f7d742f67a9a",
+                "registration_weight": 43103932814621732870,
+                "block": 66408032,
+                "voter": 25
+            },
+            "voter_registration_info": {
+                "id": 1234,
+                "identity_address": "661a71e863c887E68aa8c9348e8AA60E48a868Ad",
+                "emitter_address": "126FAeEc75601dA3354c0b5Cc0b60C85fCbC3A5e",
+                "delegation_address": "53CAEDDA4339eD74272ECfEF85b657dEf18fA2e4",
+                "transaction_hash": "0x00fcee7b1a7317a46569fdb03256d5b33c3dd506dfdf350719036f7afec4a7d0",
+                "reward_epoch_id": 210,
+                "delegation_fee_bips": 2000,
+                "w_nat_weight": 151131838074621455939979508,
+                "w_nat_capped_weight": 151131838074621455939979508,
+                "node_ids": [],
+                "node_weights": [],
+                "block": 66408032,
+                "voter": 25
+            },
+            "uptimevotesignedevent_set": [],
+            "rewardssignedevent_set": [],
+            "identity_address": {
+                "address": "0x661a71e863c887E68aa8c9348e8AA60E48a868Ad",
+                "r": "a868Ad",
+                "g": "A60E48",
+                "b": "348e8A"
+            },
+            "display_name": "Use Your Spark",
+            "logo_url": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0x53CAEDDA4339eD74272ECfEF85b657dEf18fA2e4.png"
+        },
+        {
+            "id": 48,
+            "normalised_weight": 2135,
+            "public_key": {
+                "public_key": "0x0b9f23f04efd418dc45c183010cd0ded815083d7882e27434166c41c871f136e042ea2b42f276bcd05fd1c6ff1456301591db6e287dc316396c9e9f49235cb59"
+            },
+            "signing_policy": {
+                "signing_policy_address": {
+                    "address": "0xFE28f67f7e33f9702476da4A851148B8D594B453",
+                    "r": "94B453",
+                    "g": "48B8D5",
+                    "b": "4A8511"
+                }
+            },
+            "voter_registered": {
+                "id": 1252,
+                "emitter_address": "31B9EC65C731c7D973a33Ef3FC83B653f540dC8D",
+                "identity_address": "6c2209754845dF0FC01D048c3F3C3537B5D35B9c",
+                "submit_address": "8CA22a091F467d4E4d0e0357B6cd6d963e426689",
+                "submit_signatures_address": "fBa9E89bf31AD6a0A7079e6ea4775b09b49efDD2",
+                "signing_policy_address": "FE28f67f7e33f9702476da4A851148B8D594B453",
+                "transaction_hash": "0x7cd7f6a47aa71aacd07c42c025d048e0e8f5c8a4271e0f345bf654f795df1713",
+                "reward_epoch_id": 210,
+                "public_key": "0x0b9f23f04efd418dc45c183010cd0ded815083d7882e27434166c41c871f136e042ea2b42f276bcd05fd1c6ff1456301591db6e287dc316396c9e9f49235cb59",
+                "registration_weight": 55759442575088809648,
+                "block": 66408033,
+                "voter": 48
+            },
+            "voter_registration_info": {
+                "id": 1252,
+                "identity_address": "6c2209754845dF0FC01D048c3F3C3537B5D35B9c",
+                "emitter_address": "126FAeEc75601dA3354c0b5Cc0b60C85fCbC3A5e",
+                "delegation_address": "1B00870092a929D160492daf8E734b4bCA033266",
+                "transaction_hash": "0x7cd7f6a47aa71aacd07c42c025d048e0e8f5c8a4271e0f345bf654f795df1713",
+                "reward_epoch_id": 210,
+                "delegation_fee_bips": 2000,
+                "w_nat_weight": 279271603566405760556896679,
+                "w_nat_capped_weight": 213022084811741169742506155,
+                "node_ids": [],
+                "node_weights": [],
+                "block": 66408033,
+                "voter": 48
+            },
+            "uptimevotesignedevent_set": [
+                {
+                    "uptime_vote_hash": "bc36789e7a1e281436464229828f817d6612f7b477d66591ff96a9e064bcc98a"
+                },
+                {
+                    "uptime_vote_hash": "290decd9548b62a8d60345a988386fc84ba6bc95484008f6362f93160ef3e563"
+                }
+            ],
+            "rewardssignedevent_set": [],
+            "identity_address": {
+                "address": "0x6c2209754845dF0FC01D048c3F3C3537B5D35B9c",
+                "r": "D35B9c",
+                "g": "3537B5",
+                "b": "8c3F3C"
+            },
+            "display_name": "Flare Oracle",
+            "logo_url": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0x1B00870092a929D160492daf8E734b4bCA033266.png"
+        },
+        {
+            "id": 92,
+            "normalised_weight": 411,
+            "public_key": {
+                "public_key": "0x028728385583592cff38ea5ff3af524b13e9756ce9198a95f51545cb450fa5d425105a5a8f2a0fe01b1422e2dcea5805a07b0ed1f604b0cccefcb5dbf97c6059"
+            },
+            "signing_policy": {
+                "signing_policy_address": {
+                    "address": "0x93Cbc3d86Ba2c6B2c3f9235a6369F6420EAd91AC",
+                    "r": "Ad91AC",
+                    "g": "F6420E",
+                    "b": "5a6369"
+                }
+            },
+            "voter_registered": {
+                "id": 1278,
+                "emitter_address": "31B9EC65C731c7D973a33Ef3FC83B653f540dC8D",
+                "identity_address": "709c1ca45E66d0c4D6F1867E67bf37DD676B4B6B",
+                "submit_address": "b31dabE40FB95839cd4015b66Bed7C5C1770a18D",
+                "submit_signatures_address": "A6901b38D9Ef4454a45b3cFafD6b5C07Fc40c309",
+                "signing_policy_address": "93Cbc3d86Ba2c6B2c3f9235a6369F6420EAd91AC",
+                "transaction_hash": "0xe38181fb7776cda1237143571a10307f652814b17aabd0747e66bbb4a9f3baf5",
+                "reward_epoch_id": 210,
+                "public_key": "0x028728385583592cff38ea5ff3af524b13e9756ce9198a95f51545cb450fa5d425105a5a8f2a0fe01b1422e2dcea5805a07b0ed1f604b0cccefcb5dbf97c6059",
+                "registration_weight": 10738958049895263888,
+                "block": 66408038,
+                "voter": 92
+            },
+            "voter_registration_info": {
+                "id": 1278,
+                "identity_address": "709c1ca45E66d0c4D6F1867E67bf37DD676B4B6B",
+                "emitter_address": "126FAeEc75601dA3354c0b5Cc0b60C85fCbC3A5e",
+                "delegation_address": "3012c799565010C3b090D252839a3D24f3b766bE",
+                "transaction_hash": "0xe38181fb7776cda1237143571a10307f652814b17aabd0747e66bbb4a9f3baf5",
+                "reward_epoch_id": 210,
+                "delegation_fee_bips": 2000,
+                "w_nat_weight": 23692801782212861766430692,
+                "w_nat_capped_weight": 23692801782212861766430692,
+                "node_ids": [],
+                "node_weights": [],
+                "block": 66408038,
+                "voter": 92
+            },
+            "uptimevotesignedevent_set": [
+                {
+                    "uptime_vote_hash": "bc36789e7a1e281436464229828f817d6612f7b477d66591ff96a9e064bcc98a"
+                }
+            ],
+            "rewardssignedevent_set": [],
+            "identity_address": {
+                "address": "0x709c1ca45E66d0c4D6F1867E67bf37DD676B4B6B",
+                "r": "6B4B6B",
+                "g": "37DD67",
+                "b": "7E67bf"
+            },
+            "display_name": "Sparkles FTSO",
+            "logo_url": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0x3012c799565010C3b090D252839a3D24f3b766bE.png"
+        },
+        {
+            "id": 88,
+            "normalised_weight": 29,
+            "public_key": {
+                "public_key": null
+            },
+            "signing_policy": {
+                "signing_policy_address": {
+                    "address": "0x3CE683E9aab8dA737F67d25D910A281970e38f3d",
+                    "r": "e38f3d",
+                    "g": "281970",
+                    "b": "5D910A"
+                }
+            },
+            "voter_registered": {
+                "id": 1242,
+                "emitter_address": "31B9EC65C731c7D973a33Ef3FC83B653f540dC8D",
+                "identity_address": "736E7225CC876f30BA124C2bFb8C0ed133f6c7C9",
+                "submit_address": "451426f65B79b006e82AF3D30541476be73df660",
+                "submit_signatures_address": "790Faf4F80fb3Ba3087894Fe8d6aEB7D4C0Ba8e4",
+                "signing_policy_address": "3CE683E9aab8dA737F67d25D910A281970e38f3d",
+                "transaction_hash": "0x0d3eedc5290175edfd828af6858f5b6807314484550d90a17ba27b6a8b99e980",
+                "reward_epoch_id": 210,
+                "public_key": "0x00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000",
+                "registration_weight": 777714635163577984,
+                "block": 66408033,
+                "voter": 88
+            },
+            "voter_registration_info": {
+                "id": 1242,
+                "identity_address": "736E7225CC876f30BA124C2bFb8C0ed133f6c7C9",
+                "emitter_address": "126FAeEc75601dA3354c0b5Cc0b60C85fCbC3A5e",
+                "delegation_address": "42187c751cf91A543C6c913E9f95701eAD19729a",
+                "transaction_hash": "0x0d3eedc5290175edfd828af6858f5b6807314484550d90a17ba27b6a8b99e980",
+                "reward_epoch_id": 210,
+                "delegation_fee_bips": 2000,
+                "w_nat_weight": 715200000000000000000000,
+                "w_nat_capped_weight": 715200000000000000000000,
+                "node_ids": [],
+                "node_weights": [],
+                "block": 66408033,
+                "voter": 88
+            },
+            "uptimevotesignedevent_set": [],
+            "rewardssignedevent_set": [],
+            "identity_address": {
+                "address": "0x736E7225CC876f30BA124C2bFb8C0ed133f6c7C9",
+                "r": "f6c7C9",
+                "g": "0ed133",
+                "b": "2bFb8C"
+            },
+            "display_name": null,
+            "logo_url": null
+        },
+        {
+            "id": 5,
+            "normalised_weight": 2135,
+            "public_key": {
+                "public_key": "0x177ccd52148eb4beee49a8aedcfd3b9a9efa625c2c12fc5f0da79828fc17eacf25a3ce7b3e2465869eb4b7441aacb42fe0eafdc9c66885cd3d89d596bd33e815"
+            },
+            "signing_policy": {
+                "signing_policy_address": {
+                    "address": "0xa1c5ad0b4a24b70b786b6143b066a8C54388f01F",
+                    "r": "88f01F",
+                    "g": "a8C543",
+                    "b": "43b066"
+                }
+            },
+            "voter_registered": {
+                "id": 1222,
+                "emitter_address": "31B9EC65C731c7D973a33Ef3FC83B653f540dC8D",
+                "identity_address": "7429E0C70306834E2B210cf3FEB306342f456ce7",
+                "submit_address": "f01f5A31A07A046Cd63d5Ec27E82D12E6A89762f",
+                "submit_signatures_address": "DcE533e7F4b46b992EbaE38BF81A0f56D65Cd88E",
+                "signing_policy_address": "a1c5ad0b4a24b70b786b6143b066a8C54388f01F",
+                "transaction_hash": "0x4f0970e854391821d0ba905aaa8e92cc8f7de37cd9a3b5ee692318a752d1003e",
+                "reward_epoch_id": 210,
+                "public_key": "0x177ccd52148eb4beee49a8aedcfd3b9a9efa625c2c12fc5f0da79828fc17eacf25a3ce7b3e2465869eb4b7441aacb42fe0eafdc9c66885cd3d89d596bd33e815",
+                "registration_weight": 55759442575088809648,
+                "block": 66408031,
+                "voter": 5
+            },
+            "voter_registration_info": {
+                "id": 1222,
+                "identity_address": "7429E0C70306834E2B210cf3FEB306342f456ce7",
+                "emitter_address": "126FAeEc75601dA3354c0b5Cc0b60C85fCbC3A5e",
+                "delegation_address": "69141E890F3a79cd2CFf552c0B71508bE23712dC",
+                "transaction_hash": "0x4f0970e854391821d0ba905aaa8e92cc8f7de37cd9a3b5ee692318a752d1003e",
+                "reward_epoch_id": 210,
+                "delegation_fee_bips": 2000,
+                "w_nat_weight": 363328363501959018708682620,
+                "w_nat_capped_weight": 213022084811741169742506155,
+                "node_ids": [],
+                "node_weights": [],
+                "block": 66408031,
+                "voter": 5
+            },
+            "uptimevotesignedevent_set": [],
+            "rewardssignedevent_set": [
+                {
+                    "rewards_hash": "412dae6b1ce870ed1c5a43890f44bd10be54fcc852d50fadce810db8b228a493"
+                }
+            ],
+            "identity_address": {
+                "address": "0x7429E0C70306834E2B210cf3FEB306342f456ce7",
+                "r": "456ce7",
+                "g": "06342f",
+                "b": "f3FEB3"
+            },
+            "display_name": "Bifrost Wallet",
+            "logo_url": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0x69141E890F3a79cd2CFf552c0B71508bE23712dC.png"
+        },
+        {
+            "id": 26,
+            "normalised_weight": 387,
+            "public_key": {
+                "public_key": null
+            },
+            "signing_policy": {
+                "signing_policy_address": {
+                    "address": "0x0fB8fE4480de02093A828BeB554D09CB5c31895A",
+                    "r": "31895A",
+                    "g": "09CB5c",
+                    "b": "eB554D"
+                }
+            },
+            "voter_registered": {
+                "id": 1261,
+                "emitter_address": "31B9EC65C731c7D973a33Ef3FC83B653f540dC8D",
+                "identity_address": "75306a2aE227b444E2501908Ade7c4c2B1E22423",
+                "submit_address": "A96BD136F602B17A1d405A11844f0F60A479b1Fa",
+                "submit_signatures_address": "43c7c5bBAfd15ea506Ce14B47a45081713678f7d",
+                "signing_policy_address": "0fB8fE4480de02093A828BeB554D09CB5c31895A",
+                "transaction_hash": "0x0807724466bfbc0df7458acae57b477fe658db481c907b3023f58e2ae9745ae7",
+                "reward_epoch_id": 210,
+                "public_key": "0x00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000",
+                "registration_weight": 10127466864573419400,
+                "block": 66408034,
+                "voter": 26
+            },
+            "voter_registration_info": {
+                "id": 1261,
+                "identity_address": "75306a2aE227b444E2501908Ade7c4c2B1E22423",
+                "emitter_address": "126FAeEc75601dA3354c0b5Cc0b60C85fCbC3A5e",
+                "delegation_address": "E70d5351a842131c66AAeBC4bD604912BF3cBa72",
+                "transaction_hash": "0x0807724466bfbc0df7458acae57b477fe658db481c907b3023f58e2ae9745ae7",
+                "reward_epoch_id": 210,
+                "delegation_fee_bips": 2000,
+                "w_nat_weight": 21911282050456369190580364,
+                "w_nat_capped_weight": 21911282050456369190580364,
+                "node_ids": [],
+                "node_weights": [],
+                "block": 66408034,
+                "voter": 26
+            },
+            "uptimevotesignedevent_set": [],
+            "rewardssignedevent_set": [],
+            "identity_address": {
+                "address": "0x75306a2aE227b444E2501908Ade7c4c2B1E22423",
+                "r": "E22423",
+                "g": "c4c2B1",
+                "b": "08Ade7"
+            },
+            "display_name": "Scintilla",
+            "logo_url": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0xE70d5351a842131c66AAeBC4bD604912BF3cBa72.png"
+        },
+        {
+            "id": 57,
+            "normalised_weight": 367,
+            "public_key": {
+                "public_key": "0x0c44f245cb3a0d3d8c657507336da03a0fb9130c01353300f561125670088421292a8812432510ea25db4d8bae2a7f2912856a235f8aef481ee627653698ee5f"
+            },
+            "signing_policy": {
+                "signing_policy_address": {
+                    "address": "0x21EF03f609Aad7dB7224d3f8fd90f5593d2607cA",
+                    "r": "2607cA",
+                    "g": "f5593d",
+                    "b": "f8fd90"
+                }
+            },
+            "voter_registered": {
+                "id": 1265,
+                "emitter_address": "31B9EC65C731c7D973a33Ef3FC83B653f540dC8D",
+                "identity_address": "7e74F48ee5575e028d6bEbd77e368761F1d74a2a",
+                "submit_address": "CF1392B41ff06ab51D6F1bDf69e7cD706141a8BA",
+                "submit_signatures_address": "E8c7A135f1005eb66B135075A3Ef9106b4da5C4F",
+                "signing_policy_address": "21EF03f609Aad7dB7224d3f8fd90f5593d2607cA",
+                "transaction_hash": "0x153922cabacfca3ef4c581d4ad8cfeffaf33b9d22b2c8f004ac4861fcf527c14",
+                "reward_epoch_id": 210,
+                "public_key": "0x0c44f245cb3a0d3d8c657507336da03a0fb9130c01353300f561125670088421292a8812432510ea25db4d8bae2a7f2912856a235f8aef481ee627653698ee5f",
+                "registration_weight": 9600545770612548687,
+                "block": 66408034,
+                "voter": 57
+            },
+            "voter_registration_info": {
+                "id": 1265,
+                "identity_address": "7e74F48ee5575e028d6bEbd77e368761F1d74a2a",
+                "emitter_address": "126FAeEc75601dA3354c0b5Cc0b60C85fCbC3A5e",
+                "delegation_address": "4619Ae2f09cF5e6da873C501a12D86AaCbD7962B",
+                "transaction_hash": "0x153922cabacfca3ef4c581d4ad8cfeffaf33b9d22b2c8f004ac4861fcf527c14",
+                "reward_epoch_id": 210,
+                "delegation_fee_bips": 2000,
+                "w_nat_weight": 20404599056653673598470168,
+                "w_nat_capped_weight": 20404599056653673598470168,
+                "node_ids": [],
+                "node_weights": [],
+                "block": 66408034,
+                "voter": 57
+            },
+            "uptimevotesignedevent_set": [
+                {
+                    "uptime_vote_hash": "290decd9548b62a8d60345a988386fc84ba6bc95484008f6362f93160ef3e563"
+                }
+            ],
+            "rewardssignedevent_set": [],
+            "identity_address": {
+                "address": "0x7e74F48ee5575e028d6bEbd77e368761F1d74a2a",
+                "r": "d74a2a",
+                "g": "8761F1",
+                "b": "d77e36"
+            },
+            "display_name": "Knot Nodes",
+            "logo_url": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0x4619Ae2f09cF5e6da873C501a12D86AaCbD7962B.png"
+        },
+        {
+            "id": 89,
+            "normalised_weight": 1,
+            "public_key": {
+                "public_key": null
+            },
+            "signing_policy": {
+                "signing_policy_address": {
+                    "address": "0xAA88D168a86eE8C8Dafce663bFe713d256C2a0f3",
+                    "r": "C2a0f3",
+                    "g": "13d256",
+                    "b": "63bFe7"
+                }
+            },
+            "voter_registered": {
+                "id": 1270,
+                "emitter_address": "31B9EC65C731c7D973a33Ef3FC83B653f540dC8D",
+                "identity_address": "7fBec5e3BE491C419A9e5822b40E0EDD00f18393",
+                "submit_address": "8D6808ecEce66ae0f199cbE374f42230f4FE9D8F",
+                "submit_signatures_address": "61D892e36094C1466278C3384a2110875921B3B5",
+                "signing_policy_address": "AA88D168a86eE8C8Dafce663bFe713d256C2a0f3",
+                "transaction_hash": "0xcd80b1854316037f311fd260515ff818f57f6c8c8d1cc800c36487d4d69daddf",
+                "reward_epoch_id": 210,
+                "public_key": "0x00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000",
+                "registration_weight": 31622700000000000,
+                "block": 66408035,
+                "voter": 89
+            },
+            "voter_registration_info": {
+                "id": 1270,
+                "identity_address": "7fBec5e3BE491C419A9e5822b40E0EDD00f18393",
+                "emitter_address": "126FAeEc75601dA3354c0b5Cc0b60C85fCbC3A5e",
+                "delegation_address": "81ad5965e2aEd828Ca445288b8700F173dbb4Fe0",
+                "transaction_hash": "0xcd80b1854316037f311fd260515ff818f57f6c8c8d1cc800c36487d4d69daddf",
+                "reward_epoch_id": 210,
+                "delegation_fee_bips": 2000,
+                "w_nat_weight": 10000000000000000000000,
+                "w_nat_capped_weight": 10000000000000000000000,
+                "node_ids": [],
+                "node_weights": [],
+                "block": 66408035,
+                "voter": 89
+            },
+            "uptimevotesignedevent_set": [],
+            "rewardssignedevent_set": [],
+            "identity_address": {
+                "address": "0x7fBec5e3BE491C419A9e5822b40E0EDD00f18393",
+                "r": "f18393",
+                "g": "0EDD00",
+                "b": "22b40E"
+            },
+            "display_name": null,
+            "logo_url": null
+        },
+        {
+            "id": 46,
+            "normalised_weight": 2135,
+            "public_key": {
+                "public_key": "0x09527f5f57482741588df7c7ece2801b77497a50c525983d20121c08259f60a210582db660b71b08db2eb6c6059561358f63c44db072a64c2aededdf3ded9428"
+            },
+            "signing_policy": {
+                "signing_policy_address": {
+                    "address": "0x0E879D2836196f9BB212EAa5d6B206FA633a8370",
+                    "r": "3a8370",
+                    "g": "06FA63",
+                    "b": "a5d6B2"
+                }
+            },
+            "voter_registered": {
+                "id": 1264,
+                "emitter_address": "31B9EC65C731c7D973a33Ef3FC83B653f540dC8D",
+                "identity_address": "89f7498a8db97FF7d8ef323E480Cb18dB44a1309",
+                "submit_address": "216E8856902c0e90170e1a4f1Bc8659C1b200AFC",
+                "submit_signatures_address": "Deb6752C4120E1ee876eF39A3034C146fAE189f8",
+                "signing_policy_address": "0E879D2836196f9BB212EAa5d6B206FA633a8370",
+                "transaction_hash": "0x8e1bc87fae843da35f97deaf4e400093784279b8e4cfe8f9d05bf2dc7114f371",
+                "reward_epoch_id": 210,
+                "public_key": "0x09527f5f57482741588df7c7ece2801b77497a50c525983d20121c08259f60a210582db660b71b08db2eb6c6059561358f63c44db072a64c2aededdf3ded9428",
+                "registration_weight": 55759442575088809648,
+                "block": 66408034,
+                "voter": 46
+            },
+            "voter_registration_info": {
+                "id": 1264,
+                "identity_address": "89f7498a8db97FF7d8ef323E480Cb18dB44a1309",
+                "emitter_address": "126FAeEc75601dA3354c0b5Cc0b60C85fCbC3A5e",
+                "delegation_address": "0f80AF5b905a9A34f69E74412c4A00B231D26dAa",
+                "transaction_hash": "0x8e1bc87fae843da35f97deaf4e400093784279b8e4cfe8f9d05bf2dc7114f371",
+                "reward_epoch_id": 210,
+                "delegation_fee_bips": 2000,
+                "w_nat_weight": 305888215883290440904438720,
+                "w_nat_capped_weight": 213022084811741169742506155,
+                "node_ids": [],
+                "node_weights": [],
+                "block": 66408034,
+                "voter": 46
+            },
+            "uptimevotesignedevent_set": [
+                {
+                    "uptime_vote_hash": "290decd9548b62a8d60345a988386fc84ba6bc95484008f6362f93160ef3e563"
+                }
+            ],
+            "rewardssignedevent_set": [
+                {
+                    "rewards_hash": "412dae6b1ce870ed1c5a43890f44bd10be54fcc852d50fadce810db8b228a493"
+                }
+            ],
+            "identity_address": {
+                "address": "0x89f7498a8db97FF7d8ef323E480Cb18dB44a1309",
+                "r": "4a1309",
+                "g": "b18dB4",
+                "b": "3E480C"
+            },
+            "display_name": "EvolveFTSO",
+            "logo_url": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0x0f80AF5b905a9A34f69E74412c4A00B231D26dAa.png"
+        },
+        {
+            "id": 16,
+            "normalised_weight": 2135,
+            "public_key": {
+                "public_key": "0x18384be720b40837649785e0d74caa7d99b2b8f8dd0b921564da2a3cd3177baf1f16806f5df1d59e0fd25c66a832baf92525312669c309adec891783cf0313b6"
+            },
+            "signing_policy": {
+                "signing_policy_address": {
+                    "address": "0x5B0FF409b17dF4b717Ea0c5035d0a961c502Fca8",
+                    "r": "02Fca8",
+                    "g": "a961c5",
+                    "b": "5035d0"
+                }
+            },
+            "voter_registered": {
+                "id": 1271,
+                "emitter_address": "31B9EC65C731c7D973a33Ef3FC83B653f540dC8D",
+                "identity_address": "8ddd48b520Df91f05C5d8c19b2cEE59ABe65978a",
+                "submit_address": "92BF54Ae8AeD699a038e8d8b0e62e5b511F56DC5",
+                "submit_signatures_address": "351Cc97C268f5dC8EEEDdDed15B0bd0825E683F6",
+                "signing_policy_address": "5B0FF409b17dF4b717Ea0c5035d0a961c502Fca8",
+                "transaction_hash": "0xabea7eb76f37234f86a969ff17c729d532e7bc82402e48415baa0e388aa6c645",
+                "reward_epoch_id": 210,
+                "public_key": "0x18384be720b40837649785e0d74caa7d99b2b8f8dd0b921564da2a3cd3177baf1f16806f5df1d59e0fd25c66a832baf92525312669c309adec891783cf0313b6",
+                "registration_weight": 55759442575088809648,
+                "block": 66408035,
+                "voter": 16
+            },
+            "voter_registration_info": {
+                "id": 1271,
+                "identity_address": "8ddd48b520Df91f05C5d8c19b2cEE59ABe65978a",
+                "emitter_address": "126FAeEc75601dA3354c0b5Cc0b60C85fCbC3A5e",
+                "delegation_address": "1C602a30335187A97D8061Ffffd4522796DE82bF",
+                "transaction_hash": "0xabea7eb76f37234f86a969ff17c729d532e7bc82402e48415baa0e388aa6c645",
+                "reward_epoch_id": 210,
+                "delegation_fee_bips": 2000,
+                "w_nat_weight": 264308276700221020659542159,
+                "w_nat_capped_weight": 213022084811741169742506155,
+                "node_ids": [],
+                "node_weights": [],
+                "block": 66408035,
+                "voter": 16
+            },
+            "uptimevotesignedevent_set": [
+                {
+                    "uptime_vote_hash": "290decd9548b62a8d60345a988386fc84ba6bc95484008f6362f93160ef3e563"
+                }
+            ],
+            "rewardssignedevent_set": [
+                {
+                    "rewards_hash": "412dae6b1ce870ed1c5a43890f44bd10be54fcc852d50fadce810db8b228a493"
+                }
+            ],
+            "identity_address": {
+                "address": "0x8ddd48b520Df91f05C5d8c19b2cEE59ABe65978a",
+                "r": "65978a",
+                "g": "E59ABe",
+                "b": "19b2cE"
+            },
+            "display_name": "EDPFTSO",
+            "logo_url": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0x1C602a30335187A97D8061Ffffd4522796DE82bF.png"
+        },
+        {
+            "id": 68,
+            "normalised_weight": 800,
+            "public_key": {
+                "public_key": null
+            },
+            "signing_policy": {
+                "signing_policy_address": {
+                    "address": "0x3228f985B49EDA79C8dd5E967B63aB562edF7EAA",
+                    "r": "dF7EAA",
+                    "g": "aB562e",
+                    "b": "967B63"
+                }
+            },
+            "voter_registered": {
+                "id": 1280,
+                "emitter_address": "31B9EC65C731c7D973a33Ef3FC83B653f540dC8D",
+                "identity_address": "90C0Edf240397D461eBe7DF9b41EE9b4415F3432",
+                "submit_address": "68A88c2DFD9863E65cBaFDb2dD490d28b8AEd8DF",
+                "submit_signatures_address": "2aCbF71Bcf87862492f710a3eCf0677816f9b4C1",
+                "signing_policy_address": "3228f985B49EDA79C8dd5E967B63aB562edF7EAA",
+                "transaction_hash": "0x7bd7380ff8854a85d4163957703b605a893ac63293091a0f028f70e0aca70198",
+                "reward_epoch_id": 210,
+                "public_key": "0x00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000",
+                "registration_weight": 20913276145216561241,
+                "block": 66408042,
+                "voter": 68
+            },
+            "voter_registration_info": {
+                "id": 1280,
+                "identity_address": "90C0Edf240397D461eBe7DF9b41EE9b4415F3432",
+                "emitter_address": "126FAeEc75601dA3354c0b5Cc0b60C85fCbC3A5e",
+                "delegation_address": "86B8012c254cbe2fe63A5B7f64Cb1a039bAB2047",
+                "transaction_hash": "0x7bd7380ff8854a85d4163957703b605a893ac63293091a0f028f70e0aca70198",
+                "reward_epoch_id": 210,
+                "delegation_fee_bips": 2000,
+                "w_nat_weight": 57618611714450393436306579,
+                "w_nat_capped_weight": 57618611714450393436306579,
+                "node_ids": [],
+                "node_weights": [],
+                "block": 66408042,
+                "voter": 68
+            },
+            "uptimevotesignedevent_set": [
+                {
+                    "uptime_vote_hash": "bc36789e7a1e281436464229828f817d6612f7b477d66591ff96a9e064bcc98a"
+                }
+            ],
+            "rewardssignedevent_set": [],
+            "identity_address": {
+                "address": "0x90C0Edf240397D461eBe7DF9b41EE9b4415F3432",
+                "r": "5F3432",
+                "g": "E9b441",
+                "b": "F9b41E"
+            },
+            "display_name": null,
+            "logo_url": null
+        },
+        {
+            "id": 52,
+            "normalised_weight": 365,
+            "public_key": {
+                "public_key": null
+            },
+            "signing_policy": {
+                "signing_policy_address": {
+                    "address": "0x6b0D2fC3176A4Cf12DfC6D8dbE3B0b10967904Ad",
+                    "r": "7904Ad",
+                    "g": "0b1096",
+                    "b": "8dbE3B"
+                }
+            },
+            "voter_registered": {
+                "id": 1282,
+                "emitter_address": "31B9EC65C731c7D973a33Ef3FC83B653f540dC8D",
+                "identity_address": "928aeB29a4C82c7a1BBfF51d41777fAA4dD78A8E",
+                "submit_address": "AaCFf202CE7e70dA4e0008aE415f46547A612099",
+                "submit_signatures_address": "0ccD9dB584cd23F47E8F1D973834c5B551CeE6a8",
+                "signing_policy_address": "6b0D2fC3176A4Cf12DfC6D8dbE3B0b10967904Ad",
+                "transaction_hash": "0xea04c080030914dd8f044b4763788ebc1ec613bd2e29838f6d0580f4b119fb34",
+                "reward_epoch_id": 210,
+                "public_key": "0x00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000",
+                "registration_weight": 9539291321842910649,
+                "block": 66408053,
+                "voter": 52
+            },
+            "voter_registration_info": {
+                "id": 1282,
+                "identity_address": "928aeB29a4C82c7a1BBfF51d41777fAA4dD78A8E",
+                "emitter_address": "126FAeEc75601dA3354c0b5Cc0b60C85fCbC3A5e",
+                "delegation_address": "0937E91c116767ffD2256ABc15B67561BaD5d1C2",
+                "transaction_hash": "0xea04c080030914dd8f044b4763788ebc1ec613bd2e29838f6d0580f4b119fb34",
+                "reward_epoch_id": 210,
+                "delegation_fee_bips": 2000,
+                "w_nat_weight": 20231204337152253778678812,
+                "w_nat_capped_weight": 20231204337152253778678812,
+                "node_ids": [],
+                "node_weights": [],
+                "block": 66408053,
+                "voter": 52
+            },
+            "uptimevotesignedevent_set": [
+                {
+                    "uptime_vote_hash": "290decd9548b62a8d60345a988386fc84ba6bc95484008f6362f93160ef3e563"
+                }
+            ],
+            "rewardssignedevent_set": [],
+            "identity_address": {
+                "address": "0x928aeB29a4C82c7a1BBfF51d41777fAA4dD78A8E",
+                "r": "D78A8E",
+                "g": "7fAA4d",
+                "b": "1d4177"
+            },
+            "display_name": null,
+            "logo_url": null
+        },
+        {
+            "id": 67,
+            "normalised_weight": 2135,
+            "public_key": {
+                "public_key": "0x19c49dfbdf5df0f7319b22b2eb913f29d15e22f51ced5dbb567bb6a903b81bb808b8b8b1f360d4655f0cb6a9b628c73afc21176b595b7117485d344061034fba"
+            },
+            "signing_policy": {
+                "signing_policy_address": {
+                    "address": "0x519468FD9811661F490cB921B499d2388bc9426b",
+                    "r": "c9426b",
+                    "g": "d2388b",
+                    "b": "21B499"
+                }
+            },
+            "voter_registered": {
+                "id": 1235,
+                "emitter_address": "31B9EC65C731c7D973a33Ef3FC83B653f540dC8D",
+                "identity_address": "98BBe5658da8B31FbD3F07157a2cff4D10c0f22e",
+                "submit_address": "e8a41662716C769b139860A947f3d4eF084084f1",
+                "submit_signatures_address": "074F47E258D65780FAA3d4ee365565F506FC083C",
+                "signing_policy_address": "519468FD9811661F490cB921B499d2388bc9426b",
+                "transaction_hash": "0x10dadd74326a005616131be7d1d532bff767408c10a1f8d0338df34c3a8d40c8",
+                "reward_epoch_id": 210,
+                "public_key": "0x19c49dfbdf5df0f7319b22b2eb913f29d15e22f51ced5dbb567bb6a903b81bb808b8b8b1f360d4655f0cb6a9b628c73afc21176b595b7117485d344061034fba",
+                "registration_weight": 55759442575088809648,
+                "block": 66408032,
+                "voter": 67
+            },
+            "voter_registration_info": {
+                "id": 1235,
+                "identity_address": "98BBe5658da8B31FbD3F07157a2cff4D10c0f22e",
+                "emitter_address": "126FAeEc75601dA3354c0b5Cc0b60C85fCbC3A5e",
+                "delegation_address": "5f3C5991De3F0713715a733eE125785D516cEb16",
+                "transaction_hash": "0x10dadd74326a005616131be7d1d532bff767408c10a1f8d0338df34c3a8d40c8",
+                "reward_epoch_id": 210,
+                "delegation_fee_bips": 2000,
+                "w_nat_weight": 246353406132860082267358531,
+                "w_nat_capped_weight": 213022084811741169742506155,
+                "node_ids": [],
+                "node_weights": [],
+                "block": 66408032,
+                "voter": 67
+            },
+            "uptimevotesignedevent_set": [
+                {
+                    "uptime_vote_hash": "290decd9548b62a8d60345a988386fc84ba6bc95484008f6362f93160ef3e563"
+                }
+            ],
+            "rewardssignedevent_set": [
+                {
+                    "rewards_hash": "412dae6b1ce870ed1c5a43890f44bd10be54fcc852d50fadce810db8b228a493"
+                }
+            ],
+            "identity_address": {
+                "address": "0x98BBe5658da8B31FbD3F07157a2cff4D10c0f22e",
+                "r": "c0f22e",
+                "g": "ff4D10",
+                "b": "157a2c"
+            },
+            "display_name": "FlareFi",
+            "logo_url": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0x5f3C5991De3F0713715a733eE125785D516cEb16.png"
+        },
+        {
+            "id": 23,
+            "normalised_weight": 862,
+            "public_key": {
+                "public_key": "0x16762ec6e45834741bc48854d22fd1fe9e2d4d5fcabbbbbb21f798a0a992c1a226c25d95f1ebd94aa6571a5846f024957b32472a2806e3381b8cf7eaa45b50d0"
+            },
+            "signing_policy": {
+                "signing_policy_address": {
+                    "address": "0x2eEcbb469AF133d136F011ce3F27ecf9524Bb7c3",
+                    "r": "4Bb7c3",
+                    "g": "ecf952",
+                    "b": "ce3F27"
+                }
+            },
+            "voter_registered": {
+                "id": 1255,
+                "emitter_address": "31B9EC65C731c7D973a33Ef3FC83B653f540dC8D",
+                "identity_address": "a0E1FBA30e75e2d0D6C428cFF4B3b6A06233422b",
+                "submit_address": "39A875a881BF934bA1483F2bdAe8C1A19125CBbF",
+                "submit_signatures_address": "4976bed181Eb89DE7E5A12B8b343f787a3f7eA05",
+                "signing_policy_address": "2eEcbb469AF133d136F011ce3F27ecf9524Bb7c3",
+                "transaction_hash": "0x8a094937871e70be844ec5a2745c33fa5936f2b5c074592ed0d711aad3abc40f",
+                "reward_epoch_id": 210,
+                "public_key": "0x00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000",
+                "registration_weight": 22515141371453201052,
+                "block": 66408033,
+                "voter": 23
+            },
+            "voter_registration_info": {
+                "id": 1255,
+                "identity_address": "a0E1FBA30e75e2d0D6C428cFF4B3b6A06233422b",
+                "emitter_address": "126FAeEc75601dA3354c0b5Cc0b60C85fCbC3A5e",
+                "delegation_address": "6Bf25C0256CBE8969424F6994e19Cf5e0A3C23Bb",
+                "transaction_hash": "0x8a094937871e70be844ec5a2745c33fa5936f2b5c074592ed0d711aad3abc40f",
+                "reward_epoch_id": 210,
+                "delegation_fee_bips": 2000,
+                "w_nat_weight": 63576942312731869943544120,
+                "w_nat_capped_weight": 63576942312731869943544120,
+                "node_ids": [],
+                "node_weights": [],
+                "block": 66408033,
+                "voter": 23
+            },
+            "uptimevotesignedevent_set": [
+                {
+                    "uptime_vote_hash": "290decd9548b62a8d60345a988386fc84ba6bc95484008f6362f93160ef3e563"
+                }
+            ],
+            "rewardssignedevent_set": [
+                {
+                    "rewards_hash": "412dae6b1ce870ed1c5a43890f44bd10be54fcc852d50fadce810db8b228a493"
+                }
+            ],
+            "identity_address": {
+                "address": "0xa0E1FBA30e75e2d0D6C428cFF4B3b6A06233422b",
+                "r": "33422b",
+                "g": "b6A062",
+                "b": "cFF4B3"
+            },
+            "display_name": "sToadz FTSO",
+            "logo_url": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0x6Bf25C0256CBE8969424F6994e19Cf5e0A3C23Bb.png"
+        },
+        {
+            "id": 91,
+            "normalised_weight": 362,
+            "public_key": {
+                "public_key": null
+            },
+            "signing_policy": {
+                "signing_policy_address": {
+                    "address": "0x5c223a10f8F8cA398017b709777a46151E8c95F8",
+                    "r": "8c95F8",
+                    "g": "46151E",
+                    "b": "09777a"
+                }
+            },
+            "voter_registered": {
+                "id": 1281,
+                "emitter_address": "31B9EC65C731c7D973a33Ef3FC83B653f540dC8D",
+                "identity_address": "A36Bc4D5e3deDBb03506F54c0F48af223026E919",
+                "submit_address": "C4540705B9fa9b49f81F06ba4e461170C2d3AB6A",
+                "submit_signatures_address": "641fd1e5422d17359d5c223cCE8988d841531446",
+                "signing_policy_address": "5c223a10f8F8cA398017b709777a46151E8c95F8",
+                "transaction_hash": "0xb50da183397d4443cf5a67116cbc762d55d2f235531fb130b719bd11d4b8ccfa",
+                "reward_epoch_id": 210,
+                "public_key": "0x00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000",
+                "registration_weight": 9457414915923223872,
+                "block": 66408043,
+                "voter": 91
+            },
+            "voter_registration_info": {
+                "id": 1281,
+                "identity_address": "A36Bc4D5e3deDBb03506F54c0F48af223026E919",
+                "emitter_address": "126FAeEc75601dA3354c0b5Cc0b60C85fCbC3A5e",
+                "delegation_address": "8BB53ac4239834D518AA26502C318ea093E9763d",
+                "transaction_hash": "0xb50da183397d4443cf5a67116cbc762d55d2f235531fb130b719bd11d4b8ccfa",
+                "reward_epoch_id": 210,
+                "delegation_fee_bips": 2000,
+                "w_nat_weight": 20000005000000660752793631,
+                "w_nat_capped_weight": 20000005000000660752793631,
+                "node_ids": [],
+                "node_weights": [],
+                "block": 66408043,
+                "voter": 91
+            },
+            "uptimevotesignedevent_set": [],
+            "rewardssignedevent_set": [],
+            "identity_address": {
+                "address": "0xA36Bc4D5e3deDBb03506F54c0F48af223026E919",
+                "r": "26E919",
+                "g": "af2230",
+                "b": "4c0F48"
+            },
+            "display_name": null,
+            "logo_url": null
+        },
+        {
+            "id": 27,
+            "normalised_weight": 362,
+            "public_key": {
+                "public_key": "0x29692fcadde7502497d8cb057bdfbe9cf761a79ad4b5f64d228780557bfd3ab122b5a6cff3252cab751a58dfb3fc3347560b59f36b1ec8a0e8b7831c6a7e0a57"
+            },
+            "signing_policy": {
+                "signing_policy_address": {
+                    "address": "0xe5c465582969717375f38202d6f615581DAf2728",
+                    "r": "Af2728",
+                    "g": "15581D",
+                    "b": "02d6f6"
+                }
+            },
+            "voter_registered": {
+                "id": 1240,
+                "emitter_address": "31B9EC65C731c7D973a33Ef3FC83B653f540dC8D",
+                "identity_address": "a6b95941845b229aD7b2cD4c3c6dE3aD9d0865Ff",
+                "submit_address": "1b7202D589B133CB4179b6d034E047Bda2620303",
+                "submit_signatures_address": "4cFfFa315fF2ae0902DEecc58189941A0C29B822",
+                "signing_policy_address": "e5c465582969717375f38202d6f615581DAf2728",
+                "transaction_hash": "0x1bcf65f38063c2e326f2ea14047e7e5691eb6374dfa4ae454324d85d582ea6af",
+                "reward_epoch_id": 210,
+                "public_key": "0x29692fcadde7502497d8cb057bdfbe9cf761a79ad4b5f64d228780557bfd3ab122b5a6cff3252cab751a58dfb3fc3347560b59f36b1ec8a0e8b7831c6a7e0a57",
+                "registration_weight": 9464487031852331557,
+                "block": 66408033,
+                "voter": 27
+            },
+            "voter_registration_info": {
+                "id": 1240,
+                "identity_address": "a6b95941845b229aD7b2cD4c3c6dE3aD9d0865Ff",
+                "emitter_address": "126FAeEc75601dA3354c0b5Cc0b60C85fCbC3A5e",
+                "delegation_address": "664e070592063bFE5072F0aC25C6C11e5ccF9928",
+                "transaction_hash": "0x1bcf65f38063c2e326f2ea14047e7e5691eb6374dfa4ae454324d85d582ea6af",
+                "reward_epoch_id": 210,
+                "delegation_fee_bips": 2000,
+                "w_nat_weight": 20019948298799156391901934,
+                "w_nat_capped_weight": 20019948298799156391901934,
+                "node_ids": [],
+                "node_weights": [],
+                "block": 66408033,
+                "voter": 27
+            },
+            "uptimevotesignedevent_set": [
+                {
+                    "uptime_vote_hash": "290decd9548b62a8d60345a988386fc84ba6bc95484008f6362f93160ef3e563"
+                }
+            ],
+            "rewardssignedevent_set": [
+                {
+                    "rewards_hash": "412dae6b1ce870ed1c5a43890f44bd10be54fcc852d50fadce810db8b228a493"
+                }
+            ],
+            "identity_address": {
+                "address": "0xa6b95941845b229aD7b2cD4c3c6dE3aD9d0865Ff",
+                "r": "0865Ff",
+                "g": "E3aD9d",
+                "b": "4c3c6d"
+            },
+            "display_name": "InGen.FTSO",
+            "logo_url": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0x664e070592063bFE5072F0aC25C6C11e5ccF9928.png"
+        },
+        {
+            "id": 21,
+            "normalised_weight": 1215,
+            "public_key": {
+                "public_key": "0x1245a51163f6d8dbfac2eb1c35379be9ec6ff5d9fbe13046eeb1be0d0c15e48c26e9ba22fe2bfde0f03b1d49d24f47340d6b3abd19457b80321492877e73358e"
+            },
+            "signing_policy": {
+                "signing_policy_address": {
+                    "address": "0x6b526660DCB12b70dD76595A886Fb7430e44c855",
+                    "r": "44c855",
+                    "g": "b7430e",
+                    "b": "5A886F"
+                }
+            },
+            "voter_registered": {
+                "id": 1266,
+                "emitter_address": "31B9EC65C731c7D973a33Ef3FC83B653f540dC8D",
+                "identity_address": "Ab3DAe93cD52f6e2A0809Dc19567C79ac3b1e225",
+                "submit_address": "7573043E973cF04d8b920fB9170471D44a291FE1",
+                "submit_signatures_address": "61A39010fcC0bB7e1B81f880751ab832A797091f",
+                "signing_policy_address": "6b526660DCB12b70dD76595A886Fb7430e44c855",
+                "transaction_hash": "0xbf6588b8ec382e6af2a5ef09569642d4fee35aacb9bae37be2102590a9f500f1",
+                "reward_epoch_id": 210,
+                "public_key": "0x1245a51163f6d8dbfac2eb1c35379be9ec6ff5d9fbe13046eeb1be0d0c15e48c26e9ba22fe2bfde0f03b1d49d24f47340d6b3abd19457b80321492877e73358e",
+                "registration_weight": 31742771353349340096,
+                "block": 66408034,
+                "voter": 21
+            },
+            "voter_registration_info": {
+                "id": 1266,
+                "identity_address": "Ab3DAe93cD52f6e2A0809Dc19567C79ac3b1e225",
+                "emitter_address": "126FAeEc75601dA3354c0b5Cc0b60C85fCbC3A5e",
+                "delegation_address": "2De2C741658f0Ae7b2DdD8EAdD179911564af119",
+                "transaction_hash": "0xbf6588b8ec382e6af2a5ef09569642d4fee35aacb9bae37be2102590a9f500f1",
+                "reward_epoch_id": 210,
+                "delegation_fee_bips": 2000,
+                "w_nat_weight": 100506289720984401441249665,
+                "w_nat_capped_weight": 100506289720984401441249665,
+                "node_ids": [],
+                "node_weights": [],
+                "block": 66408034,
+                "voter": 21
+            },
+            "uptimevotesignedevent_set": [
+                {
+                    "uptime_vote_hash": "290decd9548b62a8d60345a988386fc84ba6bc95484008f6362f93160ef3e563"
+                }
+            ],
+            "rewardssignedevent_set": [
+                {
+                    "rewards_hash": "412dae6b1ce870ed1c5a43890f44bd10be54fcc852d50fadce810db8b228a493"
+                }
+            ],
+            "identity_address": {
+                "address": "0xAb3DAe93cD52f6e2A0809Dc19567C79ac3b1e225",
+                "r": "b1e225",
+                "g": "C79ac3",
+                "b": "c19567"
+            },
+            "display_name": "Aternety",
+            "logo_url": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0x2De2C741658f0Ae7b2DdD8EAdD179911564af119.png"
+        },
+        {
+            "id": 62,
+            "normalised_weight": 478,
+            "public_key": {
+                "public_key": null
+            },
+            "signing_policy": {
+                "signing_policy_address": {
+                    "address": "0xEE02D89FbC7c61B0F6b0CE6bc20aCc3522f66295",
+                    "r": "f66295",
+                    "g": "Cc3522",
+                    "b": "6bc20a"
+                }
+            },
+            "voter_registered": {
+                "id": 1259,
+                "emitter_address": "31B9EC65C731c7D973a33Ef3FC83B653f540dC8D",
+                "identity_address": "aDEDCd23941E479b4736B38e271Eb926596BBe3d",
+                "submit_address": "70E0c2E0831b135a62DEC08A32A4e99f64433541",
+                "submit_signatures_address": "29f140350A8bF591f1a813f389C3ccd7882a4A25",
+                "signing_policy_address": "EE02D89FbC7c61B0F6b0CE6bc20aCc3522f66295",
+                "transaction_hash": "0xa1a3e017e029a3452d5893f1ed532f40a289aab1a919404321df4a2ec58e9f3e",
+                "reward_epoch_id": 210,
+                "public_key": "0x00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000",
+                "registration_weight": 12486733760517608280,
+                "block": 66408033,
+                "voter": 62
+            },
+            "voter_registration_info": {
+                "id": 1259,
+                "identity_address": "aDEDCd23941E479b4736B38e271Eb926596BBe3d",
+                "emitter_address": "126FAeEc75601dA3354c0b5Cc0b60C85fCbC3A5e",
+                "delegation_address": "92D6c2E99d5959F2e9c0a7aba5149D8A5ef22f23",
+                "transaction_hash": "0xa1a3e017e029a3452d5893f1ed532f40a289aab1a919404321df4a2ec58e9f3e",
+                "reward_epoch_id": 210,
+                "delegation_fee_bips": 2000,
+                "w_nat_weight": 28968889195790615420602404,
+                "w_nat_capped_weight": 28968889195790615420602404,
+                "node_ids": [],
+                "node_weights": [],
+                "block": 66408033,
+                "voter": 62
+            },
+            "uptimevotesignedevent_set": [],
+            "rewardssignedevent_set": [],
+            "identity_address": {
+                "address": "0xaDEDCd23941E479b4736B38e271Eb926596BBe3d",
+                "r": "6BBe3d",
+                "g": "b92659",
+                "b": "8e271E"
+            },
+            "display_name": "Oracle Daemon",
+            "logo_url": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0x92D6c2E99d5959F2e9c0a7aba5149D8A5ef22f23.png"
+        },
+        {
+            "id": 74,
+            "normalised_weight": 1711,
+            "public_key": {
+                "public_key": null
+            },
+            "signing_policy": {
+                "signing_policy_address": {
+                    "address": "0x493E5d0833646f99e4b414E9de5a10d8cb9B5C5a",
+                    "r": "9B5C5a",
+                    "g": "10d8cb",
+                    "b": "E9de5a"
+                }
+            },
+            "voter_registered": {
+                "id": 1248,
+                "emitter_address": "31B9EC65C731c7D973a33Ef3FC83B653f540dC8D",
+                "identity_address": "B3C9AA09F22A06122d3608Ef075f14E001561470",
+                "submit_address": "38F01976677021A2599C1D155206037eCB28c1E5",
+                "submit_signatures_address": "49e99EAB73F135B384ddDD3CCDb9Cd1cf0E1736d",
+                "signing_policy_address": "493E5d0833646f99e4b414E9de5a10d8cb9B5C5a",
+                "transaction_hash": "0x146b804628b92126b6c1ac9989438d44cdf896bf8eb1f643dd03f830834fa020",
+                "reward_epoch_id": 210,
+                "public_key": "0x00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000",
+                "registration_weight": 44686159586549594325,
+                "block": 66408033,
+                "voter": 74
+            },
+            "voter_registration_info": {
+                "id": 1248,
+                "identity_address": "B3C9AA09F22A06122d3608Ef075f14E001561470",
+                "emitter_address": "126FAeEc75601dA3354c0b5Cc0b60C85fCbC3A5e",
+                "delegation_address": "499017ADB21D6f70480E4E6224cf4144071C1461",
+                "transaction_hash": "0x146b804628b92126b6c1ac9989438d44cdf896bf8eb1f643dd03f830834fa020",
+                "reward_epoch_id": 210,
+                "delegation_fee_bips": 2000,
+                "w_nat_weight": 158573548241644493615136203,
+                "w_nat_capped_weight": 158573548241644493615136203,
+                "node_ids": [],
+                "node_weights": [],
+                "block": 66408033,
+                "voter": 74
+            },
+            "uptimevotesignedevent_set": [
+                {
+                    "uptime_vote_hash": "290decd9548b62a8d60345a988386fc84ba6bc95484008f6362f93160ef3e563"
+                }
+            ],
+            "rewardssignedevent_set": [
+                {
+                    "rewards_hash": "412dae6b1ce870ed1c5a43890f44bd10be54fcc852d50fadce810db8b228a493"
+                }
+            ],
+            "identity_address": {
+                "address": "0xB3C9AA09F22A06122d3608Ef075f14E001561470",
+                "r": "561470",
+                "g": "14E001",
+                "b": "Ef075f"
+            },
+            "display_name": "FTSO AU",
+            "logo_url": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0x499017ADB21D6f70480E4E6224cf4144071C1461.png"
+        },
+        {
+            "id": 14,
+            "normalised_weight": 2135,
+            "public_key": {
+                "public_key": "0x0f53a52074b0b790186e8ecef811d2cd5587930fba2889e58364e6eb3daa6a561af7e68a852452b4585344a4567066b4f7a37ab03a3e3f119d4ce88b9c8a505e"
+            },
+            "signing_policy": {
+                "signing_policy_address": {
+                    "address": "0x285eE7a4ec946Ad5f6eDaE1611dBC4Bc0510C783",
+                    "r": "10C783",
+                    "g": "C4Bc05",
+                    "b": "1611dB"
+                }
+            },
+            "voter_registered": {
+                "id": 1230,
+                "emitter_address": "31B9EC65C731c7D973a33Ef3FC83B653f540dC8D",
+                "identity_address": "B4466BE43F01e8A615490098AAF18a1dc5c56568",
+                "submit_address": "e191a91F55bd34192FbF8c573D6880df7E0Ea19a",
+                "submit_signatures_address": "5Ebc2D21E383f5649ED3a0a8a44fCB98A3D91912",
+                "signing_policy_address": "285eE7a4ec946Ad5f6eDaE1611dBC4Bc0510C783",
+                "transaction_hash": "0xe23e9beae6acfada381ed947c5fc3a619fa1c6ae71e0d1ee208b0be574e732a8",
+                "reward_epoch_id": 210,
+                "public_key": "0x0f53a52074b0b790186e8ecef811d2cd5587930fba2889e58364e6eb3daa6a561af7e68a852452b4585344a4567066b4f7a37ab03a3e3f119d4ce88b9c8a505e",
+                "registration_weight": 55759442575088809648,
+                "block": 66408032,
+                "voter": 14
+            },
+            "voter_registration_info": {
+                "id": 1230,
+                "identity_address": "B4466BE43F01e8A615490098AAF18a1dc5c56568",
+                "emitter_address": "126FAeEc75601dA3354c0b5Cc0b60C85fCbC3A5e",
+                "delegation_address": "BF61Db1CDb43d196309824473fA82E5B17581159",
+                "transaction_hash": "0xe23e9beae6acfada381ed947c5fc3a619fa1c6ae71e0d1ee208b0be574e732a8",
+                "reward_epoch_id": 210,
+                "delegation_fee_bips": 2000,
+                "w_nat_weight": 231316065831198121453350910,
+                "w_nat_capped_weight": 213022084811741169742506155,
+                "node_ids": [],
+                "node_weights": [],
+                "block": 66408032,
+                "voter": 14
+            },
+            "uptimevotesignedevent_set": [],
+            "rewardssignedevent_set": [
+                {
+                    "rewards_hash": "412dae6b1ce870ed1c5a43890f44bd10be54fcc852d50fadce810db8b228a493"
+                }
+            ],
+            "identity_address": {
+                "address": "0xB4466BE43F01e8A615490098AAF18a1dc5c56568",
+                "r": "c56568",
+                "g": "8a1dc5",
+                "b": "98AAF1"
+            },
+            "display_name": "AlphaOracle",
+            "logo_url": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0xBF61Db1CDb43d196309824473fA82E5B17581159.png"
+        },
+        {
+            "id": 61,
+            "normalised_weight": 1,
+            "public_key": {
+                "public_key": null
+            },
+            "signing_policy": {
+                "signing_policy_address": {
+                    "address": "0xA5508a7F423082B16A281c7e6109B2AF5251438D",
+                    "r": "51438D",
+                    "g": "B2AF52",
+                    "b": "7e6109"
+                }
+            },
+            "voter_registered": {
+                "id": 1236,
+                "emitter_address": "31B9EC65C731c7D973a33Ef3FC83B653f540dC8D",
+                "identity_address": "b6b43bE1178c356F9C2B8A8030451559fCC7AE8a",
+                "submit_address": "e6a702b38A3C39d16E1eAa6da0780F529e93727e",
+                "submit_signatures_address": "217F2B6c5835B142aCf748D9f21e00E376C3Fa2C",
+                "signing_policy_address": "A5508a7F423082B16A281c7e6109B2AF5251438D",
+                "transaction_hash": "0x7f3b6b928b8a88a2bef7110c26e62374bdeea8d41889e8627882e8147b2e13e4",
+                "reward_epoch_id": 210,
+                "public_key": "0x00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000",
+                "registration_weight": 39615986369546296,
+                "block": 66408032,
+                "voter": 61
+            },
+            "voter_registration_info": {
+                "id": 1236,
+                "identity_address": "b6b43bE1178c356F9C2B8A8030451559fCC7AE8a",
+                "emitter_address": "126FAeEc75601dA3354c0b5Cc0b60C85fCbC3A5e",
+                "delegation_address": "82f954918b9FB81E59b83606e82B2fC0d5BDC1aC",
+                "transaction_hash": "0x7f3b6b928b8a88a2bef7110c26e62374bdeea8d41889e8627882e8147b2e13e4",
+                "reward_epoch_id": 210,
+                "delegation_fee_bips": 2000,
+                "w_nat_weight": 13505000000000000000000,
+                "w_nat_capped_weight": 13505000000000000000000,
+                "node_ids": [],
+                "node_weights": [],
+                "block": 66408032,
+                "voter": 61
+            },
+            "uptimevotesignedevent_set": [],
+            "rewardssignedevent_set": [],
+            "identity_address": {
+                "address": "0xb6b43bE1178c356F9C2B8A8030451559fCC7AE8a",
+                "r": "C7AE8a",
+                "g": "1559fC",
+                "b": "803045"
+            },
+            "display_name": null,
+            "logo_url": null
+        },
+        {
+            "id": 35,
+            "normalised_weight": 701,
+            "public_key": {
+                "public_key": "0x22206bab9c235f82ad230aa2a69cb3aac02507fe40e8c8451f918dd8175f6ba12f0a19f8fc166486c0edda4ba51ac9ad8f31917a2522a2c4737ca3edaa743995"
+            },
+            "signing_policy": {
+                "signing_policy_address": {
+                    "address": "0x8481da9fB718E36121D67BE580531faC1ef1349F",
+                    "r": "f1349F",
+                    "g": "1faC1e",
+                    "b": "E58053"
+                }
+            },
+            "voter_registered": {
+                "id": 1239,
+                "emitter_address": "31B9EC65C731c7D973a33Ef3FC83B653f540dC8D",
+                "identity_address": "bB99dda7b6dcE88908dCD684ab7bf1a90f084401",
+                "submit_address": "41C2c30B9bD902Ce3710903f27f5024da49C509E",
+                "submit_signatures_address": "9bE9e883FDaa4cF0353bD5677e2D27973e9cEe82",
+                "signing_policy_address": "8481da9fB718E36121D67BE580531faC1ef1349F",
+                "transaction_hash": "0x6b515b69cb5e076e08e7eec281ef6322a99f9dbed0835cd7c4791c502cd12f2c",
+                "reward_epoch_id": 210,
+                "public_key": "0x22206bab9c235f82ad230aa2a69cb3aac02507fe40e8c8451f918dd8175f6ba12f0a19f8fc166486c0edda4ba51ac9ad8f31917a2522a2c4737ca3edaa743995",
+                "registration_weight": 18311219048320981412,
+                "block": 66408033,
+                "voter": 35
+            },
+            "voter_registration_info": {
+                "id": 1239,
+                "identity_address": "bB99dda7b6dcE88908dCD684ab7bf1a90f084401",
+                "emitter_address": "126FAeEc75601dA3354c0b5Cc0b60C85fCbC3A5e",
+                "delegation_address": "010a16c53F33E4d93892f00897965578b55a8CFC",
+                "transaction_hash": "0x6b515b69cb5e076e08e7eec281ef6322a99f9dbed0835cd7c4791c502cd12f2c",
+                "reward_epoch_id": 210,
+                "delegation_fee_bips": 2000,
+                "w_nat_weight": 48263978582843298146523167,
+                "w_nat_capped_weight": 48263978582843298146523167,
+                "node_ids": [],
+                "node_weights": [],
+                "block": 66408033,
+                "voter": 35
+            },
+            "uptimevotesignedevent_set": [],
+            "rewardssignedevent_set": [
+                {
+                    "rewards_hash": "412dae6b1ce870ed1c5a43890f44bd10be54fcc852d50fadce810db8b228a493"
+                }
+            ],
+            "identity_address": {
+                "address": "0xbB99dda7b6dcE88908dCD684ab7bf1a90f084401",
+                "r": "084401",
+                "g": "f1a90f",
+                "b": "84ab7b"
+            },
+            "display_name": "FTSO EU",
+            "logo_url": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0x010a16c53F33E4d93892f00897965578b55a8CFC.png"
+        },
+        {
+            "id": 29,
+            "normalised_weight": 2135,
+            "public_key": {
+                "public_key": "0x07704246b5cde7de97bb90e401bd673d1b873b06c1bcd123ec76ac549c7d97970a868035a203f9e1097ac3ba2f8be9ad4655a3eb4deee864c8f15ae1d1120ecb"
+            },
+            "signing_policy": {
+                "signing_policy_address": {
+                    "address": "0x86339BBF3e57c6026ce678617DEc27f2cc5dBD62",
+                    "r": "5dBD62",
+                    "g": "27f2cc",
+                    "b": "617DEc"
+                }
+            },
+            "voter_registered": {
+                "id": 1250,
+                "emitter_address": "31B9EC65C731c7D973a33Ef3FC83B653f540dC8D",
+                "identity_address": "Be311F1640b700F76D17C009a505487C23b0312c",
+                "submit_address": "7Ce5F38bA4b9A11A462C0235159052CF5d026972",
+                "submit_signatures_address": "D224aB1433acb76a26c669B451589707b88A39b7",
+                "signing_policy_address": "86339BBF3e57c6026ce678617DEc27f2cc5dBD62",
+                "transaction_hash": "0x818ddb469f99d707b4480e0bd82c92081542572b11af42930b48455b10da307f",
+                "reward_epoch_id": 210,
+                "public_key": "0x07704246b5cde7de97bb90e401bd673d1b873b06c1bcd123ec76ac549c7d97970a868035a203f9e1097ac3ba2f8be9ad4655a3eb4deee864c8f15ae1d1120ecb",
+                "registration_weight": 55759442575088809648,
+                "block": 66408033,
+                "voter": 29
+            },
+            "voter_registration_info": {
+                "id": 1250,
+                "identity_address": "Be311F1640b700F76D17C009a505487C23b0312c",
+                "emitter_address": "126FAeEc75601dA3354c0b5Cc0b60C85fCbC3A5e",
+                "delegation_address": "6d323e71E141cE2d7b752313C8A654a9C9d1b377",
+                "transaction_hash": "0x818ddb469f99d707b4480e0bd82c92081542572b11af42930b48455b10da307f",
+                "reward_epoch_id": 210,
+                "delegation_fee_bips": 2000,
+                "w_nat_weight": 227055177593752937010372003,
+                "w_nat_capped_weight": 213022084811741169742506155,
+                "node_ids": [],
+                "node_weights": [],
+                "block": 66408033,
+                "voter": 29
+            },
+            "uptimevotesignedevent_set": [],
+            "rewardssignedevent_set": [],
+            "identity_address": {
+                "address": "0xBe311F1640b700F76D17C009a505487C23b0312c",
+                "r": "b0312c",
+                "g": "487C23",
+                "b": "09a505"
+            },
+            "display_name": "Aureus Ox",
+            "logo_url": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0x6d323e71E141cE2d7b752313C8A654a9C9d1b377.png"
+        },
+        {
+            "id": 45,
+            "normalised_weight": 1085,
+            "public_key": {
+                "public_key": "0x0e7a4499d35d90c55a060f7e6b9e5a0c9d04e5154b7fa049e75ded80cc15b58305e5acbbb75a703cd424266f6ff2ac9bbc39a1ee881fdd1e3ec91869f8f9bf89"
+            },
+            "signing_policy": {
+                "signing_policy_address": {
+                    "address": "0xB25f584a52cC31541F6d783aBe700C078F618BB4",
+                    "r": "618BB4",
+                    "g": "0C078F",
+                    "b": "3aBe70"
+                }
+            },
+            "voter_registered": {
+                "id": 1283,
+                "emitter_address": "31B9EC65C731c7D973a33Ef3FC83B653f540dC8D",
+                "identity_address": "C1d269E9D2A39c6A285EaAF53Eb9fe9b7245C87E",
+                "submit_address": "Eb431ACA7D7B626c8635dE8842a8ca4A25c53aB1",
+                "submit_signatures_address": "Df4a3adB26D23CF51380B31d5ffc3c94D06697b7",
+                "signing_policy_address": "B25f584a52cC31541F6d783aBe700C078F618BB4",
+                "transaction_hash": "0x697c207ad576b52fa714ce1469f26a603db2d8c3ce4a62e5eeb8035fc9bc7698",
+                "reward_epoch_id": 210,
+                "public_key": "0x0e7a4499d35d90c55a060f7e6b9e5a0c9d04e5154b7fa049e75ded80cc15b58305e5acbbb75a703cd424266f6ff2ac9bbc39a1ee881fdd1e3ec91869f8f9bf89",
+                "registration_weight": 28355410119857789037,
+                "block": 66408141,
+                "voter": 45
+            },
+            "voter_registration_info": {
+                "id": 1283,
+                "identity_address": "C1d269E9D2A39c6A285EaAF53Eb9fe9b7245C87E",
+                "emitter_address": "126FAeEc75601dA3354c0b5Cc0b60C85fCbC3A5e",
+                "delegation_address": "58Cd43E9FcdBd4D0F507aB4f6029dB8032746da8",
+                "transaction_hash": "0x697c207ad576b52fa714ce1469f26a603db2d8c3ce4a62e5eeb8035fc9bc7698",
+                "reward_epoch_id": 210,
+                "delegation_fee_bips": 2000,
+                "w_nat_weight": 86466507298266490658536185,
+                "w_nat_capped_weight": 86466507298266490658536185,
+                "node_ids": [],
+                "node_weights": [],
+                "block": 66408141,
+                "voter": 45
+            },
+            "uptimevotesignedevent_set": [],
+            "rewardssignedevent_set": [],
+            "identity_address": {
+                "address": "0xC1d269E9D2A39c6A285EaAF53Eb9fe9b7245C87E",
+                "r": "45C87E",
+                "g": "fe9b72",
+                "b": "F53Eb9"
+            },
+            "display_name": "Envision",
+            "logo_url": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0x58Cd43E9FcdBd4D0F507aB4f6029dB8032746da8.png"
+        },
+        {
+            "id": 10,
+            "normalised_weight": 460,
+            "public_key": {
+                "public_key": null
+            },
+            "signing_policy": {
+                "signing_policy_address": {
+                    "address": "0x15687FCFcd693ff9f357C0b535a49072653e5d00",
+                    "r": "3e5d00",
+                    "g": "907265",
+                    "b": "b535a4"
+                }
+            },
+            "voter_registered": {
+                "id": 1276,
+                "emitter_address": "31B9EC65C731c7D973a33Ef3FC83B653f540dC8D",
+                "identity_address": "C2AE38bd4804f74Bba2828CdFC1fFa4be4D71304",
+                "submit_address": "cC5ea80eE5aE7FEBe57913D330b41E16e7DAf13E",
+                "submit_signatures_address": "3229f42a987b3900e99A40a71f88798C78701E0d",
+                "signing_policy_address": "15687FCFcd693ff9f357C0b535a49072653e5d00",
+                "transaction_hash": "0x359c9fab1374d0d1b3f004530da1b5bc4266e0a5d60f255cbc030d43449b9534",
+                "reward_epoch_id": 210,
+                "public_key": "0x00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000",
+                "registration_weight": 12017976776995594704,
+                "block": 66408036,
+                "voter": 10
+            },
+            "voter_registration_info": {
+                "id": 1276,
+                "identity_address": "C2AE38bd4804f74Bba2828CdFC1fFa4be4D71304",
+                "emitter_address": "126FAeEc75601dA3354c0b5Cc0b60C85fCbC3A5e",
+                "delegation_address": "7394923453FC2F606cfb4D0ea1A5438BB8260D08",
+                "transaction_hash": "0x359c9fab1374d0d1b3f004530da1b5bc4266e0a5d60f255cbc030d43449b9534",
+                "reward_epoch_id": 210,
+                "delegation_fee_bips": 2000,
+                "w_nat_weight": 27528034566798993001327376,
+                "w_nat_capped_weight": 27528034566798993001327376,
+                "node_ids": [],
+                "node_weights": [],
+                "block": 66408036,
+                "voter": 10
+            },
+            "uptimevotesignedevent_set": [
+                {
+                    "uptime_vote_hash": "bc36789e7a1e281436464229828f817d6612f7b477d66591ff96a9e064bcc98a"
+                }
+            ],
+            "rewardssignedevent_set": [
+                {
+                    "rewards_hash": "412dae6b1ce870ed1c5a43890f44bd10be54fcc852d50fadce810db8b228a493"
+                }
+            ],
+            "identity_address": {
+                "address": "0xC2AE38bd4804f74Bba2828CdFC1fFa4be4D71304",
+                "r": "D71304",
+                "g": "Fa4be4",
+                "b": "CdFC1f"
+            },
+            "display_name": "Sun-Dara",
+            "logo_url": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0x7394923453FC2F606cfb4D0ea1A5438BB8260D08.png"
+        },
+        {
+            "id": 4,
+            "normalised_weight": 416,
+            "public_key": {
+                "public_key": "0x1dfb1e7daaeb023e7c9809a65de2b13df63859eb182b75aa8f3cc080ba35a7a51fb8dc0e03fc55f326faa81b7ec0ec0dbd4695e071af15acabc5793a352affae"
+            },
+            "signing_policy": {
+                "signing_policy_address": {
+                    "address": "0x558298090E6e5D439e792c9D1A3CdE189A14037c",
+                    "r": "14037c",
+                    "g": "dE189A",
+                    "b": "9D1A3C"
+                }
+            },
+            "voter_registered": {
+                "id": 1249,
+                "emitter_address": "31B9EC65C731c7D973a33Ef3FC83B653f540dC8D",
+                "identity_address": "C5261026e08Ec6dc23162ef7Eb1248548715be76",
+                "submit_address": "3eb6A7eC0453b176A46a81aE49255E913b7e4749",
+                "submit_signatures_address": "FA0bC9EE91340b02D0d0a608B3CFF23c38eda75B",
+                "signing_policy_address": "558298090E6e5D439e792c9D1A3CdE189A14037c",
+                "transaction_hash": "0x244d03a2cedf769a7675c3f547017da42ef94f1729f714c7d4580778bda2dbf2",
+                "reward_epoch_id": 210,
+                "public_key": "0x1dfb1e7daaeb023e7c9809a65de2b13df63859eb182b75aa8f3cc080ba35a7a51fb8dc0e03fc55f326faa81b7ec0ec0dbd4695e071af15acabc5793a352affae",
+                "registration_weight": 10884755555306473680,
+                "block": 66408033,
+                "voter": 4
+            },
+            "voter_registration_info": {
+                "id": 1249,
+                "identity_address": "C5261026e08Ec6dc23162ef7Eb1248548715be76",
+                "emitter_address": "126FAeEc75601dA3354c0b5Cc0b60C85fCbC3A5e",
+                "delegation_address": "9565d813a3a0CEa62B3bDB9A4e236dCb5910c4f0",
+                "transaction_hash": "0x244d03a2cedf769a7675c3f547017da42ef94f1729f714c7d4580778bda2dbf2",
+                "reward_epoch_id": 210,
+                "delegation_fee_bips": 2000,
+                "w_nat_weight": 24122646162277631304647418,
+                "w_nat_capped_weight": 24122646162277631304647418,
+                "node_ids": [],
+                "node_weights": [],
+                "block": 66408033,
+                "voter": 4
+            },
+            "uptimevotesignedevent_set": [],
+            "rewardssignedevent_set": [],
+            "identity_address": {
+                "address": "0xC5261026e08Ec6dc23162ef7Eb1248548715be76",
+                "r": "15be76",
+                "g": "485487",
+                "b": "f7Eb12"
+            },
+            "display_name": "AFOracle",
+            "logo_url": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0x9565d813a3a0CEa62B3bDB9A4e236dCb5910c4f0.png"
+        },
+        {
+            "id": 33,
+            "normalised_weight": 492,
+            "public_key": {
+                "public_key": "0x1523095ad29a42a9f93784ed105cb0dd99af0de1da43567fb21644958ebf76e01e1e50a09eaff7352b6068149f1d314d1114664eb19ddd0c8fff82df50941ac2"
+            },
+            "signing_policy": {
+                "signing_policy_address": {
+                    "address": "0xfB7B095ED8ab9082aE44C511a597c5c7dA4216CA",
+                    "r": "4216CA",
+                    "g": "c5c7dA",
+                    "b": "11a597"
+                }
+            },
+            "voter_registered": {
+                "id": 1226,
+                "emitter_address": "31B9EC65C731c7D973a33Ef3FC83B653f540dC8D",
+                "identity_address": "C5d2411d9ff188ebeD494d93efB52e87Bb14b75d",
+                "submit_address": "9431cf3c0D0E0e547984f446322BC9086e198A8e",
+                "submit_signatures_address": "Ab77981E9841E1BA46be2f752360C981e887907b",
+                "signing_policy_address": "fB7B095ED8ab9082aE44C511a597c5c7dA4216CA",
+                "transaction_hash": "0xe7d4d9d4707be38d629e77f4395163e80226f46384ef38051a4bb534cbc4c636",
+                "reward_epoch_id": 210,
+                "public_key": "0x1523095ad29a42a9f93784ed105cb0dd99af0de1da43567fb21644958ebf76e01e1e50a09eaff7352b6068149f1d314d1114664eb19ddd0c8fff82df50941ac2",
+                "registration_weight": 12850912012226352655,
+                "block": 66408032,
+                "voter": 33
+            },
+            "voter_registration_info": {
+                "id": 1226,
+                "identity_address": "C5d2411d9ff188ebeD494d93efB52e87Bb14b75d",
+                "emitter_address": "126FAeEc75601dA3354c0b5Cc0b60C85fCbC3A5e",
+                "delegation_address": "4F7f5F8eF4a3CC11f94e875393Ee909Eb5f824ea",
+                "transaction_hash": "0xe7d4d9d4707be38d629e77f4395163e80226f46384ef38051a4bb534cbc4c636",
+                "reward_epoch_id": 210,
+                "delegation_fee_bips": 2000,
+                "w_nat_weight": 30100851710521670833824753,
+                "w_nat_capped_weight": 30100851710521670833824753,
+                "node_ids": [],
+                "node_weights": [],
+                "block": 66408032,
+                "voter": 33
+            },
+            "uptimevotesignedevent_set": [],
+            "rewardssignedevent_set": [
+                {
+                    "rewards_hash": "412dae6b1ce870ed1c5a43890f44bd10be54fcc852d50fadce810db8b228a493"
+                }
+            ],
+            "identity_address": {
+                "address": "0xC5d2411d9ff188ebeD494d93efB52e87Bb14b75d",
+                "r": "14b75d",
+                "g": "2e87Bb",
+                "b": "93efB5"
+            },
+            "display_name": "FlareFTSO",
+            "logo_url": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0x4F7f5F8eF4a3CC11f94e875393Ee909Eb5f824ea.png"
+        },
+        {
+            "id": 1,
+            "normalised_weight": 1,
+            "public_key": {
+                "public_key": "0x114cd1e03262b78dad4d83232ad5fa5ede7317ed6a32b3fb31bf940aff0f139927e29910bffb365ad76d9e581d55021251b8cacd4953071af14c8f09de3e46fc"
+            },
+            "signing_policy": {
+                "signing_policy_address": {
+                    "address": "0xc54543235C0FaE5A724338293d3CB4E82428683c",
+                    "r": "28683c",
+                    "g": "B4E824",
+                    "b": "293d3C"
+                }
+            },
+            "voter_registered": {
+                "id": 1272,
+                "emitter_address": "31B9EC65C731c7D973a33Ef3FC83B653f540dC8D",
+                "identity_address": "ce1008d12BB6E5aA47905D1f3bd97042217fFeab",
+                "submit_address": "6925860da98B82cF5030D27c008cA8964a99Da32",
+                "submit_signatures_address": "F483a2894922426b22d525a26F5b7C6d2375A0f6",
+                "signing_policy_address": "c54543235C0FaE5A724338293d3CB4E82428683c",
+                "transaction_hash": "0x0f4fc1fab64982ad16549aeafbcd64f3ed56a7934ae939e11137bf8066498e92",
+                "reward_epoch_id": 210,
+                "public_key": "0x114cd1e03262b78dad4d83232ad5fa5ede7317ed6a32b3fb31bf940aff0f139927e29910bffb365ad76d9e581d55021251b8cacd4953071af14c8f09de3e46fc",
+                "registration_weight": 26762107606524628,
+                "block": 66408035,
+                "voter": 1
+            },
+            "voter_registration_info": {
+                "id": 1272,
+                "identity_address": "ce1008d12BB6E5aA47905D1f3bd97042217fFeab",
+                "emitter_address": "126FAeEc75601dA3354c0b5Cc0b60C85fCbC3A5e",
+                "delegation_address": "1B2A733641745Ea090De7d0B1C7921d8d124cf8E",
+                "transaction_hash": "0x0f4fc1fab64982ad16549aeafbcd64f3ed56a7934ae939e11137bf8066498e92",
+                "reward_epoch_id": 210,
+                "delegation_fee_bips": 2000,
+                "w_nat_weight": 8005000000000000000000,
+                "w_nat_capped_weight": 8005000000000000000000,
+                "node_ids": [],
+                "node_weights": [],
+                "block": 66408035,
+                "voter": 1
+            },
+            "uptimevotesignedevent_set": [
+                {
+                    "uptime_vote_hash": "290decd9548b62a8d60345a988386fc84ba6bc95484008f6362f93160ef3e563"
+                }
+            ],
+            "rewardssignedevent_set": [
+                {
+                    "rewards_hash": "412dae6b1ce870ed1c5a43890f44bd10be54fcc852d50fadce810db8b228a493"
+                }
+            ],
+            "identity_address": {
+                "address": "0xce1008d12BB6E5aA47905D1f3bd97042217fFeab",
+                "r": "7fFeab",
+                "g": "704221",
+                "b": "1f3bd9"
+            },
+            "display_name": "Flare Network Test 2",
+            "logo_url": ""
+        },
+        {
+            "id": 49,
+            "normalised_weight": 362,
+            "public_key": {
+                "public_key": "0x0c2b2ad5a8d01ce43c9a0b402cbb5c912aae6814080d133743be60f548bbd2170a0ea359df423f0243033fedd4586e5863c0238a325ab45823f941464ba1d93b"
+            },
+            "signing_policy": {
+                "signing_policy_address": {
+                    "address": "0xfB021c01f924C416D1FEd247161963EfC2Ae7604",
+                    "r": "Ae7604",
+                    "g": "63EfC2",
+                    "b": "471619"
+                }
+            },
+            "voter_registered": {
+                "id": 1258,
+                "emitter_address": "31B9EC65C731c7D973a33Ef3FC83B653f540dC8D",
+                "identity_address": "cf3A3e5797A960C67e0E4B23D4594246ffB9d935",
+                "submit_address": "a8BBBA017b2ce496bBED4CFC0FB5D1aFd4F23772",
+                "submit_signatures_address": "f417294C5a65535d4a33259c73eeA39373977C65",
+                "signing_policy_address": "fB021c01f924C416D1FEd247161963EfC2Ae7604",
+                "transaction_hash": "0xbac15c039b2257d9906b01ceacd3610aa51ab1af72bc622e98db81eebc90ff07",
+                "reward_epoch_id": 210,
+                "public_key": "0x0c2b2ad5a8d01ce43c9a0b402cbb5c912aae6814080d133743be60f548bbd2170a0ea359df423f0243033fedd4586e5863c0238a325ab45823f941464ba1d93b",
+                "registration_weight": 9467695344400176200,
+                "block": 66408033,
+                "voter": 49
+            },
+            "voter_registration_info": {
+                "id": 1258,
+                "identity_address": "cf3A3e5797A960C67e0E4B23D4594246ffB9d935",
+                "emitter_address": "126FAeEc75601dA3354c0b5Cc0b60C85fCbC3A5e",
+                "delegation_address": "aF31CA175bbE0C6dD667c8403B65a33b28238afa",
+                "transaction_hash": "0xbac15c039b2257d9906b01ceacd3610aa51ab1af72bc622e98db81eebc90ff07",
+                "reward_epoch_id": 210,
+                "delegation_fee_bips": 2000,
+                "w_nat_weight": 20028997167668107355213616,
+                "w_nat_capped_weight": 20028997167668107355213616,
+                "node_ids": [],
+                "node_weights": [],
+                "block": 66408033,
+                "voter": 49
+            },
+            "uptimevotesignedevent_set": [
+                {
+                    "uptime_vote_hash": "290decd9548b62a8d60345a988386fc84ba6bc95484008f6362f93160ef3e563"
+                }
+            ],
+            "rewardssignedevent_set": [
+                {
+                    "rewards_hash": "412dae6b1ce870ed1c5a43890f44bd10be54fcc852d50fadce810db8b228a493"
+                }
+            ],
+            "identity_address": {
+                "address": "0xcf3A3e5797A960C67e0E4B23D4594246ffB9d935",
+                "r": "B9d935",
+                "g": "4246ff",
+                "b": "23D459"
+            },
+            "display_name": "African Proofs",
+            "logo_url": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0xaF31CA175bbE0C6dD667c8403B65a33b28238afa.png"
+        },
+        {
+            "id": 64,
+            "normalised_weight": 364,
+            "public_key": {
+                "public_key": "0x083a999cd108a0c9c4255c625d47ce58633f4a9251f07206551fddebb7e12481182ce213f779264a780779b21202db357e938703dc0a02cb0f50fa9d238227a8"
+            },
+            "signing_policy": {
+                "signing_policy_address": {
+                    "address": "0x53722AbC03b122d570adf3F256BcB75640c2968a",
+                    "r": "c2968a",
+                    "g": "B75640",
+                    "b": "F256Bc"
+                }
+            },
+            "voter_registered": {
+                "id": 1232,
+                "emitter_address": "31B9EC65C731c7D973a33Ef3FC83B653f540dC8D",
+                "identity_address": "D03a130079430a5d8fd1caEA3535a80dDc6bFc0D",
+                "submit_address": "85D134f68c3c564bb935479490E5C8Df5F4F1124",
+                "submit_signatures_address": "736188C74a6FDaE726d319c41BAE03E2776481e7",
+                "signing_policy_address": "53722AbC03b122d570adf3F256BcB75640c2968a",
+                "transaction_hash": "0xd4460bfb4bcf231d8285c2beef2da862bc8089ec9062ab644e246eafc4d2b788",
+                "reward_epoch_id": 210,
+                "public_key": "0x083a999cd108a0c9c4255c625d47ce58633f4a9251f07206551fddebb7e12481182ce213f779264a780779b21202db357e938703dc0a02cb0f50fa9d238227a8",
+                "registration_weight": 9511816098406268151,
+                "block": 66408032,
+                "voter": 64
+            },
+            "voter_registration_info": {
+                "id": 1232,
+                "identity_address": "D03a130079430a5d8fd1caEA3535a80dDc6bFc0D",
+                "emitter_address": "126FAeEc75601dA3354c0b5Cc0b60C85fCbC3A5e",
+                "delegation_address": "b6deD9D9CA19af10C67f9A8be8ca75e38E166faA",
+                "transaction_hash": "0xd4460bfb4bcf231d8285c2beef2da862bc8089ec9062ab644e246eafc4d2b788",
+                "reward_epoch_id": 210,
+                "delegation_fee_bips": 2000,
+                "w_nat_weight": 20153545998961101852601481,
+                "w_nat_capped_weight": 20153545998961101852601481,
+                "node_ids": [],
+                "node_weights": [],
+                "block": 66408032,
+                "voter": 64
+            },
+            "uptimevotesignedevent_set": [],
+            "rewardssignedevent_set": [],
+            "identity_address": {
+                "address": "0xD03a130079430a5d8fd1caEA3535a80dDc6bFc0D",
+                "r": "6bFc0D",
+                "g": "a80dDc",
+                "b": "EA3535"
+            },
+            "display_name": "True FTSO",
+            "logo_url": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0xb6deD9D9CA19af10C67f9A8be8ca75e38E166faA.png"
+        },
+        {
+            "id": 53,
+            "normalised_weight": 392,
+            "public_key": {
+                "public_key": "0x1c45b94cfc6175b40338b6155bc5a0c72b5c514ef7cdab54812edf61a26396960298fe3014b702cb1c7c61c6be071b6d229d7d40ec32b7f6426947887851a3f0"
+            },
+            "signing_policy": {
+                "signing_policy_address": {
+                    "address": "0x31E412E114629702281533CC657bE76aD928283B",
+                    "r": "28283B",
+                    "g": "E76aD9",
+                    "b": "CC657b"
+                }
+            },
+            "voter_registered": {
+                "id": 1229,
+                "emitter_address": "31B9EC65C731c7D973a33Ef3FC83B653f540dC8D",
+                "identity_address": "D249c7e0BDb6F407604260350eD56e7Dd5254e51",
+                "submit_address": "9247b83e99CB6D1a4546c2efeA7595137a0532e7",
+                "submit_signatures_address": "BB654271F2A2deBfDb3e702067FE9aaa484A3981",
+                "signing_policy_address": "31E412E114629702281533CC657bE76aD928283B",
+                "transaction_hash": "0x284399a43b2ed886021d407b78dc2cd002f346e6d7bec59476f0437a77ce6b7c",
+                "reward_epoch_id": 210,
+                "public_key": "0x1c45b94cfc6175b40338b6155bc5a0c72b5c514ef7cdab54812edf61a26396960298fe3014b702cb1c7c61c6be071b6d229d7d40ec32b7f6426947887851a3f0",
+                "registration_weight": 10251114596151966546,
+                "block": 66408032,
+                "voter": 53
+            },
+            "voter_registration_info": {
+                "id": 1229,
+                "identity_address": "D249c7e0BDb6F407604260350eD56e7Dd5254e51",
+                "emitter_address": "126FAeEc75601dA3354c0b5Cc0b60C85fCbC3A5e",
+                "delegation_address": "b53D69B2519aC9F6D65cff8e7824Bf09F7064D61",
+                "transaction_hash": "0x284399a43b2ed886021d407b78dc2cd002f346e6d7bec59476f0437a77ce6b7c",
+                "reward_epoch_id": 210,
+                "delegation_fee_bips": 2000,
+                "w_nat_weight": 22268705687108833449610736,
+                "w_nat_capped_weight": 22268705687108833449610736,
+                "node_ids": [],
+                "node_weights": [],
+                "block": 66408032,
+                "voter": 53
+            },
+            "uptimevotesignedevent_set": [
+                {
+                    "uptime_vote_hash": "290decd9548b62a8d60345a988386fc84ba6bc95484008f6362f93160ef3e563"
+                }
+            ],
+            "rewardssignedevent_set": [
+                {
+                    "rewards_hash": "412dae6b1ce870ed1c5a43890f44bd10be54fcc852d50fadce810db8b228a493"
+                }
+            ],
+            "identity_address": {
+                "address": "0xD249c7e0BDb6F407604260350eD56e7Dd5254e51",
+                "r": "254e51",
+                "g": "6e7Dd5",
+                "b": "350eD5"
+            },
+            "display_name": "uGaenn",
+            "logo_url": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0xb53D69B2519aC9F6D65cff8e7824Bf09F7064D61.png"
+        },
+        {
+            "id": 30,
+            "normalised_weight": 1210,
+            "public_key": {
+                "public_key": null
+            },
+            "signing_policy": {
+                "signing_policy_address": {
+                    "address": "0x5DA692A7Ee11E292bDdf8eA15bD388F3beC1347a",
+                    "r": "C1347a",
+                    "g": "88F3be",
+                    "b": "A15bD3"
+                }
+            },
+            "voter_registered": {
+                "id": 1256,
+                "emitter_address": "31B9EC65C731c7D973a33Ef3FC83B653f540dC8D",
+                "identity_address": "D288C3EF25eBf79e7C53EA37DcDfB0710f3Ed173",
+                "submit_address": "2d4da92b99b98DD4a0744Fa563BF27B30aEE6b0B",
+                "submit_signatures_address": "A587056d4D028003b0241051bbFF7eC2691D84f9",
+                "signing_policy_address": "5DA692A7Ee11E292bDdf8eA15bD388F3beC1347a",
+                "transaction_hash": "0x1018ad773ebb9622069dd87fa00e71829a8955531b7314746e0944441ac391e7",
+                "reward_epoch_id": 210,
+                "public_key": "0x00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000",
+                "registration_weight": 31600330187214499704,
+                "block": 66408033,
+                "voter": 30
+            },
+            "voter_registration_info": {
+                "id": 1256,
+                "identity_address": "D288C3EF25eBf79e7C53EA37DcDfB0710f3Ed173",
+                "emitter_address": "126FAeEc75601dA3354c0b5Cc0b60C85fCbC3A5e",
+                "delegation_address": "0708a4C813594b7E0218CB4A5D8b75c76AbFc859",
+                "transaction_hash": "0x1018ad773ebb9622069dd87fa00e71829a8955531b7314746e0944441ac391e7",
+                "reward_epoch_id": 210,
+                "delegation_fee_bips": 2000,
+                "w_nat_weight": 99905385821736381006279767,
+                "w_nat_capped_weight": 99905385821736381006279767,
+                "node_ids": [],
+                "node_weights": [],
+                "block": 66408033,
+                "voter": 30
+            },
+            "uptimevotesignedevent_set": [
+                {
+                    "uptime_vote_hash": "290decd9548b62a8d60345a988386fc84ba6bc95484008f6362f93160ef3e563"
+                }
+            ],
+            "rewardssignedevent_set": [
+                {
+                    "rewards_hash": "412dae6b1ce870ed1c5a43890f44bd10be54fcc852d50fadce810db8b228a493"
+                }
+            ],
+            "identity_address": {
+                "address": "0xD288C3EF25eBf79e7C53EA37DcDfB0710f3Ed173",
+                "r": "3Ed173",
+                "g": "B0710f",
+                "b": "37DcDf"
+            },
+            "display_name": "FTSO London",
+            "logo_url": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0x0708a4C813594b7E0218CB4A5D8b75c76AbFc859.png"
+        },
+        {
+            "id": 22,
+            "normalised_weight": 529,
+            "public_key": {
+                "public_key": "0x06dc8be1f3c8a9549bf5f44ea3b07220eb7350847db291f3b94496fef4f8713b1966cf66617d52f3eb96f7fb11602929352a0ceb766af9bd59d8710e284c3477"
+            },
+            "signing_policy": {
+                "signing_policy_address": {
+                    "address": "0x493560BaC93dFc176E5663CFC830aF04209E95Fa",
+                    "r": "9E95Fa",
+                    "g": "aF0420",
+                    "b": "CFC830"
+                }
+            },
+            "voter_registered": {
+                "id": 1253,
+                "emitter_address": "31B9EC65C731c7D973a33Ef3FC83B653f540dC8D",
+                "identity_address": "d6122bb3d05454b4E4CC9883064A96607eB835BF",
+                "submit_address": "FA84Cf492ea6e648C09ED1048182cE6F2058bd9f",
+                "submit_signatures_address": "c2b2481E6bC2026a39042a3e039E98F4F2f224f3",
+                "signing_policy_address": "493560BaC93dFc176E5663CFC830aF04209E95Fa",
+                "transaction_hash": "0x70b338b29fca436d81fb838785672a8c6c2184afc34d35fbbde0dfb7c82a8fac",
+                "reward_epoch_id": 210,
+                "public_key": "0x06dc8be1f3c8a9549bf5f44ea3b07220eb7350847db291f3b94496fef4f8713b1966cf66617d52f3eb96f7fb11602929352a0ceb766af9bd59d8710e284c3477",
+                "registration_weight": 13827408106609434778,
+                "block": 66408033,
+                "voter": 22
+            },
+            "voter_registration_info": {
+                "id": 1253,
+                "identity_address": "d6122bb3d05454b4E4CC9883064A96607eB835BF",
+                "emitter_address": "126FAeEc75601dA3354c0b5Cc0b60C85fCbC3A5e",
+                "delegation_address": "D9200CC419BDe28B169AD8c904d2687a15A4Bf9F",
+                "transaction_hash": "0x70b338b29fca436d81fb838785672a8c6c2184afc34d35fbbde0dfb7c82a8fac",
+                "reward_epoch_id": 210,
+                "delegation_fee_bips": 2000,
+                "w_nat_weight": 33188512257209242737570980,
+                "w_nat_capped_weight": 33188512257209242737570980,
+                "node_ids": [],
+                "node_weights": [],
+                "block": 66408033,
+                "voter": 22
+            },
+            "uptimevotesignedevent_set": [],
+            "rewardssignedevent_set": [],
+            "identity_address": {
+                "address": "0xd6122bb3d05454b4E4CC9883064A96607eB835BF",
+                "r": "B835BF",
+                "g": "96607e",
+                "b": "83064A"
+            },
+            "display_name": "WitterFTSO",
+            "logo_url": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0xD9200CC419BDe28B169AD8c904d2687a15A4Bf9F.png"
+        },
+        {
+            "id": 38,
+            "normalised_weight": 374,
+            "public_key": {
+                "public_key": "0x14494c8ae19aa0207a389b4ff39ca27f81849b75f4423aea48a840b28acfee462368b5c80b8536633a8df31963c0821346f5a7b5a7bb4822d18c280d4a6f87df"
+            },
+            "signing_policy": {
+                "signing_policy_address": {
+                    "address": "0x70538a23D7A825eABF80E26dFacfD8c9D61C205D",
+                    "r": "1C205D",
+                    "g": "D8c9D6",
+                    "b": "6dFacf"
+                }
+            },
+            "voter_registered": {
+                "id": 1244,
+                "emitter_address": "31B9EC65C731c7D973a33Ef3FC83B653f540dC8D",
+                "identity_address": "d6C5f3e3a8A76EC73F2fAFaf06ef9dA57796DdF0",
+                "submit_address": "71aec2Bc126654d116386864b5f3BAbce0cA87e0",
+                "submit_signatures_address": "E0Dcf787Fa4ea43Fc949878A1D85a740A25B9958",
+                "signing_policy_address": "70538a23D7A825eABF80E26dFacfD8c9D61C205D",
+                "transaction_hash": "0xa652268c6b85bac83e37c9d8c735289e0b2892669a4fe8ca50aec048468e9632",
+                "reward_epoch_id": 210,
+                "public_key": "0x14494c8ae19aa0207a389b4ff39ca27f81849b75f4423aea48a840b28acfee462368b5c80b8536633a8df31963c0821346f5a7b5a7bb4822d18c280d4a6f87df",
+                "registration_weight": 9792371069668034243,
+                "block": 66408033,
+                "voter": 38
+            },
+            "voter_registration_info": {
+                "id": 1244,
+                "identity_address": "d6C5f3e3a8A76EC73F2fAFaf06ef9dA57796DdF0",
+                "emitter_address": "126FAeEc75601dA3354c0b5Cc0b60C85fCbC3A5e",
+                "delegation_address": "43cAb70e8EdefeF8C648C4Fc0863DD9D8FF5776A",
+                "transaction_hash": "0xa652268c6b85bac83e37c9d8c735289e0b2892669a4fe8ca50aec048468e9632",
+                "reward_epoch_id": 210,
+                "delegation_fee_bips": 2000,
+                "w_nat_weight": 20950000008782692690473599,
+                "w_nat_capped_weight": 20950000008782692690473599,
+                "node_ids": [],
+                "node_weights": [],
+                "block": 66408033,
+                "voter": 38
+            },
+            "uptimevotesignedevent_set": [],
+            "rewardssignedevent_set": [],
+            "identity_address": {
+                "address": "0xd6C5f3e3a8A76EC73F2fAFaf06ef9dA57796DdF0",
+                "r": "96DdF0",
+                "g": "9dA577",
+                "b": "af06ef"
+            },
+            "display_name": null,
+            "logo_url": null
+        },
+        {
+            "id": 51,
+            "normalised_weight": 370,
+            "public_key": {
+                "public_key": null
+            },
+            "signing_policy": {
+                "signing_policy_address": {
+                    "address": "0x40567b5f30c90f35A3D3a5c57702bEF6813D9A39",
+                    "r": "3D9A39",
+                    "g": "bEF681",
+                    "b": "c57702"
+                }
+            },
+            "voter_registered": {
+                "id": 1245,
+                "emitter_address": "31B9EC65C731c7D973a33Ef3FC83B653f540dC8D",
+                "identity_address": "D9DdD06B3E603F451DD8A16574CA9D3dF564742b",
+                "submit_address": "B410331e0f29f9Cf5792a18982bF416a7768Fdec",
+                "submit_signatures_address": "88311d4876D761837fe70e771A4d4A5beB9da887",
+                "signing_policy_address": "40567b5f30c90f35A3D3a5c57702bEF6813D9A39",
+                "transaction_hash": "0x105301a50c469e776abaad773a548d7450a933a181e049e9b4da2d6c81f773d1",
+                "reward_epoch_id": 210,
+                "public_key": "0x00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000",
+                "registration_weight": 9666336017726168076,
+                "block": 66408033,
+                "voter": 51
+            },
+            "voter_registration_info": {
+                "id": 1245,
+                "identity_address": "D9DdD06B3E603F451DD8A16574CA9D3dF564742b",
+                "emitter_address": "126FAeEc75601dA3354c0b5Cc0b60C85fCbC3A5e",
+                "delegation_address": "4eb408FA585a5C66E523a4aE5f5706374Ec9E8c7",
+                "transaction_hash": "0x105301a50c469e776abaad773a548d7450a933a181e049e9b4da2d6c81f773d1",
+                "reward_epoch_id": 210,
+                "delegation_fee_bips": 2000,
+                "w_nat_weight": 20591245060772748996409701,
+                "w_nat_capped_weight": 20591245060772748996409701,
+                "node_ids": [],
+                "node_weights": [],
+                "block": 66408033,
+                "voter": 51
+            },
+            "uptimevotesignedevent_set": [],
+            "rewardssignedevent_set": [
+                {
+                    "rewards_hash": "412dae6b1ce870ed1c5a43890f44bd10be54fcc852d50fadce810db8b228a493"
+                }
+            ],
+            "identity_address": {
+                "address": "0xD9DdD06B3E603F451DD8A16574CA9D3dF564742b",
+                "r": "64742b",
+                "g": "9D3dF5",
+                "b": "6574CA"
+            },
+            "display_name": "TempestFTSO",
+            "logo_url": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0x4eb408FA585a5C66E523a4aE5f5706374Ec9E8c7.png"
+        },
+        {
+            "id": 75,
+            "normalised_weight": 1531,
+            "public_key": {
+                "public_key": "0x03c9ea86549511ee86835cc1199ad8f0720a2b73b6b74711a073248382f46cd61a526478e9a20c85e280fb1c5085899cbe9ce30d65dc0807b9a25458ed69b9fa"
+            },
+            "signing_policy": {
+                "signing_policy_address": {
+                    "address": "0x5483a24B91fD1Fcb8bA1c5aE54C85d9b61D62198",
+                    "r": "D62198",
+                    "g": "5d9b61",
+                    "b": "aE54C8"
+                }
+            },
+            "voter_registered": {
+                "id": 1262,
+                "emitter_address": "31B9EC65C731c7D973a33Ef3FC83B653f540dC8D",
+                "identity_address": "DbB159Ee372D58d2653023bF1c5ab5678b842870",
+                "submit_address": "9F061f18fDe13b8AFB4Ad002D40B94d26f86c9b6",
+                "submit_signatures_address": "9Fc23f0Dcc1C46ef3647201442f4dAcc01971b11",
+                "signing_policy_address": "5483a24B91fD1Fcb8bA1c5aE54C85d9b61D62198",
+                "transaction_hash": "0x938d5d7500c321a384d3cb15c6eccf29daa847fde582ddd558245bf0131eb869",
+                "reward_epoch_id": 210,
+                "public_key": "0x03c9ea86549511ee86835cc1199ad8f0720a2b73b6b74711a073248382f46cd61a526478e9a20c85e280fb1c5085899cbe9ce30d65dc0807b9a25458ed69b9fa",
+                "registration_weight": 39993485260567955886,
+                "block": 66408034,
+                "voter": 75
+            },
+            "voter_registration_info": {
+                "id": 1262,
+                "identity_address": "DbB159Ee372D58d2653023bF1c5ab5678b842870",
+                "emitter_address": "126FAeEc75601dA3354c0b5Cc0b60C85fCbC3A5e",
+                "delegation_address": "0FA72D3912d1C530AB1f6a8A9fB61C672947E964",
+                "transaction_hash": "0x938d5d7500c321a384d3cb15c6eccf29daa847fde582ddd558245bf0131eb869",
+                "reward_epoch_id": 210,
+                "delegation_fee_bips": 2000,
+                "w_nat_weight": 136768387008659192131058417,
+                "w_nat_capped_weight": 136768387008659192131058417,
+                "node_ids": [],
+                "node_weights": [],
+                "block": 66408034,
+                "voter": 75
+            },
+            "uptimevotesignedevent_set": [],
+            "rewardssignedevent_set": [],
+            "identity_address": {
+                "address": "0xDbB159Ee372D58d2653023bF1c5ab5678b842870",
+                "r": "842870",
+                "g": "b5678b",
+                "b": "bF1c5a"
+            },
+            "display_name": "FTSO Plus",
+            "logo_url": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0x0FA72D3912d1C530AB1f6a8A9fB61C672947E964.png"
+        },
+        {
+            "id": 71,
+            "normalised_weight": 1291,
+            "public_key": {
+                "public_key": null
+            },
+            "signing_policy": {
+                "signing_policy_address": {
+                    "address": "0xf8394735c8977d2287A28279a8e62a135fA94406",
+                    "r": "A94406",
+                    "g": "2a135f",
+                    "b": "79a8e6"
+                }
+            },
+            "voter_registered": {
+                "id": 1224,
+                "emitter_address": "31B9EC65C731c7D973a33Ef3FC83B653f540dC8D",
+                "identity_address": "E6B81dB3e09ee36611555D053A1bF8cb99fC2f1B",
+                "submit_address": "Fd4A5a16825398Afe0Dab56bCD7DF14748166b7b",
+                "submit_signatures_address": "74a4a3756893700D350404Ae96e388fC3f486Ade",
+                "signing_policy_address": "f8394735c8977d2287A28279a8e62a135fA94406",
+                "transaction_hash": "0x5ea8e3c228fdf25b2b0b2d7492dbc32f262a2864a0e270c75824c2c468d95ccf",
+                "reward_epoch_id": 210,
+                "public_key": "0x00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000",
+                "registration_weight": 33739701847328914469,
+                "block": 66408032,
+                "voter": 71
+            },
+            "voter_registration_info": {
+                "id": 1224,
+                "identity_address": "E6B81dB3e09ee36611555D053A1bF8cb99fC2f1B",
+                "emitter_address": "126FAeEc75601dA3354c0b5Cc0b60C85fCbC3A5e",
+                "delegation_address": "733A73408D8e106B6AC999cCD9F3D308bcAeB7b5",
+                "transaction_hash": "0x5ea8e3c228fdf25b2b0b2d7492dbc32f262a2864a0e270c75824c2c468d95ccf",
+                "reward_epoch_id": 210,
+                "delegation_fee_bips": 2000,
+                "w_nat_weight": 109023905949929528554727630,
+                "w_nat_capped_weight": 109023905949929528554727630,
+                "node_ids": [],
+                "node_weights": [],
+                "block": 66408032,
+                "voter": 71
+            },
+            "uptimevotesignedevent_set": [],
+            "rewardssignedevent_set": [],
+            "identity_address": {
+                "address": "0xE6B81dB3e09ee36611555D053A1bF8cb99fC2f1B",
+                "r": "fC2f1B",
+                "g": "F8cb99",
+                "b": "053A1b"
+            },
+            "display_name": null,
+            "logo_url": null
+        },
+        {
+            "id": 20,
+            "normalised_weight": 412,
+            "public_key": {
+                "public_key": "0x20f54d0d08d51d97844e91a8f05307250bbb7f0915b974806c079444d088332b27aaa90d1f09c41615b5eeb9c03649e8787f4ac5d67e1ddab98010a725e93746"
+            },
+            "signing_policy": {
+                "signing_policy_address": {
+                    "address": "0x0cD4562Cb47830cFC2acbcA68C99D4c50e962F88",
+                    "r": "962F88",
+                    "g": "D4c50e",
+                    "b": "A68C99"
+                }
+            },
+            "voter_registered": {
+                "id": 1238,
+                "emitter_address": "31B9EC65C731c7D973a33Ef3FC83B653f540dC8D",
+                "identity_address": "Ec056b0EF36de1D63031fdBb9bceF5FEB36FB27f",
+                "submit_address": "1A2c2CF93667B0936c2e2e057FaFc8637Df56642",
+                "submit_signatures_address": "EE75CD37B1A6815Cc6E8eA27CF735524c170c57A",
+                "signing_policy_address": "0cD4562Cb47830cFC2acbcA68C99D4c50e962F88",
+                "transaction_hash": "0x6c259dfc5d3ef121582f20139d643e55f832ff1adc70c7973fa5019a27d21094",
+                "reward_epoch_id": 210,
+                "public_key": "0x20f54d0d08d51d97844e91a8f05307250bbb7f0915b974806c079444d088332b27aaa90d1f09c41615b5eeb9c03649e8787f4ac5d67e1ddab98010a725e93746",
+                "registration_weight": 10785267665807450388,
+                "block": 66408033,
+                "voter": 20
+            },
+            "voter_registration_info": {
+                "id": 1238,
+                "identity_address": "Ec056b0EF36de1D63031fdBb9bceF5FEB36FB27f",
+                "emitter_address": "126FAeEc75601dA3354c0b5Cc0b60C85fCbC3A5e",
+                "delegation_address": "7C255e428e95bEbc76e944D49D4F460C84b3A3c3",
+                "transaction_hash": "0x6c259dfc5d3ef121582f20139d643e55f832ff1adc70c7973fa5019a27d21094",
+                "reward_epoch_id": 210,
+                "delegation_fee_bips": 2000,
+                "w_nat_weight": 23829122258596833716769757,
+                "w_nat_capped_weight": 23829122258596833716769757,
+                "node_ids": [],
+                "node_weights": [],
+                "block": 66408033,
+                "voter": 20
+            },
+            "uptimevotesignedevent_set": [],
+            "rewardssignedevent_set": [],
+            "identity_address": {
+                "address": "0xEc056b0EF36de1D63031fdBb9bceF5FEB36FB27f",
+                "r": "6FB27f",
+                "g": "F5FEB3",
+                "b": "Bb9bce"
+            },
+            "display_name": "FTSOCAN",
+            "logo_url": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0x7C255e428e95bEbc76e944D49D4F460C84b3A3c3.png"
+        },
+        {
+            "id": 43,
+            "normalised_weight": 2133,
+            "public_key": {
+                "public_key": "0x18673471e9c217c8feb7d1aebe40e3e861e393c8f047e81f54b5793468b70d9e2ef26bfda81a314ee18a857d21c4bd045a9d19836bfb63222a7e94fd6ed59edf"
+            },
+            "signing_policy": {
+                "signing_policy_address": {
+                    "address": "0x81050097cbDc0B3D58fe0db4469775db7F538304",
+                    "r": "538304",
+                    "g": "75db7F",
+                    "b": "b44697"
+                }
+            },
+            "voter_registered": {
+                "id": 1231,
+                "emitter_address": "31B9EC65C731c7D973a33Ef3FC83B653f540dC8D",
+                "identity_address": "EE6f6572cfeB3467CE5F3572Bea7c5FD6d2b1725",
+                "submit_address": "5d62D85f7903ECA56C65521172BdA8904A1e0937",
+                "submit_signatures_address": "E0FB39dcf3Eb2d3Ae7088263B0FBA6BEa04c523F",
+                "signing_policy_address": "81050097cbDc0B3D58fe0db4469775db7F538304",
+                "transaction_hash": "0xdf5977136fd68dc99c50ea89bbecc1dac47e26dfdf20f196180634d653e73be6",
+                "reward_epoch_id": 210,
+                "public_key": "0x18673471e9c217c8feb7d1aebe40e3e861e393c8f047e81f54b5793468b70d9e2ef26bfda81a314ee18a857d21c4bd045a9d19836bfb63222a7e94fd6ed59edf",
+                "registration_weight": 55712085158753117802,
+                "block": 66408032,
+                "voter": 43
+            },
+            "voter_registration_info": {
+                "id": 1231,
+                "identity_address": "EE6f6572cfeB3467CE5F3572Bea7c5FD6d2b1725",
+                "emitter_address": "126FAeEc75601dA3354c0b5Cc0b60C85fCbC3A5e",
+                "delegation_address": "fB9197720329a80191BA140844E96DCcAD149014",
+                "transaction_hash": "0xdf5977136fd68dc99c50ea89bbecc1dac47e26dfdf20f196180634d653e73be6",
+                "reward_epoch_id": 210,
+                "delegation_fee_bips": 2000,
+                "w_nat_weight": 212780901895397941350798782,
+                "w_nat_capped_weight": 212780901895397941350798782,
+                "node_ids": [],
+                "node_weights": [],
+                "block": 66408032,
+                "voter": 43
+            },
+            "uptimevotesignedevent_set": [
+                {
+                    "uptime_vote_hash": "bc36789e7a1e281436464229828f817d6612f7b477d66591ff96a9e064bcc98a"
+                },
+                {
+                    "uptime_vote_hash": "290decd9548b62a8d60345a988386fc84ba6bc95484008f6362f93160ef3e563"
+                }
+            ],
+            "rewardssignedevent_set": [],
+            "identity_address": {
+                "address": "0xEE6f6572cfeB3467CE5F3572Bea7c5FD6d2b1725",
+                "r": "2b1725",
+                "g": "c5FD6d",
+                "b": "72Bea7"
+            },
+            "display_name": "LightFTSO",
+            "logo_url": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0xfB9197720329a80191BA140844E96DCcAD149014.png"
+        },
+        {
+            "id": 94,
+            "normalised_weight": 28,
+            "public_key": {
+                "public_key": null
+            },
+            "signing_policy": {
+                "signing_policy_address": {
+                    "address": "0xa48AA817d5588993133b29A6e6eF9C7358c1d37F",
+                    "r": "c1d37F",
+                    "g": "9C7358",
+                    "b": "A6e6eF"
+                }
+            },
+            "voter_registered": {
+                "id": 1267,
+                "emitter_address": "31B9EC65C731c7D973a33Ef3FC83B653f540dC8D",
+                "identity_address": "eEddF5817a03a3a0e27e33672c4788A9e43fA438",
+                "submit_address": "E87194b1925A1C7Fbf1A1bCEA30287E8Dc06D7F5",
+                "submit_signatures_address": "0300010DfFd38cd0C09646D3A2BE839C49430FFe",
+                "signing_policy_address": "a48AA817d5588993133b29A6e6eF9C7358c1d37F",
+                "transaction_hash": "0xf25dc65862c5b71e620e7f412972f17ecf37c30c3cfe3fb8a32d012bdfb8b611",
+                "reward_epoch_id": 210,
+                "public_key": "0x00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000",
+                "registration_weight": 755927102178054585,
+                "block": 66408034,
+                "voter": 94
+            },
+            "voter_registration_info": {
+                "id": 1267,
+                "identity_address": "eEddF5817a03a3a0e27e33672c4788A9e43fA438",
+                "emitter_address": "126FAeEc75601dA3354c0b5Cc0b60C85fCbC3A5e",
+                "delegation_address": "9873011bAFA78f177DAEb9500ff3656Ea0C81fc3",
+                "transaction_hash": "0xf25dc65862c5b71e620e7f412972f17ecf37c30c3cfe3fb8a32d012bdfb8b611",
+                "reward_epoch_id": 210,
+                "delegation_fee_bips": 2000,
+                "w_nat_weight": 688610455972420000000000,
+                "w_nat_capped_weight": 688610455972420000000000,
+                "node_ids": [],
+                "node_weights": [],
+                "block": 66408034,
+                "voter": 94
+            },
+            "uptimevotesignedevent_set": [],
+            "rewardssignedevent_set": [],
+            "identity_address": {
+                "address": "0xeEddF5817a03a3a0e27e33672c4788A9e43fA438",
+                "r": "3fA438",
+                "g": "88A9e4",
+                "b": "672c47"
+            },
+            "display_name": null,
+            "logo_url": null
+        },
+        {
+            "id": 69,
+            "normalised_weight": 365,
+            "public_key": {
+                "public_key": null
+            },
+            "signing_policy": {
+                "signing_policy_address": {
+                    "address": "0xAA4D1f2B94370229bc20c3582E1D940ec783DE12",
+                    "r": "83DE12",
+                    "g": "940ec7",
+                    "b": "582E1D"
+                }
+            },
+            "voter_registered": {
+                "id": 1273,
+                "emitter_address": "31B9EC65C731c7D973a33Ef3FC83B653f540dC8D",
+                "identity_address": "fe193A0f95bBeeE5a5c8306bca5ceDfA65114460",
+                "submit_address": "917445462E58E32aF317FB5271D7EB028438F87F",
+                "submit_signatures_address": "b46f83eFE04bc1Fc9CA480cBa861e65f35940352",
+                "signing_policy_address": "AA4D1f2B94370229bc20c3582E1D940ec783DE12",
+                "transaction_hash": "0x5da4a330dd1194cc159f53d3f6d8d368d8e801af5f3b8520d8036593f8fc7fcb",
+                "reward_epoch_id": 210,
+                "public_key": "0x00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000",
+                "registration_weight": 9550534737462641280,
+                "block": 66408035,
+                "voter": 69
+            },
+            "voter_registration_info": {
+                "id": 1273,
+                "identity_address": "fe193A0f95bBeeE5a5c8306bca5ceDfA65114460",
+                "emitter_address": "126FAeEc75601dA3354c0b5Cc0b60C85fCbC3A5e",
+                "delegation_address": "78A99Aa32cDe18B33B150941fBF718715d15Af6a",
+                "transaction_hash": "0x5da4a330dd1194cc159f53d3f6d8d368d8e801af5f3b8520d8036593f8fc7fcb",
+                "reward_epoch_id": 210,
+                "delegation_fee_bips": 2000,
+                "w_nat_weight": 20263002584855958050540705,
+                "w_nat_capped_weight": 20263002584855958050540705,
+                "node_ids": [],
+                "node_weights": [],
+                "block": 66408035,
+                "voter": 69
+            },
+            "uptimevotesignedevent_set": [],
+            "rewardssignedevent_set": [],
+            "identity_address": {
+                "address": "0xfe193A0f95bBeeE5a5c8306bca5ceDfA65114460",
+                "r": "114460",
+                "g": "eDfA65",
+                "b": "6bca5c"
+            },
+            "display_name": "Wonderftso",
+            "logo_url": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0x78A99Aa32cDe18B33B150941fBF718715d15Af6a.png"
+        }
+    ]
+}

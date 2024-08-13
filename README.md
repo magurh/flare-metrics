@@ -6,12 +6,13 @@ A set of tools for web-scrapping  and analysing Flare Network's data providers.
 
 1. [flaremetrics.io](flaremetrics.io):
     - [x] Validator data
-    - [x] FTSO data
-    - [x] Songbird compatibility for FTSO data
-2. [Flare Systems Explorer](https://songbird-systems-explorer.flare.rocks/entities/ftsoDataProvider)
-    - [x] Songbird FTSO data
-3. [FTSO monitor](https://flare-ftso-monitor.flare.network/data-providers)
-    - [ ] FTSO data
+    - [x] FTSOv1 delegation data
+    - [x] Songbird compatibility for FTSO delegations
+1. [Flare Systems Explorer](https://songbird-systems-explorer.flare.rocks/entities/ftsoDataProvider) (FTSOv2 only for Songbird)
+    - [x] FTSOv2 delegation data
+    - [x] FTSOv2 delegation data for specific reward epochs
+3. [FTSO monitor](https://flare-ftso-monitor.flare.network/data-providers) (FTSOv1 only)
+    - [ ] FTSOv1 delegation data
     - [ ] Songbird compatibility
 
 Note: Staking is currently live only on Flare. The data of the FTSO providers from [flare-metrics.io](flaremetrics.io) does not include C-chain addresses. As such, matching FTSO addresses with validator nodes can be done only based on the names. An alternative is to use a different source for extracting FTSO data, such as the [FTSO monitor](https://flare-ftso-monitor.flare.network/data-providers), which only includes FTSO data.
@@ -49,11 +50,16 @@ python data_scripts/flare_metrics_validator.py
 
 This will create a dataframe within the `data` sub-directory, with information about all current validators on Flare.
 
-For FTSO data, there are multiple available sources: [flaremetrics.io](flaremetrics.io), [Flare Systems Explorer](https://songbird-systems-explorer.flare.rocks/entities/ftsoDataProvider) (currently supporting only Songbird and testnets), and [FTSO monitor](https://flare-ftso-monitor.flare.network/data-providers). Run one of the following from the root directory:
+For FTSO data, there are multiple available sources: [flaremetrics.io](flaremetrics.io), [Flare Systems Explorer](https://songbird-systems-explorer.flare.rocks/entities/ftsoDataProvider) (currently supporting only Songbird and testnets for FTSOv2), and [FTSO monitor](https://flare-ftso-monitor.flare.network/data-providers) for FTSOv1. Run one of the following from the root directory:
 ```
 python data_scripts/flare_metrics_ftso.py
 python data_scripts/sys_explorer_ftso.py
 ```
 Note that the `flare_metrics_ftso.py` script will import Flare network data by default. If songbird data is needed instead, the `network` parameter within `flare_metrics_ftso.py` should be changed before running the script.
+
+For FTSOv2, one can further uses the Flare Systems Explorer to extract data for a specific reward epoch by running (make sure to set the desired reward epoch id within the python script -- check the [Systems Explorer](https://songbird-systems-explorer.flare.rocks/reward-epoch) for the desired epochs)
+```
+python data_scripts/sys_explorer_epoch.py
+```
 
 
