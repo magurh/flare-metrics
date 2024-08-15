@@ -1,10 +1,10 @@
 """
-A script for web scrapping ftso data from the Flare Systems Explorer, currently only available for Songbird: https://songbird-systems-explorer.flare.rocks/entities/ftsoDataProvider
+A script for web scrapping ftso data from the Flare Systems Explorer, currently only available for Songbird: https://songbird-systems-explorer.flare.rocks
 """
 #####################################################
 ######## CHOOSE REWARD EPOCH ID #####################
 #####################################################
-reward_epoch_id = 209
+reward_epoch_id = 210
 #####################################################
 #####################################################
 #####################################################
@@ -47,7 +47,7 @@ if response.status_code == 200:
         record = {
             'Name': item['display_name'],
             'Address': item['identity_address']['address'],
-            'FastUpdates Registration': item['public_key']['public_key'],
+            'FastUpdates Registration': item['voter_registered']['public_key'],
             'Normalised weight': int(item['normalised_weight']),
             'Registration weight': float(item['voter_registered']['registration_weight']),
             'Registration block': int(item['voter_registered']['block']),
@@ -61,7 +61,8 @@ if response.status_code == 200:
 
     ftso_df['Delegation weight'] = ftso_df['Delegation weight'].fillna(0)/10**18
     ftso_df['Capped delegation weight'] = ftso_df['Capped delegation weight'].fillna(0)/10**18
-    ftso_df['FastUpdates Registration'] = np.where(ftso_df['FastUpdates Registration'].isna(), 0, 1)
+    ftso_df['FastUpdates Registration'] = np.where(ftso_df['FastUpdates Registration'] == '0x00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000', 0, 1)
+       
     
     # Optionally, save to a CSV file
     ftso_df.to_csv(csv_file_path, index=False)
