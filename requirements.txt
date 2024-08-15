@@ -1,6 +1,6 @@
 # Standard libraries
 pandas
-matplotlib
+# matplotlib
 numpy
 # Data scrapping
 requests

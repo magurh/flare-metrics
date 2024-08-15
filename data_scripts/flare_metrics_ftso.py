@@ -22,7 +22,7 @@ network = 'flr' # 'sgb'
 
 
 # Data saving paths
-txt_file_path = os.path.join(DATA_PATH, f'flare-metrics_{network}_ftso.txt')
+# txt_file_path = os.path.join(DATA_PATH, f'flare-metrics_{network}_ftso.txt')
 csv_file_path = os.path.join(DATA_PATH, f'flare-metrics_{network}_ftso.csv')
 
 # Create data folder if it doesn't exist
@@ -46,8 +46,8 @@ if response.status_code == 200:
     soup = BeautifulSoup(response.content, "html.parser")
 
     # Save soup as a text file
-    with open(txt_file_path, 'w', encoding='utf-8') as file:
-        file.write(soup.prettify())
+    # with open(txt_file_path, 'w', encoding='utf-8') as file:
+    #     file.write(soup.prettify())
     
     # Find all validator entries
     ftsos = soup.find_all("tr", class_="h-12 border-y border-gray-100 dark:border-gray-600 text-sm font-medium md:hover:bg-gray-50 md:dark:hover:bg-gray-700")  # Adjust the class name if necessary

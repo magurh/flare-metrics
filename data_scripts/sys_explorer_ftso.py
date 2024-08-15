@@ -12,7 +12,7 @@ from config import DATA_PATH
 
 
 # Data saving paths
-json_file_path = os.path.join(DATA_PATH, 'sys-explorer_sgb_ftso.json')
+# json_file_path = os.path.join(DATA_PATH, 'sys-explorer_sgb_ftso.json')
 csv_file_path = os.path.join(DATA_PATH, 'sys-explorer_sgb_ftso.csv')
 
 # Create data folder if it doesn't exist
@@ -29,8 +29,8 @@ if response.status_code == 200:
     data = response.json()
     
     # Save the JSON data to a file
-    with open(json_file_path, 'w') as json_file:
-        json.dump(data, json_file, indent=4)
+    # with open(json_file_path, 'w') as json_file:
+    #     json.dump(data, json_file, indent=4)
         
      # Extract relevant information and create a list of dictionaries
     records = []

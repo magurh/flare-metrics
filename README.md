@@ -8,7 +8,7 @@ A set of tools for web-scrapping  and analysing Flare Network's data providers.
     - [x] Validator data
     - [x] FTSOv1 delegation data
     - [x] Songbird compatibility for FTSO delegations
-1. [Flare Systems Explorer](https://songbird-systems-explorer.flare.rocks/entities/ftsoDataProvider) (FTSOv2 only for Songbird)
+1. [Flare Systems Explorer](https://songbird-systems-explorer.flare.rocks) (FTSOv2 only for Songbird)
     - [x] FTSOv2 delegation data
     - [x] FTSOv2 delegation data for specific reward epochs
 3. [FTSO monitor](https://flare-ftso-monitor.flare.network/data-providers) (FTSOv1 only)

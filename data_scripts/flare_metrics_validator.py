@@ -11,7 +11,7 @@ from bs4 import BeautifulSoup
 from config import DATA_PATH
 
 # Define paths
-txt_file_path = os.path.join(DATA_PATH, 'flare-metrics_flr_validators.txt')
+# txt_file_path = os.path.join(DATA_PATH, 'flare-metrics_flr_validators.txt')
 csv_file_path = os.path.join(DATA_PATH, 'flare-metrics_flr_validators.csv')
 
 # Create data folder if it doesn't exist
@@ -29,8 +29,8 @@ if response.status_code == 200:
     soup = BeautifulSoup(response.content, "html.parser")
 
     # Save soup as a text file
-    with open(txt_file_path, 'w', encoding='utf-8') as file:
-        file.write(soup.prettify())
+    # with open(txt_file_path, 'w', encoding='utf-8') as file:
+    #     file.write(soup.prettify())
     
     # Find all validator entries
     validators = soup.find_all("tr", class_="h-16 border-y border-gray-100 dark:border-gray-600 text-sm font-medium md:hover:bg-gray-50 md:dark:hover:bg-gray-700")  # Adjust the class name if necessary
