@@ -1,19 +1,28 @@
-[![python](https://img.shields.io/badge/Python-3.11-3776AB.svg?style=flat&logo=python&logoColor=white)](https://www.python.org) [![jupyter](https://img.shields.io/badge/Jupyter-Lab-F37626.svg?style=flat&logo=Jupyter)](https://jupyterlab.readthedocs.io/en/stable) [![Flare](https://img.shields.io/badge/flare-network-e62058.svg?logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAYAAACNiR0NAAAAAXNSR0IArs4c6QAAAn1JREFUOE+1VEtIVFEY/v5zznU07QVSSmNCDzOKkhb2hGgzREQUSbgRJSPBXaDtgtkEYbRpVblSkiCLRLRFEYIKtrVcFBEZPmYoGTSbIZ17/lPnzqNxmqIR/Bf3nnse3//9//fdQ8iIyNX7G79Eptvixj0kIEAGADMgvJEXdkAggjEG9uG9SbvEXLB3x1NKbRyrqAtVfqMyVoByFFgziNLLmXk9UJOxZNMJzRjbJuu86YGdF8L7YkVbfZrBBIgkkxRK6myKZppucoNdZyVRMdNDZIJDKnK3Mx71MQpdgDOyW3AbIhshBZSs3CiB8vb6Frp27gEN1zZf2fVuvtOnFL4XAA4nQC0ICQFO9HBFybaTtkwFgbCOIXZ8T+BIf8dLuyl3k7KO5/O59oCmf2T73Gxki+OoNDEnvpKjAyDqyPjm5tPj2ezTDCcbb7WZVxO3i12GcTVISmitE97LqkOAsFS+6WPlm3u7cgKOnm9/Uj0yczFaYOBwQtJMYY21clIoO+8IwqdAVUNtd/DhH4DmsZEzLZdcn5RYklamhIJpxazaIGhKMJUMTK3TODzZm7P/NHygoX73V/3I2sMkwbwS2UAmmUEpLLtxKAbe+qLxwPSAj35ZOJf6NNR6s0a9D500xtCyZAEQ2b/4x1K8aGF+3hECUELB7/fP1V6/3EUnqhf/ZaO1t00+Js5Zsp3srTzrnlookbpQIHy0qvHgs2D3aoFptKbpjH8qNlgiJBYdxnouRGm4a9WtoPFAW3vp+GyHZPa8xiRQ1tojKUj2jsg7yDz/sCHUdGNBK0Aw4TMt41jo98WbL6JXmrnTV/F64EVfSVHxxP7Bjqa/eex/wH8Cb5jx4nKk/dAAAAAASUVORK5CYII=&colorA=FFFFFF)](https://dev.flare.network/)
+[![python](https://img.shields.io/badge/Python-3.11-3776AB.svg?style=flat&logo=python&logoColor=white)](https://www.python.org) [![jupyter](https://img.shields.io/badge/Jupyter-Lab-F37626.svg?style=flat&logo=Jupyter)](https://jupyterlab.readthedocs.io/en/stable) [![Flare](https://img.shields.io/badge/flare-network-e62058.svg?logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAYAAACNiR0NAAAAAXNSR0IArs4c6QAAAn1JREFUOE+1VEtIVFEY/v5zznU07QVSSmNCDzOKkhb2hGgzREQUSbgRJSPBXaDtgtkEYbRpVblSkiCLRLRFEYIKtrVcFBEZPmYoGTSbIZ17/lPnzqNxmqIR/Bf3nnse3//9//fdQ8iIyNX7G79Eptvixj0kIEAGADMgvJEXdkAggjEG9uG9SbvEXLB3x1NKbRyrqAtVfqMyVoByFFgziNLLmXk9UJOxZNMJzRjbJuu86YGdF8L7YkVbfZrBBIgkkxRK6myKZppucoNdZyVRMdNDZIJDKnK3Mx71MQpdgDOyW3AbIhshBZSs3CiB8vb6Frp27gEN1zZf2fVuvtOnFL4XAA4nQC0ICQFO9HBFybaTtkwFgbCOIXZ8T+BIf8dLuyl3k7KO5/O59oCmf2T73Gxki+OoNDEnvpKjAyDqyPjm5tPj2ezTDCcbb7WZVxO3i12GcTVISmitE97LqkOAsFS+6WPlm3u7cgKOnm9/Uj0yczFaYOBwQtJMYY21clIoO+8IwqdAVUNtd/DhH4DmsZEzLZdcn5RYklamhIJpxazaIGhKMJUMTK3TODzZm7P/NHygoX73V/3I2sMkwbwS2UAmmUEpLLtxKAbe+qLxwPSAj35ZOJf6NNR6s0a9D500xtCyZAEQ2b/4x1K8aGF+3hECUELB7/fP1V6/3EUnqhf/ZaO1t00+Js5Zsp3srTzrnlookbpQIHy0qvHgs2D3aoFptKbpjH8qNlgiJBYdxnouRGm4a9WtoPFAW3vp+GyHZPa8xiRQ1tojKUj2jsg7yDz/sCHUdGNBK0Aw4TMt41jo98WbL6JXmrnTV/F64EVfSVHxxP7Bjqa/eex/wH8Cb5jx4nKk/dAAAAAASUVORK5CYII=&colorA=FFFFFF)](https://dev.flare.network/) [<img src="https://github.com/user-attachments/assets/e545d7f0-cfac-4dc1-9112-065bc5e46f7c" width="31" alt="FTSO">](https://flare.network/ftso/)
 
 # Flare Metrics
 
-A set of tools for web-scrapping  and analysing Flare Network's data providers.
+A set of tools for web-scrapping and analysing Flare Network's data providers. 
 
-1. [flaremetrics.io](flaremetrics.io):
-    - [x] Validator data
-    - [x] FTSOv1 delegation data
-    - [x] Songbird compatibility for FTSO delegations
-1. [Flare Systems Explorer](https://songbird-systems-explorer.flare.rocks) (FTSOv2 only for Songbird)
-    - [x] FTSOv2 delegation data
-    - [x] FTSOv2 delegation data for specific reward epochs
-3. [FTSO monitor](https://flare-ftso-monitor.flare.network/data-providers) (FTSOv1 only)
-    - [ ] FTSOv1 delegation data
-    - [ ] Songbird compatibility
+1. FTSOv2 metrics (delegating):
+    - [x] [Flare Systems Explorer](https://songbird-systems-explorer.flare.rocks)
+        -  Songbird delegation data for current entities
+        -  Songbird delegation data for specific reward epochs
+    - [ ] [Useyourspark monitor](https://www.useyourspark.com/analytics/monitor)
+
+2. FTSO (v1) metrics (delegating):
+    - [x] [flaremetrics.io](flaremetrics.io)
+          - Compatibility for both Flare and Songbird
+    - [ ] [FTSO monitor](https://flare-ftso-monitor.flare.network/data-providers)
+    - [ ] [flare-base.io](https://flare-base.io)
+    - [ ] [solidifi](https://solidifi.app/ftso-data-providers)
+
+3. Validator metrics (staking): 
+    - [x] [flaremetrics.io](https://flaremetrics.io)
+    - [ ] [solidifi](https://solidifi.app/validators)
+    - [ ] [flare.builders](https://www.flare.builders/validators)
+    - [ ] [flarescan](https://flarescan.com/validators)
+        
 
 Note: Staking is currently live only on Flare. The data of the FTSO providers from [flare-metrics.io](flaremetrics.io) does not include C-chain addresses. As such, matching FTSO addresses with validator nodes can be done only based on the names. An alternative is to use a different source for extracting FTSO data, such as the [FTSO monitor](https://flare-ftso-monitor.flare.network/data-providers), which only includes FTSO data.
 
