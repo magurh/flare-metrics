@@ -59,9 +59,7 @@ Alternatively, one can run the script without manually activating the shell usin
 ```
 poetry run python data_scripts/flare_metrics_validator.py
 ```
-The same applies to the other scripts.
-
-This will create a dataframe within the `data` sub-directory, with information about all current validators on Flare.
+The same applies to the other scripts. This will create a dataframe within the `data` sub-directory, with information about all current validators on Flare.
 
 For FTSO data, there are multiple available sources: [flaremetrics.io](flaremetrics.io), [Flare Systems Explorer](https://songbird-systems-explorer.flare.rocks/entities/ftsoDataProvider) (currently supporting only Songbird and testnets for FTSOv2), and [FTSO monitor](https://flare-ftso-monitor.flare.network/data-providers) for FTSOv1. Run one of the following from the root directory:
 ```
