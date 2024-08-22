@@ -26,49 +26,53 @@ A set of tools for web-scrapping and analysing Flare Network's data providers.
 
 Note: Staking is currently live only on Flare. The data of the FTSO providers from [flare-metrics.io](flaremetrics.io) does not include C-chain addresses. As such, matching FTSO addresses with validator nodes can be done only based on the names. An alternative is to use a different source for extracting FTSO data, such as the [FTSO monitor](https://flare-ftso-monitor.flare.network/data-providers), which only includes FTSO data.
 
-### Setup
-----------------------------
+## Setup
 
-1. Create and Activate Virtual Environment
-On Windows:
 
+Poetry is used for dependency management. Whenever new dependencies are added, run:
 ```
-python -m venv venv
-venv\Scripts\activate
+poetry install
 ```
-
-On MacOS/Linux:
+To use Jupyter Lab, set the kernel to the fast-updates-monitoring environment created by poetry:
 ```
-python3 -m venv venv
-source venv/bin/activate
+poetry run python -m ipykernel install --user --name=fast-updates-analysis
 ```
-
-2. Install dependencies:
+Open Jupyter lab as follows:
 ```
-pip install -r requirements.txt
+poetry run jupyter lab
+```
+For simply activating the virtual environment, run:
+```
+poetry shell
 ```
 
+To add new dependencies, use: `poetry add dependency`.
 
-### Web scrapping
-----------------------------
 
-There are two types of data that one can import: validator data which refers to the validator nodes on the P-chains, and FTSO data for the data providers on the C-chains. To import validator data, navigate to the root directory and run:
+## Web scrapping
+
+There are two types of data that one can import: validator data which refers to the validator nodes on the P-chains, and FTSO data for the data providers on the C-chains. To import validator data, navigate to the root directory, activate the virtual environment with `poetry shell` and run:
 ```
 python data_scripts/flare_metrics_validator.py
 ```
+Alternatively, one can run the script without manually activating the shell using:
+```
+poetry run python data_scripts/flare_metrics_validator.py
+```
+The same applies to the other scripts.
 
 This will create a dataframe within the `data` sub-directory, with information about all current validators on Flare.
 
 For FTSO data, there are multiple available sources: [flaremetrics.io](flaremetrics.io), [Flare Systems Explorer](https://songbird-systems-explorer.flare.rocks/entities/ftsoDataProvider) (currently supporting only Songbird and testnets for FTSOv2), and [FTSO monitor](https://flare-ftso-monitor.flare.network/data-providers) for FTSOv1. Run one of the following from the root directory:
 ```
-python data_scripts/flare_metrics_ftso.py
-python data_scripts/sys_explorer_ftso.py
+poetry run python data_scripts/flare_metrics_ftso.py
+poetry run python data_scripts/sys_explorer_ftso.py
 ```
 Note that the `flare_metrics_ftso.py` script will import Flare network data by default. If songbird data is needed instead, the `network` parameter within `flare_metrics_ftso.py` should be changed before running the script.
 
 For FTSOv2, one can further uses the Flare Systems Explorer to extract data for a specific reward epoch by running (make sure to set the desired reward epoch id within the python script -- check the [Systems Explorer](https://songbird-systems-explorer.flare.rocks/reward-epoch) for the desired epochs)
 ```
-python data_scripts/sys_explorer_epoch.py
+poetry run python data_scripts/sys_explorer_epoch.py
 ```
 
 
