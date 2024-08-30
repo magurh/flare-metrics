@@ -6,6 +6,9 @@ description = ""
 authors = ["magurh <magureanuhoria@gmail.com>"]
 readme = "README.md"
 
+[tool.poetry.scripts]
+
+
 [tool.poetry.dependencies]
 python = "^3.12"
 numpy = "^2.1.0"
@@ -13,6 +16,7 @@ pandas = "^2.2.2"
 requests = "^2.32.3"
 bs4 = "^0.0.2"
 jupyterlab = "^4.2.4"
+matplotlib = "^3.9.2"
 
 
 [build-system]

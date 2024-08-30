@@ -34,19 +34,34 @@ if response.status_code == 200:
         
      # Extract relevant information and create a list of dictionaries
     records = []
+
     for item in data['results']:
-        record = {
-            'Name': item['display_name'],
-            'Address': item['identity_address']['address'],
-            'Active': item['providersuccessrate']['active'],
-            'Registration_weight': item['providersuccessrate']['registration_weight'],
-            'Primary (%)': int(item['providersuccessrate']['primary_bips']) / 100,
-            'Secondary (%)': int(item['providersuccessrate']['secondary_bips']) / 100,
-            'Availability (%)': int(item['providersuccessrate']['availability_bips']) / 100,
-            'Total reward': item['rewards']['total_reward'],
-            'Current earnings': item['rewards']['current_earnings'],
-            'Reward rate': item['rewards']['reward_rate'],
-        }
+        if item['providersuccessrate'] is not None:
+            record = {
+                'Name': item['display_name'],
+                'Address': item['identity_address']['address'],
+                'Active': item['providersuccessrate']['active'],
+                'Registration_weight': item['providersuccessrate']['registration_weight'],
+                'Primary (%)': int(item['providersuccessrate']['primary']) / 100,
+                'Secondary (%)': int(item['providersuccessrate']['secondary']) / 100,
+                'Availability (%)': int(item['providersuccessrate']['availability']) / 100,
+                'Total reward': item['rewards']['total_reward'],
+                'Current earnings': item['rewards']['current_earnings'],
+                'Reward rate': item['rewards']['reward_rate'],
+            }
+        else:
+            record = {
+                'Name': item['display_name'],
+                'Address': item['identity_address']['address'],
+                'Active': float('nan'),
+                'Registration_weight': float('nan'),
+                'Primary (%)': float('nan'),
+                'Secondary (%)': float('nan'),
+                'Availability (%)': float('nan'),
+                'Total reward': item['rewards']['total_reward'],
+                'Current earnings': item['rewards']['current_earnings'],
+                'Reward rate': item['rewards']['reward_rate'],
+            }    
         records.append(record)
     
     # Convert the list of dictionaries into a DataFrame
