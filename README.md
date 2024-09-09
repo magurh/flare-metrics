@@ -51,26 +51,21 @@ To add new dependencies, use: `poetry add dependency`.
 
 ## Web scrapping
 
-There are two types of data that one can import: validator data which refers to the validator nodes on the P-chains, and FTSO data for the data providers on the C-chains. To import validator data, navigate to the root directory, activate the virtual environment with `poetry shell` and run:
+There are two types of data that one can import: validator data which refers to the validator nodes on the P-chains, and FTSO data for the data providers on the C-chains. To import validator data, navigate to the root directory and run:
 ```
-python data_scripts/flare_metrics_validator.py
+poetry run collect-validators flare-metrics
 ```
-Alternatively, one can run the script without manually activating the shell using:
-```
-poetry run python data_scripts/flare_metrics_validator.py
-```
-The same applies to the other scripts. This will create a dataframe within the `data` sub-directory, with information about all current validators on Flare.
+where in the above example flare-metrics is used as the source for the validator data. This will create a dataframe within the `data` sub-directory, with information about all current validators on Flare.
 
 For FTSO data, there are multiple available sources: [flaremetrics.io](flaremetrics.io), [Flare Systems Explorer](https://songbird-systems-explorer.flare.rocks/entities/ftsoDataProvider) (currently supporting only Songbird and testnets for FTSOv2), and [FTSO monitor](https://flare-ftso-monitor.flare.network/data-providers) for FTSOv1. Run one of the following from the root directory:
 ```
-poetry run python data_scripts/flare_metrics_ftso.py
-poetry run python data_scripts/sys_explorer_ftso.py
+poetry run collect-ftso <source> <network>
 ```
-Note that the `flare_metrics_ftso.py` script will import Flare network data by default. If songbird data is needed instead, the `network` parameter within `flare_metrics_ftso.py` should be changed before running the script.
+Currently supported sources are `flare-metrics` and `sys-explorer`, with available networks `flr` and `sgb`.
 
-For FTSOv2, one can further uses the Flare Systems Explorer to extract data for a specific reward epoch by running (make sure to set the desired reward epoch id within the python script -- check the [Systems Explorer](https://songbird-systems-explorer.flare.rocks/reward-epoch) for the desired epochs)
+For FTSOv2, one can further uses the Flare Systems Explorer to extract data for a specific reward epoch by running -- check the [Systems Explorer](https://songbird-systems-explorer.flare.rocks/reward-epoch) for the desired epochs:
 ```
-poetry run python data_scripts/sys_explorer_epoch.py
+poetry run collect-epoch 220
 ```
 
 

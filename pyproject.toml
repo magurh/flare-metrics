@@ -1,13 +1,14 @@
 [tool.poetry]
-package-mode = false
-name = "flare-metrics"
+name ="flare_metrics"
 version = "0.1.0"
 description = ""
 authors = ["magurh <magureanuhoria@gmail.com>"]
 readme = "README.md"
 
 [tool.poetry.scripts]
-
+collect-epoch = "flare_metrics.sys_explorer_epoch:main"
+collect-validators = "flare_metrics.collect_validators:main"
+collect-ftso = "flare_metrics.ftso_collect:main"
 
 [tool.poetry.dependencies]
 python = "^3.12"
@@ -17,6 +18,7 @@ requests = "^2.32.3"
 bs4 = "^0.0.2"
 jupyterlab = "^4.2.4"
 matplotlib = "^3.9.2"
+argparse = "^1.4.0"
 
 
 [build-system]
