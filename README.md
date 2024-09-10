@@ -33,20 +33,12 @@ Poetry is used for dependency management. Whenever new dependencies are added, r
 ```
 poetry install
 ```
-To use Jupyter Lab, set the kernel to the fast-updates-monitoring environment created by poetry:
+To use Jupyter Lab, set the kernel to the flare-metrics environment created by poetry and run:
 ```
-poetry run python -m ipykernel install --user --name=fast-updates-analysis
-```
-Open Jupyter lab as follows:
-```
+poetry run python -m ipykernel install --user --name=flare-metrics
 poetry run jupyter lab
 ```
-For simply activating the virtual environment, run:
-```
-poetry shell
-```
-
-To add new dependencies, use: `poetry add dependency`.
+For simply activating the virtual environment, run `poetry shell`. To add new dependencies, use: `poetry add <dependency>`.
 
 
 ## Web scrapping
